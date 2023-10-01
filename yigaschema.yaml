@@ -1,77 +1,175 @@
 icons:
-  schemastone:
-    use: ./schemastone.png
+  yigaschema:
+    use: ./yigaschema.png
 presets:
-  _SchemaStone:
-    Josha:
-      coord: [-238.97, 132.32, 147.92]
-      text: Josha
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_BaseCamp_Assistant
-      hash_id: '0x41b91c5aeed832f4'
-    HebraMine:
-      coord: [-3480.97, -311.71, 1884.26]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0025
-      hash_id: '0xcd6f95b9d4cf6bf7'
-    GerudoMine:
-      coord: [-3848.86, -382.57, -2945.48]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0022
-      hash_id: '0x79c12359dc33a43b'
-    KaraKaraMine:
-      coord: [-3207.99, -370.17, -2472.19]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0003
-      hash_id: '0x6e8b8b779585133b'
-    CentralMine:
-      coord: [-812.74, -417.83, -1956.28]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0021
-      hash_id: '0xff512360e4d483fd'
-    EldinMine:
-      coord: [1639.75, -718.8, 2395.51]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0006
-      hash_id: '0x549249cd3b45eaa0'
-    KakarikoMine:
-      coord: [1795.7, -523.91, -1229.32]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0008
-      hash_id: '0x6d7fc79fed360a5b'
-    LurelinMine:
-      coord: [2945.76, -348.38, -3339.68]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0010
-      hash_id: '0x52ac5f4240fb40c1'
-    TarreyMine:
-      coord: [3987.67, -471.05, 1580.83]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0007
-      hash_id: '0xcddf6a9eee69c07f'
-    LanayruMine:
-      coord: [3256.12, -645.15, 594.22]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0024
-      hash_id: '0xff85c7e22c47432d'
-    HatenoMine:
-      coord: [3561.93, -482.69, -2207.73]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_Minus0009
-      hash_id: '0xb09285f90ca0c4c8'
-    ShrineOfResurrection:
-      coord: [-1120.88, 207.27, -1901.36]
-      text: Steward Construct
-      icon: {doc: schemastone, map: schemastone, priority: 1}
-      comment: Npc_Zonau_Golem_Servant_MainField0001
-      hash_id: '0xb6748bd6f29f48f1'
+  _YigaSchema:
+    SmokeRocket:
+      coord: [-4457.43, -756.27, -993.51]
+      text: Smoke Rocket Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x2bacf34ed4e27d05'
+    RaidingPlane:
+      coord: [-4547.34, -384.24, -2170.89]
+      text: Raiding Plane Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x3542c1c798496037'
+    Excavator:
+      coord: [-3709.5, -677.22, 3099.58]
+      text: Excavator Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xf0992eb7665b0e16'
+    All-PurposeRaft:
+      coord: [-3380.38, -513.66, 665.86]
+      text: All-Purpose Raft Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xeea193289f757391'
+    InstantScaffold:
+      coord: [-3404.43, -376.95, -222.32]
+      text: Instant Scaffold Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x07ea42283cf8c7ec'
+    Fanboat:
+      coord: [-3075.11, -808.09, -1580.84]
+      text: Fanboat Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xba49477be8690722'
+    VerticalEscape:
+      coord: [-3262.13, -389.36, -3779.93]
+      text: Vertical Escape Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xf75b00cf25a40377'
+    Floodlights:
+      coord: [-2864.42, -826.41, 2918.62]
+      text: Floodlights Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x22a86381e0a27341'
+    FlamethrowerBalloon:
+      coord: [-2822.4, -460.38, 901.3]
+      text: Flamethrower Balloon Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x43a3364e6b4609c8'
+    ShockTrap:
+      coord: [-2694.24, -362.31, -2881.98]
+      text: Shock Trap Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xc79f14e37a11d405'
+    BeamTurret:
+      coord: [-2410.01, -288.73, -3484.71]
+      text: Beam Turret Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xa696c7ee8c95fe60'
+    WhirlingBasher:
+      coord: [-1751.35, -574.25, 3106.32]
+      text: Whirling Basher Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x995ceadb865c6172'
+    SprinklerSystem:
+      coord: [-1903.18, -576.69, 2095.2]
+      text: Sprinkler System Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x38280ddb49ed5feb'
+    CargoCarrier:
+      coord: [-1332.32, -492.42, 1497.64]
+      text: Cargo Carrier Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x72cbbe9efc528454'
+    BombBouquet:
+      coord: [-1621.53, -377.36, 246.6]
+      text: Bomb Bouquet Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x65a460e73d34ba05'
+    ThreeWheeler:
+      coord: [-1856.01, -421.6, -736.47]
+      text: Three Wheeler Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x50c7fd9fece52f83'
+    Monocycle:
+      coord: [-1224.91, -374.76, -2611]
+      text: Monocycle Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x88772d1b13030cdf'
+    FishingTrawler:
+      coord: [-398.13, -517.78, 1776.06]
+      text: Fishing Trawler Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xbca281503a7d2d09'
+    ChargedCharger:
+      coord: [621.53, -434.68, 3698.66]
+      text: Charged Charger Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x9cfd89351e407239'
+    AerialCannon:
+      coord: [131.04, -528.81, 2868.27]
+      text: Aerial Cannon Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xb01b14f566966b02'
+    BeamSpinner:
+      coord: [247.24, -381, -2171.4]
+      text: Beam Spinner Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xa7d09d4c1442d3f4'
+    WaterFreezer:
+      coord: [417.51, -393.23, -3672.59]
+      text: Water Freezer Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x4f86afb0fae130d4'
+    Rainmaker:
+      coord: [1539.27, -333.76, 691.91]
+      text: Rainmaker Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x66cef15de39a9879'
+    InstantKitchen:
+      coord: [1168.49, -303.21, 599.64]
+      text: Instant Kitchen Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x6d1010cfa4ea9920'
+    BigRig:
+      coord: [2667.09, -486.28, 1577.82]
+      text: Big Rig Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xc88b59ad7f503150'
+    SuperSpring:
+      coord: [2542.47, -370.62, -545.1]
+      text: Super Spring Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x7b366dc12514565f'
+    ScatterTrap:
+      coord: [2077.77, -358.69, -1626.48]
+      text: Scatter Trap Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x07a6b26411b5ec14'
+    LiftoffGlider:
+      coord: [2963.28, -402.16, -2571.79]
+      text: Liftoff Glider Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x654f95b0e0285eab'
+    AssaultCart:
+      coord: [3274.77, -555.17, 3697.09]
+      text: Assault Cart Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x5871d57aa402574e'
+    Wagon:
+      coord: [3605.84, -372.6, 2281.19]
+      text: Wagon Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0xf36edbd7f5401fad'
+    Icebreaker:
+      coord: [3618.49, -349.8, -570.47]
+      text: Icebreaker Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x697f835b04a75685'
+    Tank:
+      coord: [3261.97, -552.26, -1446.42]
+      text: Tank Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x0e68d3ec8e03dd42'
+    HeadlightRaft:
+      coord: [4111.82, -505.51, 3215.62]
+      text: Headlight Raft Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x79bd2de04dfda7a7'
+    TripleCannon:
+      coord: [4412.89, -603.62, 637.94]
+      text: Triple Cannon Schematic
+      icon: {doc: yigaschema, map: yigaschema, priority: 1}
+      hash_id: '0x2c45d1b83b583fa8'
