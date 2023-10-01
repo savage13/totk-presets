@@ -7,7 +7,7 @@ Tears of the Kingdom presets for [Celer](https://github.com/Pistonite/celer)
 ### Add Presets
 ```yaml
 config:
-- use: savage13/totk-presets/tower.yaml
+- use: savage13/totk-presets/towers.yaml
 - use: savage13/totk-presets/shrines.yaml
 - use: savage13/totk-presets/lightroots.yaml
 - use: savage13/totk-presets/koroks.yaml
