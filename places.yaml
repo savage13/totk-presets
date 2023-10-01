@@ -1,0 +1,142 @@
+presets:
+  _Place:
+    LookoutLanding:
+      coord: [-254.11993, 123.44666, 101.601685]
+      text: Lookout Landing
+      hash_id: '0xbd650fe9ba74264e'
+    KorokForest:
+      coord: [419, 0, 2140]
+      text: Korok Forest
+      hash_id: '0x63802624de8d84d8'
+    GerudoTown:
+      coord: [-3844.5, 149.16891, -2926.1965]
+      text: Gerudo Town
+      hash_id: '0x69e2b123ca73cfcc'
+    GoronCity:
+      coord: [1657.252, 445.63025, 2440]
+      text: Goron City
+      hash_id: '0xc1e972d834436487'
+    HatenoVillage:
+      coord: [3545.0286, 337.0344, -2089.9172]
+      text: Hateno Village
+      hash_id: '0xd3dc2c673a44db58'
+    KakarikoVillage:
+      coord: [1817.4299, 224.45522, -988.03906]
+      text: Kakariko Village
+      hash_id: '0x7e74d031507528c9'
+    RitoVillage:
+      coord: [-3620.765, 208.672, 1799.816]
+      text: Rito Village
+      hash_id: '0xe668b48df1d49939'
+    LurelinVillage:
+      coord: [3007.3096, 142.49794, -3473.6292]
+      text: Lurelin Village
+      hash_id: '0xea57fc3ec1a0e9f3'
+    TarreyTown:
+      coord: [3965.6387, 233.23712, 1611.1797]
+      text: Tarrey Town
+      hash_id: '0x58d92aea168a5ffe'
+    ZorasDomain:
+      coord: [3330.607, 242.662, 545.1057]
+      text: Zora's Domain
+      hash_id: '0x4ab4e198672b7204'
+    FoothillStable:
+      coord: [2613.332, 253.78871, 1143.5127]
+      text: Foothill Stable
+      hash_id: '0xfc2b98c69c3044f0'
+    DuelingPeaksStable:
+      coord: [1760.7805, 131.28427, -1925.3597]
+      text: Dueling Peaks Stable
+      hash_id: '0x57cc50eed0f1d8d2'
+    LakesideStable:
+      coord: [1552.0227, 210.56248, -3537.839]
+      text: Lakeside Stable
+      hash_id: '0x3370bc5c656849ae'
+    HighlandStable:
+      coord: [529.6001, 200.5581, -3450.8826]
+      text: Highland Stable
+      hash_id: '0x3370bc5cceaf9512'
+    WoodlandStable:
+      coord: [1062.303, 171.95836, 1135.3392]
+      text: Woodland Stable
+      hash_id: '0x3370bc5c0afa23c4'
+    GerudoCanyonStable:
+      coord: [-2803.8118, 178.58574, -2225.7651]
+      text: Gerudo Canyon Stable
+      hash_id: '0x3370bc5c425deca0'
+    OutskirtStable:
+      coord: [-1449.4932, 181.41899, -1269.0115]
+      text: Outskirt Stable
+      hash_id: '0x3370bc5c09351dde'
+    NewSerenneStable:
+      coord: [-1361, 191.5, 724]
+      text: New Serenne Stable
+      hash_id: '0x654fe23b54a4a389'
+    WetlandStable:
+      coord: [888.06165, 175.9657, -173.6723]
+      text: Wetland Stable
+      hash_id: '0x3370bc5c9d2769a2'
+    RiversideStable:
+      coord: [339.23242, 145.31248, -1095.2969]
+      text: Riverside Stable
+      hash_id: '0x3370bc5c18bf3706'
+    TabanthaBridgeStable:
+      coord: [-2931.5676, 319.16226, 547.598]
+      text: Tabantha Bridge Stable
+      hash_id: '0x3370bc5c0b9fd85b'
+    SnowfieldStable:
+      coord: [-1654.8828, 382.02264, 2572.1565]
+      text: Snowfield Stable
+      hash_id: '0x3370bc5c4d1bfe93'
+    EastAkkalaStable:
+      coord: [4230.5225, 275.28958, 2745.643]
+      text: East Akkala Stable
+      hash_id: '0x3370bc5c30b012e6'
+    SouthAkkalaStable:
+      coord: [3148.6758, 338.6398, 1691.4481]
+      text: South Akkala Stable
+      hash_id: '0xdd5e8fa532fac84c'
+    HyruleCastle:
+      coord: [-253.9455, 485.46143, 1061.9055]
+      text: Hyrule Castle
+      hash_id: '0xe6511fd43f0739a1'
+    YigaClanHideout:
+      coord: [-3611.611, 436.26855, -1353.2732]
+      text: Yiga Clan Hideout
+      hash_id: '0xdd33e955366b5482'
+    SouthernMine:
+      coord: [1657.8856, 378.49695, 1973.8516]
+      text: Southern Mine
+      hash_id: '0x69e2b123cc0b5c17'
+    HudsonConstructionSite:
+      coord: [3723.7278, 219.23093, 1611.9355]
+      text: Hudson Construction Site
+      hash_id: '0x1847d2a312d42b2e'
+    FlightRange:
+      coord: [-3852.728, 95.322754, 2289.992]
+      text: Flight Range
+      hash_id: '0xb6498cafd4e8df0d'
+    BedrockBistro:
+      coord: [1750.5, 390.5, 1549]
+      text: Bedrock Bistro
+      hash_id: '0xfa0826eb7e816fef'
+    ForgottenTemple:
+      coord: [-1387.6963, 0, 2293.1523]
+      text: Forgotten Temple
+      hash_id: '0xa1cd096646432bbd'
+    YunoboCoHQ:
+      coord: [1601.561, 517.4956, 2832.3718]
+      text: YunoboCo HQ
+      hash_id: '0x0f67e593ff121fd5'
+    LuckyCloverGazette:
+      coord: [-3255.8406, 256.60178, 1757.5853]
+      text: Lucky Clover Gazette
+      hash_id: '0xd3a203a547bf9d9e'
+    KaraKaraBazaar:
+      coord: [-3237, 0, -2556]
+      text: Kara Kara Bazaar
+      hash_id: '0x9dc46d3a1274f13e'
+    LinksHouse:
+      coord: [4208.199, 313.44818, 1379.9225]
+      text: Link's House
+      hash_id: '0x72641fe2639788dc'

@@ -1,0 +1,185 @@
+icons:
+  dispenser:
+    use: ./dispenser.png
+presets:
+  _Dispenser:
+    S00:
+      coord: [-3612.14501953125, 1761.0838623046875, 1066.3760986328125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Mirror, Balloon, Spring, Wing, Hover Stone
+      hash_id: '0x98dd7a36433f4e06'
+    S01:
+      coord: [2320.989990234375, 1590.1898193359375, -1718.796630859375]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Homing Cart, Beam Emitter, Flame Emitter, Frost Emitter, Time Bomb
+      hash_id: '0x9a4200718fda2acc'
+    S02:
+      coord: [1390.920654296875, 522.4623413085938, -3239.024169921875]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Wing, Cart, Fan, Steering Stick
+      hash_id: '0xa6f7bb93517b705e'
+    S03:
+      coord: [769.092041015625, 1684.458984375, -1259.5401611328125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Flame Emitter, Wing, Fan, Portable Pot
+      hash_id: '0x1131f581931904d4'
+    S04:
+      coord: [-1705.080078125, 1053.4794921875, 3371.393798828125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Wing, Sled, Fan, Cart, Light
+      hash_id: '0x11fae15152e18cab'
+    S05:
+      coord: [1344.172607421875, 689.9794921875, -2151.279541015625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Construct Head, Cart, Balloon, Stabilizer, Hydrant
+      hash_id: '0x12d241830b187564'
+    S06:
+      coord: [435.44427490234375, 1547.82080078125, -1686.1851806640625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Flame Emitter, Fan, Portable Pot
+      hash_id: '0xd304e633d81ebd35'
+    S07:
+      coord: [4675.3134765625, 1894.4794921875, -1029.6307373046875]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Frost Emitter, Wing, Battery, Mirror
+      hash_id: '0xd66f2a598c8acb66'
+    G00:
+      coord: [-1619.7186279296875, 107.4786148071289, -1888.9764404296875]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Stake, Big Wheel, Spring, Portable Pot, Battery
+      hash_id: '0xd6a8d9355b7d23ea'
+    S08:
+      coord: [3430.200439453125, 1421.6004638671875, 636.958740234375]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Fan, Hover Stone, Wing, Battery, Stabilizer
+      hash_id: '0xd826c89588d8326a'
+    G01:
+      coord: [3807.617919921875, 195.44741821289062, 1561.541259765625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Fan, Small Wheel, Balloon, Big Wheel, Rocket, Steering Stick
+      hash_id: '0xdf050028fa61f710'
+    S09:
+      coord: [443.35638427734375, 1925.4794921875, 2821.7724609375]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Shock Emitter, Light, Steering Stick, Homing Cart
+      hash_id: '0xe3615d0b1d98686d'
+    S10:
+      coord: [-1212.886962890625, 1112.4267578125, -1585.2501220703125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Time Bomb, Small Wheel, Light, Rocket
+      hash_id: '0xf1eefc70f1021796'
+    S11:
+      coord: [-3803.229248046875, 807.336181640625, 2766.939697265625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Rocket, Flame Emitter, Portable Pot, Time Bomb
+      hash_id: '0xf523af194a6d0f28'
+    S12:
+      coord: [4557.787109375, 1259.6009521484375, 2076.31298828125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Hover Stone, Time Bomb, Homing Cart, Hydrant
+      hash_id: '0xfb6c127677254c01'
+    S13:
+      coord: [-3455.3115234375, 1799.5528564453125, 393.5799560546875]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Wing, Frost Emitter, Small Wheel, Mirror
+      hash_id: '0xfc723b05bc77cca8'
+    G02:
+      coord: [1838.052978515625, 260.22393798828125, -1093.6290283203125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Balloon, Fan, Big Wheel, Stabilizer
+      hash_id: '0xfcba4ea2d464e400'
+    S14:
+      coord: [1778.3809814453125, 1022.69384765625, -1096.4464111328125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Cannon, Wing, Spring, Time Bomb
+      hash_id: '0xfe7ee10dfeb3cce7'
+    S15:
+      coord: [215.11813354492188, 859.6864624023438, 1981.921875]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Light, Flame Emitter, Battery, Construct Head
+      hash_id: '0x1b66dc9c92a3880f'
+    S16:
+      coord: [-1771.541259765625, 1253.4794921875, -2019.2620849609375]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Beam Emitter, Sled, Mirror, Steering Stick, Stake
+      hash_id: '0x26d1a80599de4a7c'
+    S17:
+      coord: [2851.89404296875, 1316.6044921875, -2958.556884765625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Steering Stick, Small Wheel, Cannon, Light
+      hash_id: '0x2e496818370dc5b6'
+    S18:
+      coord: [1104.4814453125, 932.9644165039062, -3331.83642578125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Shock Emitter, Fan, Portable Pot, Battery
+      hash_id: '0x45cbf2f71151a212'
+    S19:
+      coord: [1983.384765625, 1355.6827392578125, 1221.953857421875]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Big Wheel, Hydrant, Battery, Fan
+      hash_id: '0x4bb99b31b6ac4877'
+    S20:
+      coord: [3755.34326171875, 1262.4793701171875, 1542.743896484375]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Homing Cart, Stake, Cart, Cannon, Construct Head
+      hash_id: '0x4df90d55a411e90d'
+    S21:
+      coord: [-2370.5458984375, 716.0794067382812, 781.6613159179688]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Balloon, Fan, Portable Pot, Time Bomb
+      hash_id: '0x5b3cd1e9715c10f2'
+    S22:
+      coord: [2915.6572265625, 1055.8607177734375, 502.27838134765625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Cart, Wing, Fan, Beam Emitter
+      hash_id: '0x6cb69c9a01ad612a'
+    S23:
+      coord: [-3457.10107421875, 2048.4951171875, -373.6962585449219]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Stake, Shock Emitter, Sled, Stabilizer, Frost Emitter
+      hash_id: '0x0121f7444eb1cf37'
+    S24:
+      coord: [4510.5986328125, 1221.7044677734375, -805.6314086914062]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Spring, Hydrant, Beam Emitter, Steering Stick
+      hash_id: '0x82bb769fa9cc7bc0'
+    D00:
+      coord: [2190.6142578125, -857.7455444335938, 2640.770751953125]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Big Wheel, Steering Stick, Portable Pot, Battery
+      hash_id: '0x12f5bdcc38ae54ba'
+    D01:
+      coord: [1058.038818359375, -447.9834289550781, -2320.69775390625]
+      text: Device Dispenser
+      icon: {doc: dispenser, map: dispenser, priority: 1}
+      comment: Wing, Small Wheel, Big Wheel, Rocket, Steering Stick, Construct Head
+      hash_id: '0xfa73260397dee5d7'

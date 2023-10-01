@@ -1,0 +1,441 @@
+icons:
+  ememy:
+    use: ./enemy.png
+presets:
+  _Enemy:
+    Talus:
+      GH01:
+        coord: [-4432.53, 391.77, 3386.98]
+        text: Frost Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xd749fc185ec6d994'
+      GH03:
+        coord: [-4499.82, 217.95, 2450.39]
+        text: Frost Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x63741442866c367d'
+      GH04:
+        coord: [-4393.3, 217.01, 1935.44]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa2d02d120bda48f8'
+      GG03:
+        coord: [-3987.39, 415.7, -1703.11]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xff4ac66752f905d8'
+      GG01:
+        coord: [-4321.17, 493.29, -1203.48]
+        text: Frost Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5362d688057fdee4'
+      GR02:
+        coord: [-3386.52, 305.43, 1076.03]
+        text: Stone Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x6b77e245cd34e745'
+      GR01:
+        coord: [-3108.95, 261.84, 1287.41]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x79445515edd8fce0'
+      GR05:
+        coord: [-3491.19, 0.2, 171.04]
+        text: Stone Talus (Rare) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1c7c244509c54893'
+      GR04:
+        coord: [-3297.78, 295.02, 649.46]
+        text: Stone Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x22fa11f872a60293'
+      GH02:
+        coord: [-2685.31, 346.34, 3352.92]
+        text: Frost Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xfce90880b22692e1'
+      GC03:
+        coord: [-2859.64, 117.11, -521.29]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x91196803c773911b'
+      GC04:
+        coord: [-2220.96, 372.98, -584.75]
+        text: Stone Talus (Luminous) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4e4e6c7d9cae26a6'
+      GR06:
+        coord: [-2549.97, 233.92, -111.19]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2a3accc147bccd6e'
+      GG02:
+        coord: [-2832.68, 657.48, -1326.5]
+        text: Frost Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2d79c00e2ff30915'
+      GG05:
+        coord: [-2306.2, 463.01, -2453.25]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xaf929368fea0a7ac'
+      GR03:
+        coord: [-1447.52, 242.71, 1026.16]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x74ec48d8ba87a935'
+      GC05:
+        coord: [-1363.55, 115.52, -789.26]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe875af7d3147dab4'
+      GC07:
+        coord: [-1091.63, 179.29, -1659.36]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2d602ffeb7e15f1d'
+      GT02:
+        coord: [-394.11, 253.1, 2955.79]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xefedeffc84eafebd'
+      GC01:
+        coord: [-769.93, 152.43, 811.48]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x8e372f5fc7b6301e'
+      GC06:
+        coord: [-108.73, 140.85, -802.02]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc8344ccd6156d492'
+      GT01:
+        coord: [703.36, 200.14, 3692.48]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4623f33dad0e444c'
+      GT03:
+        coord: [97.53, 281.23, 2370]
+        text: Stone Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe0af4938ab75ee65'
+      GK02:
+        coord: [677.46, 134.38, 505.96]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xbaf3305cb95b2dd0'
+      GC02:
+        coord: [202.12, 133.28, 530.8]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x095e11fc2cbfa049'
+      GF01:
+        coord: [769.78, 129.7, -1222.98]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2322a8bebd0f7fe3'
+      GF02:
+        coord: [587.39, 170.19, -1934.18]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x8e303aa742bbb13d'
+      GF06:
+        coord: [524.28, 164.53, -3710.4]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x54bf1eb01da20d3f'
+      GE03:
+        coord: [1943.57, 527.24, 3194.21]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x40773b763ffbef3f'
+      GE07:
+        coord: [1291, 359.66, 1717]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe241e1adda0a241f'
+      GK04:
+        coord: [1256.26, 214.63, -1164.91]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x8bbc0e002d24b183'
+      GF04:
+        coord: [1018.71, 128.54, -3383.13]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xdd08e05aa506f3d0'
+      GF05:
+        coord: [1825.59, 132.59, -3495.33]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf07235d51ce7dea0'
+      GE02:
+        coord: [2710.32, 345.03, 3303.08]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5bd5ecba112d0b4f'
+      GE01:
+        coord: [2479.12, 431.16, 3637.12]
+        text: Igneo Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf69acea5647aa9dc'
+      GE05:
+        coord: [2014.5, 564.31, 2397.5]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5105fff8f991a876'
+      GE06:
+        coord: [2215, 420.91, 1780]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x6b92378d94f4ede4'
+      GA04:
+        coord: [2973.52, 390.09, 1488.47]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x07613da693074980'
+      GZ02:
+        coord: [2483.14, 171.63, 908.03]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xecefb79d9e415512'
+      GZ01:
+        coord: [3951.37, 348.58, 1188.88]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3ef49f0bd3563b0f'
+      GL02:
+        coord: [3028.71, 112.74, -1778.32]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe64dbd63e0d23353'
+      GL03:
+        coord: [3195.44, 171.59, -2958.09]
+        text: Stone Talus (Luminous) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1865a6ec7c7861e6'
+      GL04:
+        coord: [3276.87, 132.97, -3408.11]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xcd0989174bf08844'
+      GA01:
+        coord: [4677.88, 107.77, 2998.28]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa002f270c495bb3f'
+      GA02:
+        coord: [4062.73, 255.45, 2972.86]
+        text: Stone Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4eacdd6cc5cfa8b0'
+      GA03:
+        coord: [4180.83, 120.69, 2227.52]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xd2afa346a5eff9e8'
+      GZ04:
+        coord: [4190.79, 456.06, 517.8]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0a62ee59130b8f0d'
+      GL01:
+        coord: [4057.09, 416.87, -1056.14]
+        text: Frost Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x6b23e454797233da'
+      GZ03:
+        coord: [4140.51, 290.34, 543.27]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2b3fe52a6caf1339'
+      GE04:
+        coord: [2630.22, 635.22, 2744.99]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x972b0010ac36c3e3'
+      GG04:
+        coord: [-2599.58, 282.85, -1781.64]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xabd0710e7c9d97f1'
+      GK03:
+        coord: [1482.94, 115.84, -974.86]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x6091ab72cdf594eb'
+      GK01:
+        coord: [574.62, 114.57, 766.05]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0906aa3075dac0b6'
+      SZ05:
+        coord: [3627.83, 2.09, 274.19]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x20c5127954a93fef'
+      SF03:
+        coord: [340.1, 61.32, -1983.74]
+        text: Stone Talus (Luminous) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xd4052bb4d763530a'
+      DH01:
+        coord: [-4432.53, -627.79, 3386.98]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x08873436a743aca3'
+      DH02:
+        coord: [-4499.8, -457.98, 2450.41]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xd60fd39368a2026e'
+      DH04:
+        coord: [-4393.3, -456.72, 1935.44]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0a32e1ff473cf93c'
+      DG01:
+        coord: [-4722.67, -979.72, -390.85]
+        text: Frost Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xbbdd4a7c6dbb7b39'
+      DG02:
+        coord: [-4010.21, -648.69, -1696.2]
+        text: Stone Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x7432b6793ae3c2cb'
+      DH03:
+        coord: [-3629.34, -486.57, 2196.21]
+        text: Frost Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5421edbb6444df5c'
+      DR03:
+        coord: [-3386.52, -543.17, 1076.03]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x7cc43300dbf5f98f'
+      DR02:
+        coord: [-3108.02, -500.09, 1287.7]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc67aacbbedf509c4'
+      DG03:
+        coord: [-3530.62, -379.35, -2443.35]
+        text: Stone Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe7c4e6d2e9d1b674'
+      DR01:
+        coord: [-2635.38, -304.84, 1491.78]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1c76763e93f3b99e'
+      DC02:
+        coord: [-2221, -609.08, -584.72]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2a25c9f78a0f9b4a'
+      DR04:
+        coord: [-2526.82, -471.38, -107.41]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1579a104138da427'
+      DT02:
+        coord: [-394.2, -492.04, 2955.85]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb7ef625e5015d6f6'
+      DC03:
+        coord: [-108.73, -382.21, -802.02]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4d8931b696fc65dc'
+      DC04:
+        coord: [-460.26, -382.32, -1004.68]
+        text: Stone Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xd41f53a00c1c10df'
+      DF01:
+        coord: [-826.02, -432.65, -3349.92]
+        text: Stone Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4e9affef2c0e29f4'
+      DT01:
+        coord: [950.56, -449.85, 3673.3]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x935dae7e00dece65'
+      DC01:
+        coord: [-3.67, -365.63, -12.47]
+        text: Stone Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x25b5939a9e3c435d'
+      DK01:
+        coord: [697.14, -377.19, 513.47]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4f3b9984c6189c54'
+      DE02:
+        coord: [1454.13, -733.13, 3174.56]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc6c0249e7b3f3451'
+      DE04:
+        coord: [1672.48, -621.12, 1610.02]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe3e03f9067a715e9'
+      DK02:
+        coord: [1483.02, -493.04, -975.01]
+        text: Stone Talus (Rare)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc4df9ce9b313c7f7'
+      DF02:
+        coord: [1056.38, -372.31, -3417.4]
+        text: Stone Talus (Luminous) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x6ea9541eac4066e2'
+      DE01:
+        coord: [2479.1, -666.05, 3637.16]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb8a49b6d5aa80473'
+      DE03:
+        coord: [2912.83, -856.98, 2555.56]
+        text: Igneo Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc75e48410dc5cfbd'
+      DA02:
+        coord: [2985, -625.14, 1449]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x51e4d30075bc4407'
+      DL03:
+        coord: [2642.18, -422.83, -1942.76]
+        text: Frost Talus (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x84e046fe19498890'
+      DL02:
+        coord: [3028.87, -354.99, -1778.51]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x31ce610b1b72745a'
+      DL04:
+        coord: [3276.87, -374.99, -3408.1]
+        text: Battle Talus
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0393ea18be1dcfbd'
+      DA01:
+        coord: [4677.84, -350.03, 2998.33]
+        text: Stone Talus (Luminous)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x153c7a1611df1b0b'
+      DZ01:
+        coord: [4190.79, -690.4, 517.8]
+        text: Stone Talus (Luminous) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x9ece413ffbba89c7'
+      DL01:
+        coord: [4057.05, -652.92, -1056.16]
+        text: Stone Talus (Luminous) (Butt)
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5850ab403c827598'

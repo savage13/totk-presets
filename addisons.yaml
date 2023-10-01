@@ -1,0 +1,410 @@
+icons:
+  addison:
+    use: ./sign.png
+presets:
+  _Addison:
+    A00:
+      coord: [-4112.94, 130.72, 2758.5]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x70d0ac829afa29d1'
+    A01:
+      coord: [-4108, 560.55, -1388.5]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xac8dfd4892ec1064'
+    A02:
+      coord: [-3612.91, 249.71, 2187.6]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xf63328e966a44b29'
+    A03:
+      coord: [-3255.98, 553.14, 2570.86]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x7ce90c4cf9bc1d28'
+    A04:
+      coord: [-3133.56, 324.41, 1224.21]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xea228bcd84f57195'
+    A05:
+      coord: [-3559.01, 243.2, 1549.37]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x58066ae9cc5c7e30'
+    A06:
+      coord: [-3320.52, 275.56, 505.29]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x7dfc58d391aaaa1a'
+    A07:
+      coord: [-3382.06, 173.65, -219.66]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xb12f5cc2bc50e436'
+    A08:
+      coord: [-3438, 160.66, -3122.97]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x795394aa6853aacd'
+    A09:
+      coord: [-2211.21, 495.94, 2929.07]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x1e2ea6eea615f9af'
+    A10:
+      coord: [-2700.11, 414.16, 771.4]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xd6e50a904b1498d6'
+    A11:
+      coord: [-2504, 250.96, 190]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x2cdabb21b0740be2'
+    A12:
+      coord: [-2675.7, 115.08, -425.69]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x2dae0a784e3f3b42'
+    A13:
+      coord: [-2087, 245.12, -1951.64]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x6b63076055d795c2'
+    A14:
+      coord: [-2395.56, 374.23, -2161.21]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x88ca2b1f6a4c7d78'
+    A15:
+      coord: [-2757.5, 139.31, -2263]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x28fad8cf1e69f736'
+    A16:
+      coord: [-2962.97, 136.1, -3792.97]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xb3f22d628157d6e1'
+    A17:
+      coord: [-1611.5, 347.81, 3339]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x5a5cbfadd5c96e98'
+    A18:
+      coord: [-1869.5, 342.93, 2324]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x36d526832b916afb'
+    A19:
+      coord: [-1075, 286.37, 2797]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x7b4ef5bc17c55313'
+    A20:
+      coord: [-1011.46, 221.31, 2023.4]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x52c54803916367ae'
+    A21:
+      coord: [-1450.65, 245.95, 1176.65]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x5487c62938ff5305'
+    A22:
+      coord: [-1783.39, 255.41, 660.21]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xa9a9392f01d9f7b7'
+    A23:
+      coord: [-1603, 220.42, -490.48]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x054e0c4e09696316'
+    A24:
+      coord: [-1436.5, 143.73, -1059]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x025ad5777d625fd4'
+    A25:
+      coord: [-1608.52, 89.29, -2248.72]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x18edf5f881bf78b7'
+    A26:
+      coord: [-1799.72, 265.32, -2616.3]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x992af038c05e340b'
+    A27:
+      coord: [-1076.19, 262.21, -3350.51]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xef4ab339bd078291'
+    A28:
+      coord: [-458.22, 214.44, 3042.19]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x0775a083f6fc7cbb'
+    A29:
+      coord: [-333.47, 114.89, 1344.26]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x12670c7211a67e49'
+    A30:
+      coord: [-267.5, 126.98, 383]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x04e71b3f13f3fb87'
+    A31:
+      coord: [-754.89, 124.89, 243.42]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x90277e182c6f7068'
+    A32:
+      coord: [-678, 147.31, -863.5]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xcb4bddf41421132c'
+    A33:
+      coord: [-872.5, 128.67, -1471.75]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x898a7779403b7a4d'
+    A34:
+      coord: [-149.75, 124, -2124.93]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x5cf07a31a80e90db'
+    A35:
+      coord: [-204.45, 128.75, -3488.11]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x45ba9e23614ba0ef'
+    A36:
+      coord: [493.11, 283.13, 2939.2]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xcff2a66b38719aa5'
+    A37:
+      coord: [185.53, 133.11, 268.49]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x4e5cf820e38d1059'
+    A38:
+      coord: [674.5, 131.51, 1.46]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x6ef8c1f46cf25d53'
+    A39:
+      coord: [622, 115.34, 381]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x8a51d0b213e3422c'
+    A40:
+      coord: [921.93, 141.91, -995.46]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xfd0db0d8c3e9ad20'
+    A41:
+      coord: [388.89, 120.23, -1273.2]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x66624a2520ef9987'
+    A42:
+      coord: [823.75, 225.96, -2328.5]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xac0c82a7e9005872'
+    A43:
+      coord: [103.82, 91.06, -2673.89]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x78ffced82e203f26'
+    A44:
+      coord: [254.45, 183.19, -3455.7]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x0250007c986f2a38'
+    A45:
+      coord: [1023.76, 380.01, 3110]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xf474dd13ff28caa7'
+    A46:
+      coord: [1572.5, 445.72, 2164]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xf3339731c1f40d7c'
+    A47:
+      coord: [1980.37, 563.89, 2656.01]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x165306cd7acf32e9'
+    A48:
+      coord: [1310.09, 221.45, 1221.69]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x9a8c42b4f5700dbc'
+    A49:
+      coord: [1710, 153.36, 96]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xcdae104e2fbbe2da'
+    A50:
+      coord: [1345.77, 126.82, 800.49]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x9ac24a0527ff904e'
+    A51:
+      coord: [1490, 259.62, -989]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xefe03484f79019d4'
+    A52:
+      coord: [1969, 129.16, -1899]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xa3f0d7b685f83f79'
+    A53:
+      coord: [1595.25, 165.57, -3470.27]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x38d3fe883550084a'
+    A54:
+      coord: [2820.06, 344.14, 3548.59]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x9e2156178428fc30'
+    A55:
+      coord: [2796.97, 775.03, 2654.56]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x6905967649cc682d'
+    A56:
+      coord: [2268.09, 625.64, 2317.1]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x96d92450f68a70d4'
+    A57:
+      coord: [2572.09, 242.19, 1100.32]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x6262fc9b464b6c8e'
+    A58:
+      coord: [2094, 121.73, 216]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x50fba6ce25a07b0a'
+    A59:
+      coord: [2933.13, 458.72, 704.21]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x1aa259403014052a'
+    A60:
+      coord: [2374, 228.67, -678.62]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xaa9aa98e2439914a'
+    A61:
+      coord: [2674.35, 146.08, -1722.16]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xc6fda5df0f2a87aa'
+    A62:
+      coord: [2096.77, 238.26, -1264.53]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x7c03b68e95da69b9'
+    A63:
+      coord: [2615.94, 258.53, -2594.79]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x8c2f9f021e4f14b3'
+    A64:
+      coord: [2213.98, 134.9, -3369.17]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xe1c6dcdc73c52ae6'
+    A65:
+      coord: [3422.12, 314.74, 3525.67]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x7832f9e29db1022e'
+    A66:
+      coord: [3873.41, 159.22, 2475.66]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x0aba53552fd141ee'
+    A67:
+      coord: [3162.5, 309.25, 1625.22]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x16a9efd110615889'
+    A68:
+      coord: [3208.08, 242.36, 131]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xe4661fe1d68bab2c'
+    A69:
+      coord: [3972.6, 137.06, -295.01]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x5d71afde97895b29'
+    A70:
+      coord: [3229, 106.03, -656]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x7027f477f1bf0c85'
+    A71:
+      coord: [3144.92, 175.23, -1818.58]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xadc55a058327fab5'
+    A72:
+      coord: [3141.85, 168.32, -2138.13]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x11dd08c754771a01'
+    A73:
+      coord: [3358.88, 143.45, -3494.43]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xcfbf7fe07769846c'
+    A74:
+      coord: [4449.97, 321.61, 3075.45]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x4f2bccad0f7677b0'
+    A75:
+      coord: [4236.91, 224.06, 2647.61]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x5b1c6145cab7b62d'
+    A76:
+      coord: [4086.43, 201.78, 1874.14]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x26fdbcb5335cb130'
+    A77:
+      coord: [4295.5, 380.84, 578.05]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x6f91ae9d5a01e2a4'
+    A78:
+      coord: [4334, 165.17, -570]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x118aa3c276be57b8'
+    A79:
+      coord: [4102.5, 424.12, -1143.5]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0xabec660dc1ff14ed'
+    A80:
+      coord: [4650.5, 161.27, -2337.17]
+      text: Addison
+      icon: {doc: addison, map: addison, priority: 1}
+      hash_id: '0x65201b78877fa778'

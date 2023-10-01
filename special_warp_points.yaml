@@ -1,0 +1,10 @@
+presets:
+  _Special:
+    StartPosSky:
+      coord: [369.54052734375, 2386.477294921875, -1752.5604248046875]
+      text: StartPos Sky
+      hash_id: '0x7c04e1887ec4fbfe'
+    StartPosDepths:
+      coord: [-821.8097534179688, -417.6648864746094, -1940.6123046875]
+      text: StartPos Depths
+      hash_id: '0xc9feb712f8e96a79'

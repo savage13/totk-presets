@@ -1,0 +1,65 @@
+icons:
+  tear:
+    use: ./tear.png
+presets:
+  _Tear:
+    G00:
+      coord: [-1412.5262, 229.67532, 966.0866]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x3c883feb708b7123'
+    G01:
+      coord: [-2551.3196, 425.117, 1888.54]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x5b3accf32c5acc00'
+    G02:
+      coord: [1828.327, 195.409, 737.5934]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0xcf5d63d7721e04d1'
+    G03:
+      coord: [694.6279, 159.063, -1309.222]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x58a4cf7c2564cf21'
+    G04:
+      coord: [-3178.3652, 524.82, -1699.6873]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x475b58c50e04b44d'
+    G05:
+      coord: [-3096.3342, 317.02173, -77.055695]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x145635362579e5ea'
+    G06:
+      coord: [3325.728, 110.584, -3566.4504]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x687ab5de32bce788'
+    G07:
+      coord: [-1863.6855, 342.62354, 3621.7898]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0xcdcffa960bc64f3f'
+    G08:
+      coord: [4467.702, 180.834, -304.991]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0xc06b9b20c3a9b5fa'
+    G09:
+      coord: [-649.3268, 174.229, -2682.972]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0xaacb6b224c5a80eb'
+    G10:
+      coord: [892.0292, 468.451, 2951.69]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x66e69c1831b0f37a'
+    G11:
+      coord: [4534.677, 106.50118, 2144.0867]
+      text: Dragon Tear
+      icon: {doc: tear, map: tear, priority: 1}
+      hash_id: '0x9057397355f9a68c'

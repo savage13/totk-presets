@@ -1,0 +1,30 @@
+icons:
+  fairy:
+    use: ./fairy.png
+presets:
+  _Fairy:
+    MalanyaSpring:
+      coord: [4296.0547, 254.64032, 3218.7097]
+      text: Malanya Spring
+      icon: {doc: fairy, map: fairy, priority: 1}
+      hash_id: '0x366ce262374b2244'
+    GreatFairyFountain:
+      coord: [1767.6233, 106.05299, -2179.933]
+      text: Great Fairy Fountain
+      icon: {doc: fairy, map: fairy, priority: 1}
+      hash_id: '0xa29fad3e26273878'
+    GreatFairyFountain01:
+      coord: [-1460.471, 406.81018, 2994.8657]
+      text: Great Fairy Fountain
+      icon: {doc: fairy, map: fairy, priority: 1}
+      hash_id: '0xac7845ce321e27aa'
+    GreatFairyFountain02:
+      coord: [-1556.871, 181.50914, -1231.1328]
+      text: Great Fairy Fountain
+      icon: {doc: fairy, map: fairy, priority: 1}
+      hash_id: '0x0888261216890f51'
+    GreatFairyFountain03:
+      coord: [915.68726, 186.65872, 1386.476]
+      text: Great Fairy Fountain
+      icon: {doc: fairy, map: fairy, priority: 1}
+      hash_id: '0xf2c99beb6c09d1c2'

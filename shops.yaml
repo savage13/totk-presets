@@ -1,0 +1,290 @@
+presets:
+  _Shop:
+    CrystalRefinery:
+      coord: [357.1684, 2410.9617, -1651.3439]
+      text: Crystal Refinery
+      hash_id: '0xb4772ef47c0fd234'
+    CrystalRefinery01:
+      coord: [-219.2041, 143.64006, 191.85449]
+      text: Crystal Refinery
+      hash_id: '0x9f14f21df243168d'
+    ForgeConstruct:
+      coord: [470.04074, 1476.3179, -1685.6963]
+      text: Forge Construct
+      hash_id: '0x52c62f0928a9012d'
+    BargainerStatue:
+      coord: [-775.9063, -452.46182, -1899.2446]
+      text: Bargainer Statue
+      hash_id: '0xd381c7ce2d8f5828'
+    BargainerStatue01:
+      coord: [458.3162, -364.95895, -796.50635]
+      text: Bargainer Statue
+      hash_id: '0xb99173dfb6d93e89'
+    BargainerStatue02:
+      coord: [-1032.6471, -161.24677, 2690.373]
+      text: Bargainer Statue
+      hash_id: '0x44417788bf2e14ee'
+    BargainerStatue03:
+      coord: [3850.7712, -745.75946, -1333.9298]
+      text: Bargainer Statue
+      hash_id: '0x418242da6d94e870'
+    BargainerStatue04:
+      coord: [883.0049, -281.0164, -2398.976]
+      text: Bargainer Statue
+      hash_id: '0x14ef032ad1beeb84'
+    BargainerStatue05:
+      coord: [3702.1504, -306.64987, 2604.2031]
+      text: Bargainer Statue
+      hash_id: '0xe4ccc119f427dd2f'
+    SmithingConstruct:
+      coord: [1356.9128, -631.9738, -3375.7468]
+      text: Smithing Construct
+      hash_id: '0x05935ebfa67dc88b'
+    ForgeConstruct01:
+      coord: [-3810.272, -382.39307, -2960.9932]
+      text: Forge Construct
+      hash_id: '0x83e8a248c9351f34'
+    ForgeConstruct02:
+      coord: [-3190.3196, -370.16, -2515.127]
+      text: Forge Construct
+      hash_id: '0xbb710b1ef0c4c5a5'
+    ForgeConstruct03:
+      coord: [3243.8657, -644.9224, 556.71234]
+      text: Forge Construct
+      hash_id: '0xec94fe69d8c590e2'
+    ForgeConstruct04:
+      coord: [-3463.4036, -311.52194, 1917.1039]
+      text: Forge Construct
+      hash_id: '0xf8451c89b2337401'
+    ForgeConstruct05:
+      coord: [1697.77, -718.849, 2382.5151]
+      text: Forge Construct
+      hash_id: '0x6ca1e8f24ebb6f4e'
+    ForgeConstruct06:
+      coord: [3957.3982, -470.833, 1557.1833]
+      text: Forge Construct
+      hash_id: '0x41aa3368063fdaef'
+    ForgeConstruct07:
+      coord: [1767.345, -523.65497, -1178.6145]
+      text: Forge Construct
+      hash_id: '0x61dcd5d8603ca650'
+    ForgeConstruct08:
+      coord: [3526.72, -482.5, -2185.289]
+      text: Forge Construct
+      hash_id: '0xa1bbb62ea0a4df1e'
+    ForgeConstruct09:
+      coord: [2952.7297, -347.531, -3379.3108]
+      text: Forge Construct
+      hash_id: '0x71bc6058fb688f62'
+    ForgeConstruct10:
+      coord: [-856.2312, -417.5296, -1935.3607]
+      text: Forge Construct
+      hash_id: '0x65fdf272fe8200b1'
+    MiniStable:
+      coord: [-1693.1605, 116.157, -1663.9628]
+      text: Mini Stable
+      hash_id: '0x79054a8e7ac5588d'
+    Canteen:
+      coord: [-3856.7778, 153.72743, -2857.138]
+      text: Canteen
+      hash_id: '0x5804faee0de44443'
+    TarreyTownRace:
+      coord: [3744.2988, 198.19153, 1679.4484]
+      text: Tarrey Town Race
+      hash_id: '0x0d38dde890f1a9ee'
+    LurelinWaterRally:
+      coord: [2977.983, 107.3896, -3689.6025]
+      text: Lurelin Water Rally
+      hash_id: '0xba0988b7017a2e08'
+    Restaurant:
+      coord: [2895.1448, 116.79667, -3409.9814]
+      text: Restaurant
+      hash_id: '0x1a755afbf56ba57a'
+    MonsterGallery:
+      coord: [3960.1567, 234.093, 1653.4294]
+      text: Monster Gallery
+      hash_id: '0x2df5c0933d0d6038'
+    HatenoPasture:
+      coord: [3619.2231, 283.28128, -2094.6372]
+      text: Hateno Pasture
+      hash_id: '0x894b5d5f188af315'
+    HatenoSchool:
+      coord: [3366.6836, 247.77373, -1974.6836]
+      text: Hateno School
+      hash_id: '0x17a6046a6c3ca568'
+    MiniStable01:
+      coord: [-248.697, 124.51065, 52.306458]
+      text: Mini Stable
+      hash_id: '0x6f9d17515845687b'
+    ZonaiSurveyTeamBase:
+      coord: [1828.7958, 221.84384, -956.1154]
+      text: Zonai Survey Team Base
+      hash_id: '0x375c5affa2e3ff24'
+    SandSealRentalShop:
+      coord: [-3770, 200, -2925.5]
+      text: Sand-Seal Rental Shop
+      hash_id: '0x780daae30c18f615'
+    SandSealRentalShop01:
+      coord: [-3902, 200, -2882.5]
+      text: Sand-Seal Rental Shop
+      hash_id: '0x6088319db90d92db'
+    SandSealRentalShop02:
+      coord: [-2995.225, 105, -2325.025]
+      text: Sand-Seal Rental Shop
+      hash_id: '0x127a96e26e71036b'
+    BreakaPartShop:
+      coord: [3995, 235.21692, 1637]
+      text: Break-a-Part Shop
+      hash_id: '0x4fc89edc6d0f0785'
+    BargainerStatue06:
+      coord: [-251.26309, 126.1843, 155.2536]
+      text: Bargainer Statue
+      hash_id: '0xaba3dff0d23d6d09'
+    LuckyTreasureShop:
+      coord: [2969.9177, 135.35611, -3377.7117]
+      text: Lucky Treasure Shop
+      hash_id: '0xe9b202025f725352'
+    Inn:
+      coord: [-3850.2532, 200, -2889.0857]
+      text: Inn
+      hash_id: '0x3370bc5ce016cfee'
+    Inn01:
+      coord: [1682.0493, 489.24136, 2424.0217]
+      text: Inn
+      hash_id: '0x3370bc5c265dc53e'
+    Inn02:
+      coord: [3473.248, 247.28516, -2111.2087]
+      text: Inn
+      hash_id: '0x3370bc5cf0fb779c'
+    Inn03:
+      coord: [1835.5686, 240, -1021.7721]
+      text: Inn
+      hash_id: '0x3370bc5c05838d5c'
+    Inn04:
+      coord: [410.8711, 259.6259, 2171.2236]
+      text: Inn
+      hash_id: '0x3370bc5c63f27f8d'
+    Inn05:
+      coord: [-3268.25, 200, -2609.9023]
+      text: Inn
+      hash_id: '0x3370bc5c8b6e526c'
+    Inn06:
+      coord: [-3612.0908, 289.03418, 1852.5349]
+      text: Inn
+      hash_id: '0x3370bc5ca9d34ac7'
+    Inn07:
+      coord: [3999.541, 234.92679, 1596.0153]
+      text: Inn
+      hash_id: '0x353ccee027d157cb'
+    Inn08:
+      coord: [2944.6143, 134.6549, -3437.0312]
+      text: Inn
+      hash_id: '0x3370bc5c04514c15'
+    Inn09:
+      coord: [3296.2275, 245.862, 508.5319]
+      text: Inn
+      hash_id: '0x3370bc5c3218db48'
+    GeneralStore:
+      coord: [-205.76697, 125.37028, 76.56111]
+      text: General Store
+      hash_id: '0x379886cd1bb92eda'
+    GeneralStore01:
+      coord: [-3821.894, 199.99184, -2936.2876]
+      text: General Store
+      hash_id: '0x3370bc5c32ff25d2'
+    GeneralStore02:
+      coord: [-3848.6567, 199.98514, -2903.6155]
+      text: General Store
+      hash_id: '0x3370bc5c468735d8'
+    GeneralStore03:
+      coord: [-3857.5454, 200, -2913.248]
+      text: General Store
+      hash_id: '0x3370bc5c67bb895e'
+    GeneralStore04:
+      coord: [-3823.0176, 199.9956, -2878.6328]
+      text: General Store
+      hash_id: '0x3370bc5cac028347'
+    GeneralStore05:
+      coord: [-3819.9922, 199.98108, -2925.895]
+      text: General Store
+      hash_id: '0x3370bc5cc81a039b'
+    GeneralStore06:
+      coord: [1683.5803, 490.8189, 2463.4885]
+      text: General Store
+      hash_id: '0x3370bc5c30305d71'
+    GeneralStore07:
+      coord: [3360.7812, 238.58984, -2171.5625]
+      text: General Store
+      hash_id: '0x3370bc5cdb0ab527'
+    GeneralStore08:
+      coord: [1825.8577, 235.65366, -1041.0016]
+      text: General Store
+      hash_id: '0x3370bc5c79071008'
+    GeneralStore09:
+      coord: [1794.4828, 235.03549, -1029.2637]
+      text: General Store
+      hash_id: '0x3370bc5cb56079c8'
+    GeneralStore10:
+      coord: [431.8081, 258.35825, 2173.9978]
+      text: General Store
+      hash_id: '0x3370bc5ce9eebd35'
+    GeneralStore11:
+      coord: [-3262.25, 200, -2604.25]
+      text: General Store
+      hash_id: '0x3370bc5c26e45e58'
+    GeneralStore12:
+      coord: [-3277.989, 200, -2564.526]
+      text: General Store
+      hash_id: '0x3370bc5caa5e1096'
+    GeneralStore13:
+      coord: [-3274.012, 200, -2535.995]
+      text: General Store
+      hash_id: '0x3370bc5cf0712689'
+    GeneralStore14:
+      coord: [-3644.6128, 289.87796, 1820.456]
+      text: General Store
+      hash_id: '0x3370bc5c731d437f'
+    GeneralStore15:
+      coord: [4005.821, 234.07605, 1634.1475]
+      text: General Store
+      hash_id: '0x980ad31be516b7f7'
+    GeneralStore16:
+      coord: [2959.3562, 106.84866, -3493.9087]
+      text: General Store
+      hash_id: '0x3370bc5c193338ce'
+    GeneralStore17:
+      coord: [3322.851, 245.462, 490.7429]
+      text: General Store
+      hash_id: '0x3370bc5c1f2bfd5c'
+    ArmorShop:
+      coord: [-205.7668, 125.37028, 86.80245]
+      text: Armor Shop
+      hash_id: '0xd83372bb595d5a62'
+    ArmorShop01:
+      coord: [-3275.5, 200, -2552]
+      text: Armor Shop
+      hash_id: '0x3370bc5c4db26b23'
+    ArmorShop02:
+      coord: [1642.8693, 490.15778, 2409.2007]
+      text: Armor Shop
+      hash_id: '0x3370bc5cde68cb95'
+    ArmorShop03:
+      coord: [3356.9531, 238.58984, -2127.875]
+      text: Armor Shop
+      hash_id: '0x3370bc5ced963f6d'
+    ArmorShop04:
+      coord: [1854.6864, 239.38176, -981.32355]
+      text: Armor Shop
+      hash_id: '0x3370bc5c42595a61'
+    ArmorShop05:
+      coord: [-3631.4905, 292.21826, 1787.2845]
+      text: Armor Shop
+      hash_id: '0x3370bc5c75227459'
+    DyeShop:
+      coord: [3403.9863, 238.58984, -2152.2605]
+      text: Dye Shop
+      hash_id: '0x3370bc5c08cac9f4'
+    JewelryShop:
+      coord: [-3836.8015, 200, -2877.07]
+      text: Jewelry Shop
+      hash_id: '0x3370bc5cc78b7655'

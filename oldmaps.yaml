@@ -1,0 +1,160 @@
+icons:
+  oldmap:
+    use: ./oldmao.png
+presets:
+  _OldMap:
+    ThunderheadIsles:
+      coord: [952.39, 862.2, -3113.04]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x20e7de2bdd6eceb0'
+    ThunderheadIsles_01:
+      coord: [1126.41, 862.67, -3273.63]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x96327b802200920d'
+    Hebra:
+      coord: [-3475.8, 1035.9, 3513.55]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xb2e06042bf692266'
+    WellspringIsland:
+      coord: [3692.78, 1350.65, 593.25]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x5708fd36f1717bf4'
+    WellspringIsland_01:
+      coord: [3200.16, 1522.57, 598.47]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x4648fb7558eec955'
+    Akkala:
+      coord: [3664.83, 1094.38, 1795]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x347464a81128bcf5'
+    Akkala_01:
+      coord: [4269.17, 889.46, 3107.88]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xe0a0e4b1b69b4982'
+    SouthHyrule:
+      coord: [-1232.51, 1093.91, -1399.99]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x6f61458029792876'
+    SouthHyrule_01:
+      coord: [-1456.58, 1325.98, -1584.35]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xfec585115a64aa1b'
+    SouthHyrule_02:
+      coord: [-815.71, 1020.34, -1590.62]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xcd6def9684553723'
+    SouthHyrule_03:
+      coord: [-1347.79, 907.24, -1542]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xb42a3eabc6905e25'
+    Eldin:
+      coord: [1810.72, 1309.84, 1013.62]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x1df1279fa14c0ec8'
+    Akkala_02:
+      coord: [3294.51, 900.13, 3434.16]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xeee2b548c4552848'
+    Necluda:
+      coord: [1651.63, 679.41, -2190.7]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x860128b8e8227653'
+    Necluda_01:
+      coord: [2159.54, 1368.36, -2592.08]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x70c59ea8b1a24bc3'
+    Necluda_02:
+      coord: [2644.91, 1581.15, -1414.08]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xfda4d301d2e71c73'
+    SouthHyrule_04:
+      coord: [-1956.29, 1272.59, -1809.8]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x6bcd7f75b1cb1b37'
+    Hebra_01:
+      coord: [-1648.57, 1070.24, 3513.13]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x19a51d52fa5ef058'
+    Eldin_01:
+      coord: [435.19, 2349.23, 2195.6]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x256c59cb569ebb79'
+    Necluda_03:
+      coord: [1765.79, 1007.66, -1310.74]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x789355799c1be745'
+    Necluda_04:
+      coord: [1851.51, 1044.21, -979]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x4efc84157f74bfd2'
+    Necluda_05:
+      coord: [1662.94, 506.26, -352.65]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xb8f532b5bc119a2a'
+    ValorIsland:
+      coord: [4752.22, 2022.34, -777.56]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0xfef5898f0a59d92f'
+    ValorIsland_01:
+      coord: [4659.19, 1873.97, -869.84]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x6adc2d641806a1ce'
+    Hebra_02:
+      coord: [-3860.64, 853.33, 2922.98]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x00119a905170f71d'
+    Hebra_03:
+      coord: [-3830.44, 650.1, 2715.02]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x65d0983382f07477'
+    Tabantha:
+      coord: [-3437.53, 1296.21, 1431.37]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x9e5ccbf97bff1c5d'
+    Tabantha_01:
+      coord: [-3961.84, 1813.72, 608.13]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x9d94857b5d16091a'
+    Tabantha_02:
+      coord: [-3634.97, 1776.16, 466.73]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x35bea5a89326a61e'
+    WellspringIsland_02:
+      coord: [3167.95, 1041.18, 459.37]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x587415e7dacaeb2f'
+    Tabantha_03:
+      coord: [-3376.84, 2390.17, -20.58]
+      text: Treasure Chest
+      icon: {doc: oldmap, map: oldmap, priority: 1}
+      hash_id: '0x670030f4113dd003'

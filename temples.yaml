@@ -1,0 +1,27 @@
+presets:
+  _Temple:
+    Lightning:
+      coord: [-4518.5537, 51.665443, -3611.5615]
+      text: Lightning Temple
+      comment: The Mural's Myth, Risen from the Sands
+      hash_id: '0xeced362e8dbb109e'
+    Water:
+      coord: [3357.436, 1738.3676, 771.62897]
+      text: Water Temple
+      comment: The Great Wellspring of Hyrule
+      hash_id: '0x7f43e8cce8e2bb29'
+    Wind:
+      coord: [-2859.5, 1495.4341, 3005.5]
+      text: Wind Temple
+      comment: The Legendary Stormwind Ark
+      hash_id: '0xee51919128fd1da6'
+    Fire:
+      coord: [1271.5, -778, 2817.5]
+      text: Fire Temple
+      comment: Lost Gorondia Rediscovered
+      hash_id: '0xc34f654ff388119d'
+    Spirit:
+      coord: [1397.658, -647.5, -3228.1897]
+      text: Spirit Temple
+      comment: The Vessel of Spirit's Resting Place
+      hash_id: '0x86a857fa8c9361a1'

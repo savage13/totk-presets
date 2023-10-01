@@ -1,0 +1,65 @@
+icons:
+  tablet:
+    use: ./tablet.png
+presets:
+  _Tablet:
+    S00:
+      coord: [2217.2332, 1254.5, 989.48474]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0xfcba8abdb8b892fe'
+    S01:
+      coord: [2914.5127, 907.5, 202.91429]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x521ff4c72f315afd'
+    S02:
+      coord: [-4042.0474, 557.5, 3203.8]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x990b43ee92f94724'
+    S03:
+      coord: [-1365.8391, 1016.5, 3574.6206]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x74ee57b1b9ad67db'
+    S04:
+      coord: [480.85187, 506.5, -2249.3223]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0xa7cc29e594731f7e'
+    S05:
+      coord: [-2446.8015, 1107.847, -3256.551]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0xdd7afc7e9714b5e0'
+    S06:
+      coord: [2082.8489, 1447.835, -2731.1282]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0xee5f6f206793d436'
+    S07:
+      coord: [3918.6213, 1307.843, -2470.808]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x43d7945dff1b6d29'
+    S08:
+      coord: [-3605.471, 1701.5275, -934.7554]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x19da9cb62a823aeb'
+    S09:
+      coord: [-44.98025, 1607.83, 2991.7605]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0xe7a790c6b441ed58'
+    S10:
+      coord: [-1239.0254, 1091.8184, -1937.0791]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x9a20833adb21edfd'
+    S11:
+      coord: [3580.1982, 1466.83, 1749.7288]
+      text: Ancient Tablet
+      icon: {doc: tablet, map: tablet, priority: 1}
+      hash_id: '0x0e5217ff879aae18'

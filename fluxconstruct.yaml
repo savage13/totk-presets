@@ -1,0 +1,181 @@
+icons:
+  ememy:
+    use: ./enemy.png
+presets:
+  _Enemy:
+    FluxConstruct:
+      SF02:
+        coord: [1133.32, 862.67, -3272.54]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xaaf293566632424e'
+      SH01:
+        coord: [-3471.79, 1035.9, 3519.27]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x963d5c93884b0a73'
+      SL01:
+        coord: [3386.44, 1395.97, 633.13]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xae9f2a37a42c8d82'
+      SA02:
+        coord: [3674.13, 1094.38, 1808.69]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc490391a0975f8c1'
+      SC03:
+        coord: [-1343.78, 907.24, -1547.72]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe49b5ef8ba5d523e'
+      SA01:
+        coord: [3301.5, 900.13, 3434.16]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x821e623ecb830c97'
+      SF01:
+        coord: [3044.02, 1306.88, -2777.21]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa0cca1e8768530fe'
+      SF03:
+        coord: [2559.25, 1000.13, -3601.44]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xee686ad6075857ae'
+      SE01:
+        coord: [442.06, 1767.27, 2467.88]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x7a0a9a52d097dbd5'
+      SC01:
+        coord: [-2290.43, 1000.13, -411.74]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf0632e40a942bbf0'
+      SC04:
+        coord: [-325.65, 1000.13, -2591.48]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf0742bec4ed36807'
+      SH02:
+        coord: [-3834.43, 650.1, 2720.75]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x8ddc63ed86028894'
+      SH03:
+        coord: [-3450.49, 1539.91, 658.07]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5bc59415a1a57123'
+      SL02:
+        coord: [3000.41, 1000.13, -251.77]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xff309cbff694ac82'
+      SC02:
+        coord: [491.65, 1544.55, -1516.38]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc7c3db738495caef'
+      DH02:
+        coord: [-4412.77, -440.33, 2239.77]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2439b1a2762e05af'
+      DG01:
+        coord: [-4085.54, -1005.22, -952.66]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5058b0f32c49603d'
+      DG03:
+        coord: [-4146.5, -379.4, -2961]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xbd5d3280de3741b1'
+      DH03:
+        coord: [-2619.93, -582.28, 1705.06]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x51edfca900046bec'
+      DG02:
+        coord: [-2182.06, -580.84, -1502.59]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf9ca7f607ba249fc'
+      DG04:
+        coord: [-1795, -417.51, -3462.5]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x795ba2da04b99cc7'
+      DH01:
+        coord: [-814.75, -576.76, 3534.4]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5ca362efc15e8f32'
+      DC01:
+        coord: [-723.27, -409.19, 1263.34]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x30586b3dcbe6a060'
+      DE01:
+        coord: [224.61, -405.98, 3673.67]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x10803d424a3a5980'
+      DC02:
+        coord: [869.61, -433.47, 678.48]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc337b04248b71159'
+      DC03:
+        coord: [717.13, -352.1, -644]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x52bb4b3446db6dab'
+      DF01:
+        coord: [100.87, -347.08, -3714.13]
+        text: Flux Construct I
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xca283a1ea746e622'
+      DE02:
+        coord: [2680.14, -572.89, 3472.9]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xef468ac597beb653'
+      DL02:
+        coord: [2638.95, -551.75, -937.24]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3c9017d5d75ec3cd'
+      DL03:
+        coord: [2512.44, -540.23, -1271.55]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe91cd1b52e943688'
+      DA02:
+        coord: [3700.93, -365.65, 2906.14]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x9aad113ea4ebb2e4'
+      DL01:
+        coord: [3197.77, -737.28, 1019.61]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x45d2ffef8ae58322'
+      DL04:
+        coord: [3527.25, -499.76, -1340.16]
+        text: Flux Construct II
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf43acedeba93490f'
+      DL05:
+        coord: [3263.07, -340.86, -3702.87]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x85812ae825b9b1da'
+      DA01:
+        coord: [4654.9, -340.45, 3697]
+        text: Flux Construct III
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0cc0434920c68c50'

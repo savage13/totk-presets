@@ -1,0 +1,351 @@
+icons:
+  ememy:
+    use: ./enemy.png
+presets:
+  _Enemy:
+    Hinox:
+      GG01:
+        coord: [-4205, 533.63, -1292]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xbc5ea07d009de5c0'
+      GH01:
+        coord: [-3654.67, 335.72, 3806.21]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa7b4654b3919acea'
+      GH03:
+        coord: [-3794.04, 246.11, 1557.18]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0b4f6cb0a1f3de00'
+      GH02:
+        coord: [-2825, 509.11, 2433]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x116508a2695329fd'
+      GR04:
+        coord: [-2735.93, 265.35, 1334.03]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x590e090419f507d1'
+      GR06:
+        coord: [-2221.12, 208.23, 758.69]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa92a806d9149143e'
+      GC06:
+        coord: [-2014.25, 207.11, -1200.44]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xda0825db4aa31466'
+      GR01:
+        coord: [-1245.5, 211, 2108.5]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5cf3966859b4a73b'
+      GC01:
+        coord: [-1080.39, 141.05, 462.47]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3b02c7f53eec4402'
+      GC03:
+        coord: [-1177.03, 139.57, -114.59]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x916c6930c476b79f'
+      GR02:
+        coord: [-407.47, 281.83, 2011.41]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3b76ae4c48b0a312'
+      GR05:
+        coord: [-742.31, 186.96, 1262.77]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x9e17d1551063fd24'
+      GF07:
+        coord: [-806.52, 224.73, -3019.35]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x7ece417af4f0dceb'
+      GE01:
+        coord: [839.78, 303.9, 3362.72]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa8ecbb3dd76cdb92'
+      GC05:
+        coord: [692.68, 116.69, -1080.79]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x903b7128225feb09'
+      GF01:
+        coord: [780.39, 119.21, -1954.19]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x08386ead19f19155'
+      GZ01:
+        coord: [1305.27, 132.74, 910.26]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf888e395d2b008ff'
+      GL02:
+        coord: [1469.5, 203.95, -1329.5]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xbc68eed374c9e0ed'
+      GF03:
+        coord: [1562.2, 297.67, -2416.01]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0647517aefa56d14'
+      GF02:
+        coord: [1272.53, 355.25, -2174.81]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xced7ba182e4fe731'
+      GF04:
+        coord: [1098.12, 173.17, -2872.43]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x55a5b957268f831c'
+      GF09:
+        coord: [1687.42, 107.93, -3873.21]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x76855b8538d6ba5c'
+      GE02:
+        coord: [2141.81, 535.85, 3011.22]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe1a463145d943d51'
+      GL03:
+        coord: [2051.05, 125.15, -2003.66]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa1a046102817b2a1'
+      GL01:
+        coord: [2413.66, 303.79, -1166.55]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x202298bbe40ddc95'
+      GL05:
+        coord: [2770.66, 258.04, -2712.59]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xcae9d1d9fe9e71ba'
+      GZ02:
+        coord: [3401.31, 353.35, 271.14]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1aabb72078a5a029'
+      GL04:
+        coord: [3160.15, 211.08, -2596.12]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1dbb1e0745f2662f'
+      GA03:
+        coord: [4643.45, 135.52, 1777.71]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x16c1c0e951726cf2'
+      GA04:
+        coord: [4434.71, 216.88, 739.96]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x17d4d8667401c605'
+      GA02:
+        coord: [3435.44, -33.58, 3327.41]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x560fd863d433f49e'
+      GA01:
+        coord: [4603.26, 39.55, 3529.64]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa8b4a33af0c8ba1a'
+      GC02:
+        coord: [-321.59, 68.4, 458.03]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3b82c4cda9b601e7'
+      GF05:
+        coord: [1651.96, 261.06, -2910.67]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb28c5f44149a0dd8'
+      GF06:
+        coord: [1878.61, 65.56, -2948.36]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xfcfc709f7eb81854'
+      GF08:
+        coord: [2025.49, 201.22, -3061.28]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4ebbd69217f36245'
+      GC04:
+        coord: [-2274.74, 211.15, -723]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb55cec0424d8dc0a'
+      GR03:
+        coord: [-2058.39, 34.8, 1558.58]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xbfb5f730c60fc03d'
+      GZ04:
+        coord: [1434.25, 92.06, -137.32]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4159b725a5a10fb8'
+      CC01:
+        coord: [-154, 320.46, 1063.87]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x616e23e474182bf0'
+      DG01:
+        coord: [-4205, -766.22, -1292]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb5e98e133529f133'
+      DG02:
+        coord: [-4324.58, -371.81, -3465.07]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xd9412bf0d7ab6bb0'
+      DH01:
+        coord: [-3654.67, -572.86, 3806.21]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x45e39bde50476938'
+      DH03:
+        coord: [-3793.24, -485.34, 1557.11]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x481b64af5bad2a9d'
+      DG03:
+        coord: [-3570.83, -363.58, -3554.62]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x07c82e99cd8bd325'
+      DH02:
+        coord: [-2783, -652.46, 2031]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xef4f162c00c0f247'
+      DH04:
+        coord: [-2735.93, -503.75, 1334.03]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xef8d3687413a37d5'
+      DC04:
+        coord: [-1069.78, -372.86, -821.39]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf544f6502a3e3793'
+      DC01:
+        coord: [-1092.66, -380.07, 46.55]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x50103a8a84649d4f'
+      DC03:
+        coord: [-1177.03, -381.29, -114.59]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x2dff7098ea384767'
+      DF02:
+        coord: [-1439.15, -451.19, -2365.97]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc6fa2a701f189828'
+      DE04:
+        coord: [-146.27, -516.04, 2382.3]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xba4e29ca3f91075e'
+      DC05:
+        coord: [46.43, -361.14, -1334.85]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc30cf78bc44c0fdf'
+      DE03:
+        coord: [912.68, -571.55, 2907.77]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb6f130bc61d43209'
+      DC02:
+        coord: [366.15, -371.6, -6.83]
+        text: Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x57c517af929d6f99'
+      DF01:
+        coord: [779.41, -361.07, -1956.19]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x67dbd94fd8596adf'
+      DE05:
+        coord: [1305.27, -374.54, 910.26]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4d612cf3612a421c'
+      DL02:
+        coord: [1469.5, -444.25, -1329.5]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xf35a26496b3679c4'
+      DF03:
+        coord: [1562.2, -535.46, -2416.01]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x556c9c3647378dac'
+      DF05:
+        coord: [1098.12, -411.38, -2872.43]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x12633133c1e49c91'
+      DF04:
+        coord: [1213.43, -488.15, -2671.66]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xcf658e3f2dfb8ff0'
+      DF06:
+        coord: [1651.96, -602.49, -2910.67]
+        text: Blue Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc998fd5a3e19c206'
+      DF07:
+        coord: [1687.42, -350.59, -3873.21]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0661956f9bf66afb'
+      DE02:
+        coord: [2138.01, -768.15, 3008.41]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe58cf6f274d94b7d'
+      DL03:
+        coord: [2051.05, -367.46, -2003.66]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe6c3ed13ba840604'
+      DL01:
+        coord: [2243.53, -575.15, -1134.1]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1dbe03cb73ea209d'
+      DL04:
+        coord: [2874.6, -465.13, -2405.43]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x814a34c97b48541e'
+      DE01:
+        coord: [3257.22, -325.39, 3445.18]
+        text: Stalnox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x61b805632ebe1814'
+      DA01:
+        coord: [4643.45, -376.89, 1777.71]
+        text: Black Hinox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5cb00ac1d7a7160e'

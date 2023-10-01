@@ -1,0 +1,3366 @@
+presets:
+  _Location:
+    EmergencyShelter:
+      coord: [-254, 112.95, 98]
+      text: LocationArea
+      hash_id: '0xd02e649ed5deb358'
+    EldinSky:
+      coord: [1978.9487, 2000, 2088.8088]
+      text: Eldin Sky
+      hash_id: '0x022d82a9f1b64136'
+    Eldin:
+      coord: [1934.8647, 0, 2232.061]
+      text: Eldin
+      hash_id: '0x1380d9d20dd6d871'
+    FaronSky:
+      coord: [969.32825, 1000, -2825.316]
+      text: Faron Sky
+      hash_id: '0xa9fa4868f8665542'
+    Faron:
+      coord: [969.32825, 0, -2825.316]
+      text: Faron
+      hash_id: '0x3994035837e7f1f3'
+    GerudoSky:
+      coord: [-3624.8682, 2000, -2759.0654]
+      text: Gerudo Sky
+      hash_id: '0xba861cf9afc722fd'
+    Gerudo:
+      coord: [-3989.0056, 0, -3257.3423]
+      text: Gerudo
+      hash_id: '0xfd515aacc88ab8cc'
+    NecludaSky:
+      coord: [2642.6465, 2000, -1964.2283]
+      text: Necluda Sky
+      hash_id: '0x8f6e41d818390b1f'
+    Necluda:
+      coord: [2500.505, 0, -1685.2559]
+      text: Necluda
+      hash_id: '0xd353ab71e860dde7'
+    HebraSky:
+      coord: [-3357.8232, 1000, 2442.1362]
+      text: Hebra Sky
+      hash_id: '0xa7be3125f3638c58'
+    Hebra:
+      coord: [-3357.8232, 0, 2704.6104]
+      text: Hebra
+      hash_id: '0xcf8aa7e55d333d1a'
+    CentralHyruleSky:
+      coord: [-247.97748, 2000, 77.934204]
+      text: Central Hyrule Sky
+      hash_id: '0x92fcb874afdd3e76'
+    CentralHyrule:
+      coord: [-256.19678, 0, -116.21338]
+      text: Central Hyrule
+      hash_id: '0x2b042e52c7db214b'
+    LanayruSky:
+      coord: [3174.9326, 2000, -499.82422]
+      text: Lanayru Sky
+      hash_id: '0x222b4e46b007f680'
+    Lanayru:
+      coord: [3174.9326, 0, -615.16205]
+      text: Lanayru
+      hash_id: '0x417987586c7e8cdf'
+    AkkalaSky:
+      coord: [3950.0586, 2000, 2575.9775]
+      text: Akkala Sky
+      hash_id: '0x7a371d5490165fc4'
+    Akkala:
+      coord: [3556.7686, 0, 3039.2314]
+      text: Akkala
+      hash_id: '0xff95f95cd9883c1d'
+    GreatSkyIsland:
+      coord: [394.477, 1937.4567, -1259.8545]
+      text: Great Sky Island
+      hash_id: '0x9f3264af5d58cac2'
+    GuardianoftheRisingIslandChain:
+      coord: [-3156, 2000, 3215]
+      text: Guardian of the Rising Island Chain
+      hash_id: '0x4930a314aa269383'
+    EldinSkyArchipelago:
+      coord: [1777, 2000, 2705.5]
+      text: Eldin Sky Archipelago
+      hash_id: '0xb5a7ac59dffe7cfa'
+    SouthEldinSkyArchipelago:
+      coord: [1924.841, 2000, 798.7323]
+      text: South Eldin Sky Archipelago
+      hash_id: '0x55f7b0b502ac08d6'
+    FaronSkyArchipelago:
+      coord: [-68.03299, 1000, -2751.132]
+      text: Faron Sky Archipelago
+      hash_id: '0x883b7efe47653bda'
+    WestNecludaSkyArchipelago:
+      coord: [1295.387, 2001.6287, -2346.836]
+      text: West Necluda Sky Archipelago
+      hash_id: '0x5459c628a869589e'
+    EastGerudoSkyArchipelago:
+      coord: [-1866.2982, 2000, -2316.1748]
+      text: East Gerudo Sky Archipelago
+      hash_id: '0x70226eb7756bf6b0'
+    NorthGerudoSkyArchipelago:
+      coord: [-3573.1611, 2000, -607.9292]
+      text: North Gerudo Sky Archipelago
+      hash_id: '0xc296fe9f9112234b'
+    NecludaSkyArchipelago:
+      coord: [2540.858, 2000, -2270.683]
+      text: Necluda Sky Archipelago
+      hash_id: '0x7f92f5e2cccb3cb2'
+    SouthNecludaSkyArchipelago:
+      coord: [2559.246, 1000, -3751.438]
+      text: South Necluda Sky Archipelago
+      hash_id: '0x6f5231b664f16b99'
+    EastHebraSkyArchipelago:
+      coord: [-1729.4684, 2000, 3171.4014]
+      text: East Hebra Sky Archipelago
+      hash_id: '0xd82872c4da00b950'
+    SouthHebraSkyArchipelago:
+      coord: [-3136.992, 2000, 2019.0597]
+      text: South Hebra Sky Archipelago
+      hash_id: '0xb570ee083f5da463'
+    WestHebraSkyArchipelago:
+      coord: [-3845.8484, 2000, 2300]
+      text: West Hebra Sky Archipelago
+      hash_id: '0x33bb0070ea5614a3'
+    CentralHyruleSkyArchipelago:
+      coord: [131.831, 2054.7285, -92.04001]
+      text: Central Hyrule Sky Archipelago
+      hash_id: '0x75d89aa7a19392dd'
+    NorthNecludaSkyArchipelago:
+      coord: [1795.117, 2000, -864.054]
+      text: North Necluda Sky Archipelago
+      hash_id: '0x070e0d340803314a'
+    SouthHyruleSkyArchipelago:
+      coord: [-901.231, 2000, -1380]
+      text: South Hyrule Sky Archipelago
+      hash_id: '0x828b3401860b19c1'
+    NorthHyruleSkyArchipelago:
+      coord: [349.93207, 2000, 2354.2976]
+      text: North Hyrule Sky Archipelago
+      hash_id: '0x250c2aa70eb62953'
+    WestHyruleSkyArchipelago:
+      coord: [-2292.0156, 1000, -538.68945]
+      text: West Hyrule Sky Archipelago
+      hash_id: '0x1b0754e7deec4259'
+    SouthLanayruSkyArchipelago:
+      coord: [4368.396, 2000, -1254.572]
+      text: South Lanayru Sky Archipelago
+      hash_id: '0x377493a5d47828e0'
+    LanayruSkyArchipelago:
+      coord: [3010.0723, 2000, 83.19644]
+      text: Lanayru Sky Archipelago
+      hash_id: '0xf55565b433d1466a'
+    TabanthaSkyArchipelago:
+      coord: [-2942.5188, 2000, 558.38806]
+      text: Tabantha Sky Archipelago
+      hash_id: '0x8ae5739489a3a627'
+    NorthTabanthaSkyArchipelago:
+      coord: [-3600.504, 1999.9995, 1333.86]
+      text: North Tabantha Sky Archipelago
+      hash_id: '0xa8b588ef88c0b3e7'
+    SokkalaSkyArchipelago:
+      coord: [3738.987, 2000, 1688.586]
+      text: Sokkala Sky Archipelago
+      hash_id: '0x77f41013aedae0d3'
+    NorthAkkalaSkyArchipelago:
+      coord: [3703.71, 1850, 2998.647]
+      text: North Akkala Sky Archipelago
+      hash_id: '0x14338a03929ff739'
+    ThunderheadIsles:
+      coord: [911.688, 2000, -3064.658]
+      text: Thunderhead Isles
+      hash_id: '0xeac894bb552c08b6'
+    TempleofTime:
+      coord: [453.45944, 1661.5502, -800.34515]
+      text: Temple of Time
+      hash_id: '0x48eaa299af54047f'
+    GreatPlateau:
+      coord: [-938.11707, 235.4645, -1905.6602]
+      text: Great Plateau
+      hash_id: '0x12f45ea71562519f'
+    TempleofTimeRuins:
+      coord: [-818.08215, 222.00029, -2002.0026]
+      text: Temple of Time Ruins
+      hash_id: '0x6df167292553be2e'
+    LurkerintheLostWoods:
+      coord: [723, 243.5, 1918.5]
+      text: Lurker in the Lost Woods
+      hash_id: '0x69e2b123f5637b4e'
+    WellspringIsland:
+      coord: [3520.25, 2000, 535.5]
+      text: Wellspring Island
+      hash_id: '0x2c60b92381e2505e'
+    DesertRift:
+      coord: [-3515.1423, 79.15701, -2731.3923]
+      text: Desert Rift
+      hash_id: '0x3292d3eb0b879b4e'
+    CourageIslandNear:
+      coord: [-2265.9956, 2000, 728]
+      text: Courage Island Near
+      hash_id: '0x48789d0d1201a137'
+    CourageIsland:
+      coord: [-2265.996, 2000, 745]
+      text: Courage Island
+      hash_id: '0xe6ba717d2b384771'
+    BraveryIsland:
+      coord: [206.706, 2089.65, 1937]
+      text: Bravery Island
+      hash_id: '0xa48721cce6e69905'
+    BraveryIslandNear:
+      coord: [204.55377, 2089.6497, 1915]
+      text: Bravery Island Near
+      hash_id: '0xb809a679e1ced1c7'
+    ValorIsland:
+      coord: [4579.1104, 2724.0212, -919.4617]
+      text: Valor Island
+      hash_id: '0xc8beced8ca9a8e98'
+    ValorIslandNear:
+      coord: [4562.08, 1724.021, -906.6121]
+      text: Valor Island Near
+      hash_id: '0xfab6bc3e1ca5707a'
+    SkyMine:
+      coord: [4603.174, 1407.5305, 2129.3264]
+      text: Sky Mine
+      hash_id: '0x566ba43cc5d3f2f7'
+    LightcastIsland:
+      coord: [-3607.174, 2000, 1032]
+      text: Lightcast Island
+      hash_id: '0x4dbee00e9db16baf'
+    ZonaiteForgeIsland:
+      coord: [2349.019, 10999.989, -1869.35]
+      text: Zonaite Forge Island
+      hash_id: '0x284d304791b29a4c'
+    ZonaiteForgeIslandNear:
+      coord: [2349.044, 11000, -1879]
+      text: Zonaite Forge Island Near
+      hash_id: '0x92ac666388cea956'
+    StarviewIsland:
+      coord: [-3488.5, 2011.7151, -317]
+      text: Starview Island
+      hash_id: '0x2e5a9b9d299622b2'
+    StarviewIslandNear:
+      coord: [-3488, 2000, -264]
+      text: Starview Island Near
+      hash_id: '0xe9b74b416ddc1675'
+    NorthLomeiCastleTopFloor:
+      coord: [-825, 1290, 3370]
+      text: North Lomei Castle Top Floor
+      hash_id: '0x27b92740faa05802'
+    SouthLomeiCastleTopFloor:
+      coord: [-1795, 1290.6163, -3605.5]
+      text: South Lomei Castle Top Floor
+      hash_id: '0xf2daf8976cf9a30b'
+    LomeiSkyLabyrinth:
+      coord: [4656.199, 1113.2902, 3789.028]
+      text: Lomei Sky Labyrinth
+      hash_id: '0x960e1dfa9854a5bb'
+    DragonheadIsland:
+      coord: [1460, 2000, -3380.75]
+      text: Dragonhead Island
+      hash_id: '0xf407cb5a9138f33e'
+    FloatingScalesIsland:
+      coord: [4077.0554, 1001, 535.5341]
+      text: Floating Scales Island
+      hash_id: '0x290be5ef3eddb15a'
+    SpringofCourage:
+      coord: [879.5, 103, -2371.8196]
+      text: Spring of Courage
+      hash_id: '0x69e2b123e7e4a0b8'
+    DragonBoneMire:
+      coord: [-4144.5, 214, 1698.5]
+      text: Dragon Bone Mire
+      hash_id: '0xeb09ce2409f22274'
+    GoflamsSecretHotSpring:
+      coord: [-3442.3696, 0, 3545.5022]
+      text: Goflam's Secret Hot Spring
+      hash_id: '0x63fd344d7ede853e'
+    GoflamsSecretHotSpringNear:
+      coord: [-3418.9233, 474.2313, 3539.3965]
+      text: Goflam's Secret Hot Spring Near
+      hash_id: '0x6e3cbea6a692ee80'
+    FloretSandbar:
+      coord: [853.6, 59.8, -837.30005]
+      text: Floret Sandbar
+      hash_id: '0x69e2b123f6b1dc6a'
+    SherfinsSecretHotSpring:
+      coord: [-4319.5, 460.5, 3495]
+      text: Sherfin's Secret Hot Spring
+      hash_id: '0x69e2b1237237a75f'
+    SturnidaSecretHotSpring:
+      coord: [-4089, 83.5, 2731.5]
+      text: Sturnida Secret Hot Spring
+      hash_id: '0xe05c071dbf3ce4fc'
+    SpringofPower:
+      coord: [3756.1265, 101.19505, 2672.1367]
+      text: Spring of Power
+      hash_id: '0x69e2b123f1c399d6'
+    SpringofWisdom:
+      coord: [3926.4417, 555.9635, -1335.4703]
+      text: Spring of Wisdom
+      hash_id: '0x69e2b123448ad660'
+    DeyaVillageRuins:
+      coord: [354.53073, 115.004196, -1962.5132]
+      text: Deya Village Ruins
+      hash_id: '0x81419b125d319ce8'
+    AkkalaSpan:
+      coord: [3009.3467, 331.16614, 1231.5564]
+      text: Akkala Span
+      hash_id: '0x69e2b1237322f25f'
+    AkkalaParadeGroundRuins:
+      coord: [3307.7832, 217.46124, 1235.5178]
+      text: Akkala Parade Ground Ruins
+      hash_id: '0x69e2b123ba55d9c9'
+    AkkalaCitadelRuinsNear:
+      coord: [3323.8662, 613.4504, 1534.9125]
+      text: Akkala Citadel Ruins Near
+      hash_id: '0x0c55c7fdd55b91b3'
+    AkkalaCitadelRuins:
+      coord: [3324.2095, 608.6224, 1502.8242]
+      text: Akkala Citadel Ruins
+      hash_id: '0x4dd8546254aa26ca'
+    AkkalaBridgeRuins:
+      coord: [3161.5957, 382.8829, 1416.6415]
+      text: Akkala Bridge Ruins
+      hash_id: '0x69e2b123abe824c0'
+    BigTwinBridge:
+      coord: [1673.1136, 83.972046, -2032.8193]
+      text: Big Twin Bridge
+      hash_id: '0x69e2b123826e5590'
+    HyruleCastleTownRuins:
+      coord: [-254.41684, -41.93979, 375.6508]
+      text: Hyrule Castle Town Ruins
+      hash_id: '0x69e2b1231a83ce11'
+    ExchangeRuins:
+      coord: [-750.0175, 296.3422, -859.66016]
+      text: Exchange Ruins
+      hash_id: '0x376acbbcaab917ae'
+    ExchangeRuinsNear:
+      coord: [-751.6704, 128.32971, -821.4497]
+      text: Exchange Ruins Near
+      hash_id: '0xbea7ccc96da567e9'
+    GopongaVillageRuins:
+      coord: [1619.9369, 109.79549, -281.86096]
+      text: Goponga Village Ruins
+      hash_id: '0x69e2b12323fd6859'
+    ColiseumRuins:
+      coord: [-1151, 50, -1262.5]
+      text: Coliseum Ruins
+      hash_id: '0x69e2b123f8f69d33'
+    DeathMountainWestSite:
+      coord: [2169, 635.5, 2729.9233]
+      text: Death Mountain West Site
+      hash_id: '0xf4494e361f13dcd6'
+    LutosCrossing:
+      coord: [3067.7861, 262.9678, 3.1120605]
+      text: Luto's Crossing
+      hash_id: '0x2c00c8d18fb586bd'
+    EastGerudoRuinsNear:
+      coord: [-2696.0173, 203.97874, -2843.4111]
+      text: East Gerudo Ruins Near
+      hash_id: '0x256547d925ece9a0'
+    EastGerudoRuins:
+      coord: [-2693.2366, 113.15087, -2851.4136]
+      text: East Gerudo Ruins
+      hash_id: '0xcd758d2378902c40'
+    EastPostRuins:
+      coord: [17.563965, 58.0299, -1560.6714]
+      text: East Post Ruins
+      hash_id: '0x69e2b1231b8f73bd'
+    CastleTownPrison:
+      coord: [-676.786, 92.37962, 836.9833]
+      text: Castle Town Prison
+      hash_id: '0x69e2b1230438ef00'
+    EagusBridge:
+      coord: [969.6924, 99.131935, -942.83386]
+      text: Eagus Bridge
+      hash_id: '0x34928e6118d36e2e'
+    FloriaBridge:
+      coord: [1731.4282, 159.75516, -3454.8416]
+      text: Floria Bridge
+      hash_id: '0x69e2b123413a7d1f'
+    GatepostTownRuins:
+      coord: [-537.875, 106.68594, -1445.4766]
+      text: Gatepost Town Ruins
+      hash_id: '0x69e2b123a686a166'
+    UltraBallHaulCheckIn:
+      coord: [-3128.2317, 26.323694, 611.1468]
+      text: Ultra Ball Haul Check-In
+      hash_id: '0x80bead1d20e295bd'
+    SelmiesSpot:
+      coord: [-2952.0266, 656.19714, 3142.8638]
+      text: Selmie's Spot
+      hash_id: '0xf35564646f8d25e9'
+    ShadowHamletRuins:
+      coord: [3044.9724, 444.9368, 2281.275]
+      text: Shadow Hamlet Ruins
+      hash_id: '0xafd10105ce8a9e8a'
+    KolomoGarrisonRuins:
+      coord: [-464.38986, 128.99136, -1272.5507]
+      text: Kolomo Garrison Ruins
+      hash_id: '0x69e2b1233e14b2e5'
+    StolockBridgeNear:
+      coord: [1627.1952, 559.3783, 2478.004]
+      text: Stolock Bridge Near
+      hash_id: '0x3dc4aef5a1c08b0b'
+    StolockBridge:
+      coord: [1648.506, 559.2886, 2437.7305]
+      text: Stolock Bridge
+      hash_id: '0x885b773e05cb0973'
+    OwlanBridge:
+      coord: [325.47586, 63.122475, -1273.4111]
+      text: Owlan Bridge
+      hash_id: '0xb2c6b33cc925ce2a'
+    FortHateno:
+      coord: [2323.9536, 77.07476, -1837.3923]
+      text: Fort Hateno
+      hash_id: '0x69e2b123ced2b087'
+    HebraTrailheadLodge:
+      coord: [-3572.0227, 227.83005, 2258.135]
+      text: Hebra Trailhead Lodge
+      hash_id: '0x9aefe5802b1596a8'
+    BridgeofHylia:
+      coord: [-37.40747, 131.83594, -2518.4812]
+      text: Bridge of Hylia
+      hash_id: '0x69e2b12364aebf0e'
+    Sanctum:
+      coord: [-254, 444.781, 1076.9401]
+      text: Sanctum
+      hash_id: '0x32d9682cf341ec0c'
+    SanctumNear:
+      coord: [-253.7012, 479.6435, 1100.9507]
+      text: Sanctum Near
+      hash_id: '0xefcfb4d2cef31ed1'
+    SecondGatehouse:
+      coord: [-166.64355, 388.811, 859.45654]
+      text: Second Gatehouse
+      hash_id: '0x6ea601c125655057'
+    FirstGatehouseNear:
+      coord: [-356.233, 215.101, 829.18115]
+      text: First Gatehouse Near
+      hash_id: '0x7c59c46118a66d8c'
+    FirstGatehouse:
+      coord: [-354.25586, 215.11101, 818.895]
+      text: First Gatehouse
+      hash_id: '0x81e1d1f362c47c96'
+    ObservationRoom:
+      coord: [-253.97627, 203.47403, 778.50775]
+      text: Observation Room
+      hash_id: '0x57b6355e8da905df'
+    DiningHall:
+      coord: [-111.857925, 210.39326, 852.1389]
+      text: Dining Hall
+      hash_id: '0x4b5590e4be94270a'
+    EastPassage:
+      coord: [-120.38574, 132.47244, 974.5464]
+      text: East Passage
+      hash_id: '0xc8a92cfdae7ecd30'
+    WestPassage:
+      coord: [-448.9934, 118.28906, 858.28]
+      text: West Passage
+      hash_id: '0xd234f2dc0652bf1c'
+    GuardsChamber:
+      coord: [-368.7, 177.21791, 846.5673]
+      text: Guards' Chamber
+      hash_id: '0xeebb194b1228f809'
+    Library:
+      coord: [-157.92178, 323.51038, 1067.4507]
+      text: Library
+      hash_id: '0x84db108ae398ba22'
+    Lockup:
+      coord: [-443.9, 130.09047, 1062.2673]
+      text: Lockup
+      hash_id: '0x10e8eaf13c32b047'
+    PrincessZeldasRoom:
+      coord: [-327.72067, 406.484, 995.21356]
+      text: Princess Zelda's Room
+      hash_id: '0x79132746a2910c9f'
+    Docks:
+      coord: [-252.18289, 126.41304, 1188.027]
+      text: Docks
+      hash_id: '0x9c8b990635d4cf81'
+    DocksNear:
+      coord: [-270.45837, 100.83422, 1203.1006]
+      text: Docks Near
+      hash_id: '0xe5a3459837bf2ab9'
+    PrincessZeldasStudyNear:
+      coord: [-384.15045, 419.8883, 991.9032]
+      text: Princess Zelda's Study Near
+      hash_id: '0x133c60750b0a7bb7'
+    PrincessZeldasStudy:
+      coord: [-384.27304, 468.14474, 1004.0381]
+      text: Princess Zelda's Study
+      hash_id: '0x2b455f2911d42c0d'
+    KingsStudy:
+      coord: [-173.50546, 320.4563, 1119.7725]
+      text: King's Study
+      hash_id: '0xf67e0683592ff58a'
+    CentralSquare:
+      coord: [-254.25182, 130.77347, 416.74133]
+      text: Central Square
+      hash_id: '0x36bf3af49e0d6308'
+    CentralSquareNear:
+      coord: [-253.48792, 135.19955, 423.12448]
+      text: Central Square Near
+      hash_id: '0x6b0c84d74f19c139'
+    HyruleGarrisonRuins:
+      coord: [-596.5, 52.5, -571.5]
+      text: Hyrule Garrison Ruins
+      hash_id: '0x69e2b12319f3e3cc'
+    MilitaryTrainingCamp:
+      coord: [855, 196.5, 1427]
+      text: Military Training Camp
+      hash_id: '0x69e2b123f6df71e0'
+    HyruleCathedral:
+      coord: [80.041016, 99.85396, 628.2456]
+      text: Hyrule Cathedral
+      hash_id: '0x69e2b12314e1d530'
+    CastleTownWatchtower:
+      coord: [80.49707, 117.15135, 410.95535]
+      text: Castle Town Watchtower
+      hash_id: '0x69e2b123b496c437'
+    WaterReservoir:
+      coord: [-596.67413, 95.97739, 525.3185]
+      text: Water Reservoir
+      hash_id: '0x69e2b12340cd43cf'
+    NorthernIcehouse:
+      coord: [-3748.944, 131.81854, -2290.9067]
+      text: Northern Icehouse
+      hash_id: '0xd780eb4033204852'
+    RebonaeBridge:
+      coord: [823.5714, 105.18086, -20.509705]
+      text: Rebonae Bridge
+      hash_id: '0x31217b619d4032eb'
+    ProximBridge:
+      coord: [207.05984, 63.122475, -1604.3884]
+      text: Proxim Bridge
+      hash_id: '0x69e2b123c525ea2b'
+    SageTempleRuins:
+      coord: [-1352.4236, 0, -216.81708]
+      text: Sage Temple Ruins
+      hash_id: '0x1410b226a8c87300'
+    SageTempleRuinsNear:
+      coord: [-1357.712, 132.63864, -201.61075]
+      text: Sage Temple Ruins Near
+      hash_id: '0x63f715174201a699'
+    KakarikoBridge:
+      coord: [1784.9972, 98.440636, -1532.9131]
+      text: Kakariko Bridge
+      hash_id: '0x69e2b123ab782257'
+    AquameBridge:
+      coord: [-1128.8059, 112.4491, -1017.0533]
+      text: Aquame Bridge
+      hash_id: '0x73ee2266e7bfb5e4'
+    LanayruRoadEastGate:
+      coord: [3186.6448, 344.74512, -1152.4255]
+      text: Lanayru Road - East Gate
+      hash_id: '0x7bf6c01bbad2331c'
+    LanayruRoadWestGate:
+      coord: [2299.1926, 297.28333, -713.86884]
+      text: Lanayru Road - West Gate
+      hash_id: '0x438a5cfa212c075f'
+    JeddoBridge:
+      coord: [-1689.8582, 190, -130.83578]
+      text: Jeddo Bridge
+      hash_id: '0x2a566a17cce9c317'
+    LittleTwinBridge:
+      coord: [1713.9957, 115.29159, -2147.9443]
+      text: Little Twin Bridge
+      hash_id: '0x338c4ff7df4ae932'
+    LittleTwinBridgeNear:
+      coord: [1726.0586, 0, -2125.3914]
+      text: Little Twin Bridge Near
+      hash_id: '0xf61be1d0893b2554'
+    LomeiLabyrinthIsland:
+      coord: [4655.4453, 156.88916, 3527.4072]
+      text: Lomei Labyrinth Island
+      hash_id: '0xbe48dec5c76d0023'
+    MarittaExchangeRuins:
+      coord: [-1781.5714, 200, 1685.0668]
+      text: Maritta Exchange Ruins
+      hash_id: '0x69e2b1234168fd9c'
+    MoatBridge:
+      coord: [-613.16754, 108.63425, 666.8855]
+      text: Moat Bridge
+      hash_id: '0x69e2b1232418cebc'
+    SokkalaBridge:
+      coord: [3686.2654, 311.42157, 1004.0167]
+      text: Sokkala Bridge
+      hash_id: '0x69e2b12345ad3951'
+    EastSokkalaBridge:
+      coord: [3860.8142, 311.24188, 1095.1052]
+      text: East Sokkala Bridge
+      hash_id: '0x69e2b123cd20b494'
+    WestSokkalaBridge:
+      coord: [3588, 0, 1024]
+      text: West Sokkala Bridge
+      hash_id: '0x5ee6c14a1c715d59'
+    WestSokkalaBridgeNear:
+      coord: [3588, 0, 1044]
+      text: West Sokkala Bridge Near
+      hash_id: '0x7b35122cce0e03a1'
+    SouthLomeiLabyrinth:
+      coord: [-1794.9999, 191.11765, -3541]
+      text: South Lomei Labyrinth
+      hash_id: '0x35c0633951c09386'
+    GleeokBridge:
+      coord: [-1310.0334, 96.7423, -786.8482]
+      text: Gleeok Bridge
+      hash_id: '0xd8b21d224c3d5134'
+    NorthGerudoRuins:
+      coord: [-3763, 150, -2530]
+      text: North Gerudo Ruins
+      hash_id: '0x2df1f089e08d1128'
+    BridgeofEldin:
+      coord: [2213.6404, 631.5, 2356.2996]
+      text: Bridge of Eldin
+      hash_id: '0x2ddf8e0a3706273a'
+    HelmheadBridge:
+      coord: [398.2904, 110.24659, 1167.3074]
+      text: Helmhead Bridge
+      hash_id: '0xf50202d46f93248d'
+    OutpostRuinsNear:
+      coord: [-248.44038, 0, -1688.3232]
+      text: Outpost Ruins Near
+      hash_id: '0x1669f82a12bfa355'
+    OutpostRuins:
+      coord: [-259.89075, 111.614876, -1673.9082]
+      text: Outpost Ruins
+      hash_id: '0xed4d34d87202fbda'
+    RingRuins:
+      coord: [1810.3679, 290.65985, -906.7127]
+      text: Ring Ruins
+      hash_id: '0x4cf934104e870551'
+    OrenBridge:
+      coord: [2875.4521, 187.5, -19.954102]
+      text: Oren Bridge
+      hash_id: '0xe5ca586a709159f0'
+    MabeVillageRuins:
+      coord: [-37.202637, 0, -185.71606]
+      text: Mabe Village Ruins
+      hash_id: '0x915cd431c92dc550'
+    MabeVillageRuinsNear:
+      coord: [-26.371094, 0, -222.60791]
+      text: Mabe Village Ruins Near
+      hash_id: '0xf857ae3419f48a7c'
+    NorthLomeiLabyrinth:
+      coord: [-824.2593, 342.14478, 3407.2078]
+      text: North Lomei Labyrinth
+      hash_id: '0x2447aaf2a753fe07'
+    SarjonBridge:
+      coord: [1025.1462, 125.02843, -3235.4595]
+      text: Sarjon Bridge
+      hash_id: '0x69e2b12300b8bc65'
+    HorwellBridge:
+      coord: [680.18823, 86.44088, -977.8678]
+      text: Horwell Bridge
+      hash_id: '0x364f077123c1e911'
+    LanayruPromenade:
+      coord: [2718.1865, 81.66724, -1116.6448]
+      text: Lanayru Promenade
+      hash_id: '0x69e2b123299becb5'
+    OrseddBridge:
+      coord: [517.1074, 90.39151, 497.24396]
+      text: Orsedd Bridge
+      hash_id: '0x7f2eed5f9b53af2e'
+    RauruSettlementRuins:
+      coord: [675.8198, 145.6201, 1282.6924]
+      text: Rauru Settlement Ruins
+      hash_id: '0x89c358e908cdd257'
+    RauruSettlementRuinsNear:
+      coord: [689.8762, 0, 1307.7172]
+      text: Rauru Settlement Ruins Near
+      hash_id: '0xe1125b50ff673e2e'
+    StatueoftheEighthHeroine:
+      coord: [-4362.7446, 570.4813, -502]
+      text: Statue of the Eighth Heroine
+      hash_id: '0x015486ce6228ea8c'
+    StatueoftheEighthHeroineNear:
+      coord: [-4365, 0, -492]
+      text: Statue of the Eighth Heroine Near
+      hash_id: '0x5a726b979ec2c9df'
+    SanidinParkRuins:
+      coord: [-1630, 246.74261, -695.5642]
+      text: Sanidin Park Ruins
+      hash_id: '0x566b16269394d95c'
+    ManhalaBridge:
+      coord: [-1611.0278, 108.5708, -1023.41797]
+      text: Manhala Bridge
+      hash_id: '0x1bbd71dd6e8239cf'
+    ArbitersGrounds:
+      coord: [-4157.439, 133.44499, -3803.0579]
+      text: Arbiter's Grounds
+      hash_id: '0x1b1b55373e9e1bcd'
+    ArbitersGroundsNear:
+      coord: [-4157.43, 0, -3753.1467]
+      text: Arbiter's Grounds Near
+      hash_id: '0xb148151029e5ad3a'
+    AncientColumns:
+      coord: [-3574.3079, 469.24103, 436.8629]
+      text: Ancient Columns
+      hash_id: '0xdc816157f93cd045'
+    InogoBridge:
+      coord: [2344.239, 119.5, 249.4776]
+      text: Inogo Bridge
+      hash_id: '0xa800318ace270db0'
+    TabanthaGreatBridge:
+      coord: [-3110.7688, 264.17493, 583.62305]
+      text: Tabantha Great Bridge
+      hash_id: '0xab90dad11f3a9eae'
+    TabanthaVillageRuins:
+      coord: [-2324, 277, 1895]
+      text: Tabantha Village Ruins
+      hash_id: '0x69e2b123bcdc1d41'
+    ThimsBridge:
+      coord: [1283.6816, 127, 690.14014]
+      text: Thims Bridge
+      hash_id: '0x88e9897fa147a1e1'
+    BoneyardBridge:
+      coord: [270.28714, 109.66495, 711.8924]
+      text: Boneyard Bridge
+      hash_id: '0xddd10c67ca80df8d'
+    CarokBridge:
+      coord: [-1087.7875, 130, 474.6085]
+      text: Carok Bridge
+      hash_id: '0x813b2087ad64a225'
+    HorseGodBridge:
+      coord: [596.94653, 162.65384, -3722.3862]
+      text: Horse God Bridge
+      hash_id: '0x69e2b1233a5b4277'
+    MoorGarrisonRuinsNear:
+      coord: [1527, 68, 218]
+      text: Moor Garrison Ruins Near
+      hash_id: '0xc3ac3e246d28a99f'
+    MoorGarrisonRuins:
+      coord: [1527, 68, 208]
+      text: Moor Garrison Ruins
+      hash_id: '0xe6c1d7d3157a9df4'
+    DigdoggSuspensionBridge:
+      coord: [-1661.37, 160.29068, -1531.3278]
+      text: Digdogg Suspension Bridge
+      hash_id: '0xc17c5c51c39799d2'
+    PalmoraeRuins:
+      coord: [3462.3003, 3.8041382, -3378.5364]
+      text: Palmorae Ruins
+      hash_id: '0x69e2b123d5a330fa'
+    ZonaiRuins:
+      coord: [889.8622, 74.07652, -2937.3486]
+      text: Zonai Ruins
+      hash_id: '0x69e2b123d20c0509'
+    GutCheckRock:
+      coord: [2685.9343, 302.04785, 3471.1516]
+      text: Gut Check Rock
+      hash_id: '0x69e2b123c0759d49'
+    AncientTreeStump:
+      coord: [-1111.9902, 168.87401, -415.22052]
+      text: Ancient Tree Stump
+      hash_id: '0x7744ac9862f9b333'
+    AncientTreeStumpNear:
+      coord: [-1120.1992, 0, -386.68478]
+      text: Ancient Tree Stump Near
+      hash_id: '0xb978ee5685e1f43b'
+    FaronWoods:
+      coord: [413.52988, 66.518814, -3030.3894]
+      text: Faron Woods
+      hash_id: '0x69e2b123180e2db1'
+    HyruleForestPark:
+      coord: [192.41907, 105.463, 937.7456]
+      text: Hyrule Forest Park
+      hash_id: '0x69e2b1232942e190'
+    MawofDeathMountain:
+      coord: [2390.9136, 146.12503, 1316.3468]
+      text: Maw of Death Mountain
+      hash_id: '0x69e2b1236cb3e966'
+    GerudoCanyonPass:
+      coord: [-1665, 80, -2028]
+      text: Gerudo Canyon Pass
+      hash_id: '0x69e2b123a987caf3'
+    EastHill:
+      coord: [1867.9307, 166.68553, -804.0288]
+      text: East Hill
+      hash_id: '0xc362fc0be0121156'
+    ThyphloRuins:
+      coord: [327.00436, 0, 3079.971]
+      text: Thyphlo Ruins
+      hash_id: '0x47f4e7545f94b880'
+    EventideIsland:
+      coord: [4586.1587, 140.42606, -3629.8577]
+      text: Eventide Island
+      hash_id: '0xe25529d816a30c15'
+    EastReservoirLake:
+      coord: [3667.748, 324.32303, 179.84644]
+      text: East Reservoir Lake
+      hash_id: '0x28c9db9bcb8d1d90'
+    GerudoDesertGateway:
+      coord: [-2924.1182, 138.41763, -2329.39]
+      text: Gerudo Desert Gateway
+      hash_id: '0x69e2b1235e431199'
+    GuchiniPlainBarrows:
+      coord: [1004.24384, 14.439758, -3456.9558]
+      text: Guchini Plain Barrows
+      hash_id: '0x69e2b12357d51682'
+    RoyalAncientLabRuins:
+      coord: [-1249.5009, 200, 1023.3812]
+      text: Royal Ancient Lab Ruins
+      hash_id: '0x69e2b123f6fa1d0a'
+    ThundraPlateau:
+      coord: [-2265.8643, 0, 921.8176]
+      text: Thundra Plateau
+      hash_id: '0x479239a9acd4648a'
+    ThundraPlateauNear:
+      coord: [-2268.5188, 232.53212, 955.52637]
+      text: Thundra Plateau Near
+      hash_id: '0x731a1582241681de'
+    EldinGreatSkeleton:
+      coord: [1502.24, 209.03925, 3762.9666]
+      text: Eldin Great Skeleton
+      hash_id: '0x69e2b123e3db8a4a'
+    SouthernOasisTrainingArea:
+      coord: [-3647.4285, 121.329506, -3668.182]
+      text: Southern Oasis Training Area
+      hash_id: '0xb4f9a1271575990c'
+    GisaCrater:
+      coord: [-3930.9382, 198.29855, 1067.8035]
+      text: Gisa Crater
+      hash_id: '0x0af9f785563da6ca'
+    MiphaCourt:
+      coord: [3837.922, 596.13696, 566.45776]
+      text: Mipha Court
+      hash_id: '0x45ff63d7b2eb7fed'
+    MiphaCourtNear:
+      coord: [3830.8115, 590.974, 547.3777]
+      text: Mipha Court Near
+      hash_id: '0xb4817dfba31e2d36'
+    DeyaLake:
+      coord: [365.77982, 0, -1882.565]
+      text: Deya Lake
+      hash_id: '0x43a0bd71f7659348'
+    DeyaLake01:
+      coord: [496.1175, 0, -2285.5107]
+      text: Deya Lake
+      hash_id: '0x7fbc3702841f88b3'
+    DeyaLake02:
+      coord: [455.00003, 0, -1999.5756]
+      text: Deya Lake
+      hash_id: '0xe038c1eaef99870c'
+    DaruniaLake:
+      coord: [1405.3325, 0, 2841.8623]
+      text: Darunia Lake
+      hash_id: '0x8daf3888f7e59067'
+    RalisPond:
+      coord: [2926.604, 0, 263.8579]
+      text: Ralis Pond
+      hash_id: '0x9de1f31b6998698d'
+    RalisPond01:
+      coord: [2931.0889, 0, 231.76123]
+      text: Ralis Pond
+      hash_id: '0xdf19731d7b5db44d'
+    GorkoLake:
+      coord: [2097.2947, 0, 2150.3538]
+      text: Gorko Lake
+      hash_id: '0x0b10b735af297dd3'
+    ArisBeach:
+      coord: [1936.0973, 0, -3878.8467]
+      text: Aris Beach
+      hash_id: '0x7c01e20c10bf6c47'
+    HarkerLake:
+      coord: [904.4924, 0, -2873.2678]
+      text: Harker Lake
+      hash_id: '0x57f83a3f74c3a066'
+    MedingoPool:
+      coord: [2212.7102, 0, 1773.6628]
+      text: Medingo Pool
+      hash_id: '0x644b00ebdc4a97dc'
+    GeroPond:
+      coord: [2427.5232, 0, 1728.584]
+      text: Gero Pond
+      hash_id: '0xc8e74b79bf015c65'
+    TarmPoint:
+      coord: [4480.136, 0, -897.2372]
+      text: Tarm Point
+      hash_id: '0x04967e0c25def3c9'
+    SpoolBight:
+      coord: [4403.177, 0, 192.52295]
+      text: Spool Bight
+      hash_id: '0xd5a710a532c38ef7'
+    RasslaLake:
+      coord: [1854.7019, 0, -3679.6672]
+      text: Rassla Lake
+      hash_id: '0xdad186b908477ba0'
+    GogobiShores:
+      coord: [3194.0957, 0, -3559.9326]
+      text: Gogobi Shores
+      hash_id: '0x1170580c7d59bee2'
+    ZelkoaPond:
+      coord: [3493.344, 0, -1964.7734]
+      text: Zelkoa Pond
+      hash_id: '0xc7444a06a35083bd'
+    NirvataLake:
+      coord: [3208.8003, 0, -1698.877]
+      text: Nirvata Lake
+      hash_id: '0xbe8784bf45d8c58e'
+    SkullLake:
+      coord: [3313.5579, 0, 3498.7183]
+      text: Skull Lake
+      hash_id: '0x28e957a003f6586f'
+    LuluLake:
+      coord: [3709.504, 0, 587.6111]
+      text: Lulu Lake
+      hash_id: '0x14e6b478499dceec'
+    NabiLake:
+      coord: [1098.4723, 0, -1162.9218]
+      text: Nabi Lake
+      hash_id: '0x92d7b349db7d33d4'
+    MenoatRiver:
+      coord: [-15.196289, 0, -3251.9248]
+      text: Menoat River
+      hash_id: '0x00404edc21f988af'
+    LakeMekar:
+      coord: [337.236, 0, 2749.984]
+      text: Lake Mekar
+      hash_id: '0x07f0f04c1703f2ac'
+    LakeMekar01:
+      coord: [-224.73596, 0, 2056.397]
+      text: Lake Mekar
+      hash_id: '0x1215f6f351667e3b'
+    LakeMekar02:
+      coord: [277.05142, 0, 1632.1807]
+      text: Lake Mekar
+      hash_id: '0x248cbc0eed2e79b7'
+    LakeMekar03:
+      coord: [893.1265, 0, 2537.4187]
+      text: Lake Mekar
+      hash_id: '0x320c403f167a2bb5'
+    HopperPond:
+      coord: [-1191.4772, 0, -1659.2834]
+      text: Hopper Pond
+      hash_id: '0xeb470bed8f102283'
+    FloriaFalls:
+      coord: [1772.7584, 0, -3256.4968]
+      text: Floria Falls
+      hash_id: '0xf862905319138026'
+    FloriaRiver:
+      coord: [1277.0026, 0, -3327.131]
+      text: Floria River
+      hash_id: '0x1b3baf0e2adb9808'
+    FloriaRiver01:
+      coord: [869.362, 0, -3143.61]
+      text: Floria River
+      hash_id: '0xac13f8a0a0f81035'
+    LakeIntenoch:
+      coord: [2598.2202, 0, 1719.2148]
+      text: Lake Intenoch
+      hash_id: '0x084eacc7065105df'
+    LakeIntenoch01:
+      coord: [2420.754, 0, 1421.7026]
+      text: Lake Intenoch
+      hash_id: '0x8e06ad80f34796b0'
+    LakeIntenoch02:
+      coord: [2519.544, 0, 1516.6483]
+      text: Lake Intenoch
+      hash_id: '0x9fe1d974285202e2'
+    PurifierLake:
+      coord: [3261.3813, 0, -1314.1152]
+      text: Purifier Lake
+      hash_id: '0x081224bb590ee875'
+    RutalaDam:
+      coord: [3557.4536, 0, -78.21869]
+      text: Rutala Dam
+      hash_id: '0x9c4929b1eb360f09'
+    RutalaRiver:
+      coord: [3206.1938, 0, -352.75214]
+      text: Rutala River
+      hash_id: '0x98d9872777b902ab'
+    RutalaRiver01:
+      coord: [2518.1003, 0, -198.97699]
+      text: Rutala River
+      hash_id: '0xb979e0da33ba854f'
+    LakeKolomo:
+      coord: [-487.485, 0, -1163.0908]
+      text: Lake Kolomo
+      hash_id: '0x4d838b21009cc682'
+    CephlaLake:
+      coord: [2750.7034, 0, 1480.5386]
+      text: Cephla Lake
+      hash_id: '0x37b29f2d25891232'
+    CephlaLake01:
+      coord: [2769.9443, 0, 989.49023]
+      text: Cephla Lake
+      hash_id: '0xc698c1669403e306'
+    CephlaLake02:
+      coord: [2753.6794, 0, 1274.4198]
+      text: Cephla Lake
+      hash_id: '0xe1dd3f00adf0b271'
+    LakeFerona:
+      coord: [2186.5237, 0, 1193.0283]
+      text: Lake Ferona
+      hash_id: '0xbb446d70e149556f'
+    FirRiver:
+      coord: [2821.5454, 0, -1952.351]
+      text: Fir River
+      hash_id: '0xf3dbcf43bbfaeffe'
+    BonéPond:
+      coord: [2083.9473, 0, 13.672485]
+      text: Boné Pond
+      hash_id: '0xb66ac70985ce9300'
+    LakeSumac:
+      coord: [3721.6108, 0, -1905.7122]
+      text: Lake Sumac
+      hash_id: '0x85ba8ecf16a53204'
+    BloodleafLake:
+      coord: [4268.1465, 0, 3017.4836]
+      text: Bloodleaf Lake
+      hash_id: '0xfd7029321d791a03'
+    LanternLake:
+      coord: [1710.6403, 0, -948.33246]
+      text: Lantern Lake
+      hash_id: '0x0f77c6cb5a93bc39'
+    HaranLake:
+      coord: [376.62482, 0, -3477.8857]
+      text: Haran Lake
+      hash_id: '0x07d1443fa854c5c4'
+    StrockLake:
+      coord: [-3383.4763, 0, 1233.7885]
+      text: Strock Lake
+      hash_id: '0x48273b840bb47a18'
+    StrockLake01:
+      coord: [-3248.7734, 0, 1436.4025]
+      text: Strock Lake
+      hash_id: '0xe72fd932258a095a'
+    KitanoBay:
+      coord: [3684.6482, 0, -2503.4668]
+      text: Kitano Bay
+      hash_id: '0xe37b1a3ffe799375'
+    EastAkkalaBeach:
+      coord: [4353.725, 0, 2400.4111]
+      text: East Akkala Beach
+      hash_id: '0x417b62885006c373'
+    EastAkkalaBeach01:
+      coord: [4273.578, 0, 2072.3997]
+      text: East Akkala Beach
+      hash_id: '0x546f85f1e7b6ad5a'
+    DeepbackBay:
+      coord: [4283.439, 0, -2355.3435]
+      text: Deepback Bay
+      hash_id: '0x5b11c049212712a3'
+    BankofWishes:
+      coord: [2751.7227, 0, 87.14343]
+      text: Bank of Wishes
+      hash_id: '0x35ad1c98aa272374'
+    RiveroftheDead:
+      coord: [-1227.8818, 0, -1981.25]
+      text: River of the Dead
+      hash_id: '0x354ae8036416cb86'
+    HyruleCastleMoat:
+      coord: [-326.03992, 0, 650.64795]
+      text: Hyrule Castle Moat
+      hash_id: '0x2152f745722a0bc8'
+    HyruleCastleMoat01:
+      coord: [-291.41528, 0, 1257.6892]
+      text: Hyrule Castle Moat
+      hash_id: '0x3df7259871b51c84'
+    HyruleCastleMoat02:
+      coord: [-3.6827393, 0, 1228.5322]
+      text: Hyrule Castle Moat
+      hash_id: '0x7d2f9152ff34bbb9'
+    HyruleCastleMoat03:
+      coord: [53.319427, 0, 762.68677]
+      text: Hyrule Castle Moat
+      hash_id: '0x92a72825f136d21d'
+    HyruleCastleMoat04:
+      coord: [-583.5325, 0, 947.4524]
+      text: Hyrule Castle Moat
+      hash_id: '0xa507b43747c6de3b'
+    HyruleCastleMoat05:
+      coord: [-475.42493, 0, 1171.53]
+      text: Hyrule Castle Moat
+      hash_id: '0xa512a63b9ffea59e'
+    HyruleCastleMoat06:
+      coord: [-532.4271, 0, 756.79004]
+      text: Hyrule Castle Moat
+      hash_id: '0xa8635fa04b9de095'
+    HyruleCastleMoat07:
+      coord: [51.35385, 0, 1028.0417]
+      text: Hyrule Castle Moat
+      hash_id: '0xb9b48cd4a2ab4de0'
+    GoronbiLake:
+      coord: [1801.1567, 0, 1482.7943]
+      text: Goronbi Lake
+      hash_id: '0x4cf6a25857ba81cb'
+    GoronbiRiver:
+      coord: [1566.6991, 0, 1842.9304]
+      text: Goronbi River
+      hash_id: '0x682ca06475edbe31'
+    SokaPoint:
+      coord: [3800.0117, 0, -3656.9583]
+      text: Soka Point
+      hash_id: '0x5a5f8a869cae4b39'
+    ZoraRiver:
+      coord: [2657.7761, 0, 364.3933]
+      text: Zora River
+      hash_id: '0x0e3169d3564c4c3f'
+    ZoraRiver01:
+      coord: [2112.2498, 0, 163.70892]
+      text: Zora River
+      hash_id: '0xc272c8fc332aab74'
+    TeltaLake:
+      coord: [1714.2354, 0, -764.18555]
+      text: Telta Lake
+      hash_id: '0xb25e8f7ecdf2023e'
+    TeltaLake01:
+      coord: [1712.8828, 0, -777.0475]
+      text: Telta Lake
+      hash_id: '0xfc1e9440e0ed1814'
+    CamphorPond:
+      coord: [3061.6787, 0, -2042.0637]
+      text: Camphor Pond
+      hash_id: '0x61e8a16ed8b7a13d'
+    RegenciaRiver:
+      coord: [-1767.8926, 0, -1222.1437]
+      text: Regencia River
+      hash_id: '0x141fc9f4bb229d71'
+    RegenciaRiver01:
+      coord: [-1557.5244, 0, -921.486]
+      text: Regencia River
+      hash_id: '0x1e50e609b8658516'
+    RegenciaRiver02:
+      coord: [-1657.8899, 0, -1121.0767]
+      text: Regencia River
+      hash_id: '0x31f119b4e20ab635'
+    RegenciaRiver03:
+      coord: [-1293.3462, 0, -434.82825]
+      text: Regencia River
+      hash_id: '0x546b166947e76245'
+    RegenciaRiver04:
+      coord: [-1863.418, 0, -1399.3282]
+      text: Regencia River
+      hash_id: '0x8671c8b875ba3f9e'
+    RegenciaRiver05:
+      coord: [-1365.7607, 0, -681.3458]
+      text: Regencia River
+      hash_id: '0xb47642da74236d7a'
+    RegenciaRiver06:
+      coord: [-1455.1233, 0, -177.52551]
+      text: Regencia River
+      hash_id: '0xbcade72795f50d04'
+    RegenciaRiver07:
+      coord: [-1243.6659, 0, 124.34314]
+      text: Regencia River
+      hash_id: '0xe5a9df63d809270b'
+    HebraPlunge:
+      coord: [-2866.764, 0, 2008.3376]
+      text: Hebra Plunge
+      hash_id: '0x0c88765d16160983'
+    HebraPlunge01:
+      coord: [-3072.1836, 0, 2134.8208]
+      text: Hebra Plunge
+      hash_id: '0xe60a6c17c5ab0b58'
+    DracozuLake:
+      coord: [928.17365, 0, -2583.1191]
+      text: Dracozu Lake
+      hash_id: '0xf11eb3f61834b014'
+    DracozuRiver:
+      coord: [1023.65497, 0, -2762.5396]
+      text: Dracozu River
+      hash_id: '0xc7cef4ec93874bcd'
+    HebraHeadspring:
+      coord: [-2830.4207, 0, 2415.83]
+      text: Hebra Headspring
+      hash_id: '0x82c1b998f5bb17b0'
+    HerinLake:
+      coord: [1017.2119, 0, -3512.1016]
+      text: Herin Lake
+      hash_id: '0xac8bf41b80538325'
+    NorthAkkalaBeach:
+      coord: [4717.2964, 0, 2923.5142]
+      text: North Akkala Beach
+      hash_id: '0xb8f2fa486394268a'
+    HatenoBay:
+      coord: [4021.11, 0, -2422.6846]
+      text: Hateno Bay
+      hash_id: '0x18d6c6939172e89f'
+    KeyaPond:
+      coord: [2995.0415, 0, -2916.2478]
+      text: Keya Pond
+      hash_id: '0x711271da0ff652e4'
+    AshSwamp:
+      coord: [1977.8481, 0, -1842.4929]
+      text: Ash Swamp
+      hash_id: '0xe844ee33d9dd866f'
+    DarbPond:
+      coord: [2336.4668, 0, 2042.6836]
+      text: Darb Pond
+      hash_id: '0x844b3aa2913387ac'
+    HanuPond:
+      coord: [2787.8066, 0, -2730.7444]
+      text: Hanu Pond
+      hash_id: '0xc952405dd4f1d849'
+    AquameLake:
+      coord: [-1304.1285, 0, -1095.3358]
+      text: Aquame Lake
+      hash_id: '0x439c83f24af481a4'
+    AquameLake01:
+      coord: [-993.44324, 0, -1163.1805]
+      text: Aquame Lake
+      hash_id: '0xe7784ef7803e7cab'
+    UtenMarsh:
+      coord: [2700.9373, 0, -2944.8423]
+      text: Uten Marsh
+      hash_id: '0xf267e74ab5e046d6'
+    LakeFloria:
+      coord: [1737.8597, 0, -3532.0127]
+      text: Lake Floria
+      hash_id: '0x2b2cad1049444554'
+    LakeHylia:
+      coord: [-255.5434, 0, -2430.4255]
+      text: Lake Hylia
+      hash_id: '0x1740a688faf1ea04'
+    LakeHylia01:
+      coord: [17.375702, 0, -2262.132]
+      text: Lake Hylia
+      hash_id: '0x2d45d73722bb288d'
+    LakeHylia02:
+      coord: [261.76752, 0, -2712.565]
+      text: Lake Hylia
+      hash_id: '0x355b6ec40c1523b1'
+    LakeHylia03:
+      coord: [146.22937, 0, -2481.1104]
+      text: Lake Hylia
+      hash_id: '0x454287ecb1583865'
+    LakeHylia04:
+      coord: [-431.0963, 0, -2302.1946]
+      text: Lake Hylia
+      hash_id: '0x4d8e8a91e38d46fb'
+    LakeHylia05:
+      coord: [-312.90015, 0, -2781.2449]
+      text: Lake Hylia
+      hash_id: '0x62dd6bbe5506d02e'
+    LanayruBay:
+      coord: [3449.1982, 0, -752.7706]
+      text: Lanayru Bay
+      hash_id: '0x37ffbddf7c7110f9'
+    LanayruBay01:
+      coord: [3813.8928, 0, -612.9576]
+      text: Lanayru Bay
+      hash_id: '0xeb66cd615922d5a2'
+    GoroCove:
+      coord: [1864.9131, 0, 2453.815]
+      text: Goro Cove
+      hash_id: '0xffd3f06a083fb42d'
+    FaronSea:
+      coord: [-51.15857, 0, -3986.3625]
+      text: Faron Sea
+      hash_id: '0xd65e70ef53c83034'
+    NecludaSea:
+      coord: [4141.2075, 0, -2845.0447]
+      text: Necluda Sea
+      hash_id: '0xd61a3e61f06cfcd2'
+    LakeHylia06:
+      coord: [-149.24744, 0, -2521.087]
+      text: Lake Hylia
+      hash_id: '0x69f687b397656e00'
+    LanayruSea:
+      coord: [4674.5444, 0, 196.79657]
+      text: Lanayru Sea
+      hash_id: '0xe54a893fa3a9d14b'
+    LanayruGreatSpring:
+      coord: [3568.6436, 0, -108.86597]
+      text: Lanayru Great Spring
+      hash_id: '0x7b36033c31325f18'
+    AkkalaSea:
+      coord: [4811.545, 0, 3428.552]
+      text: Akkala Sea
+      hash_id: '0xf2821a9696509687'
+    AfromsiaCoast:
+      coord: [4603.3115, 0, -1830.0884]
+      text: Afromsia Coast
+      hash_id: '0x5c5dd5b625ca775b'
+    MalinBay:
+      coord: [4405.705, 0, 1900.773]
+      text: Malin Bay
+      hash_id: '0xe70f57c4e34cc982'
+    AkkalaFalls:
+      coord: [3732.2344, 0, 1171.4526]
+      text: Akkala Falls
+      hash_id: '0x3a086b4fa013510b'
+    SouthLakeAkkala:
+      coord: [3586.3398, 0, 1126.5767]
+      text: South Lake Akkala
+      hash_id: '0xd9ce70e3308151ea'
+    LoshloHarbor:
+      coord: [3480.9062, 0, -2879.9397]
+      text: Loshlo Harbor
+      hash_id: '0xefd527e1b5772843'
+    MikauLake:
+      coord: [3548.668, 0, 563.77637]
+      text: Mikau Lake
+      hash_id: '0xedf0a56dad5bccf5'
+    ZeloPond:
+      coord: [1646.4128, 0, 511.10638]
+      text: Zelo Pond
+      hash_id: '0xe2a231be1b48bfa8'
+    CoraLake:
+      coord: [-48.05896, 0, -3056.3643]
+      text: Cora Lake
+      hash_id: '0xb3bea5b8a298053e'
+    LakeSaria:
+      coord: [64.06232, 0, 1883.1592]
+      text: Lake Saria
+      hash_id: '0xd2cfd2c94aac8c0b'
+    LakeSiela:
+      coord: [2129.8086, 0, -1451.4823]
+      text: Lake Siela
+      hash_id: '0x62b65c475892251d'
+    LakeSiela01:
+      coord: [1627.2805, 1.3447876, -1383.4065]
+      text: Lake Siela
+      hash_id: '0x89c32102c964eb34'
+    RutoLake:
+      coord: [3171.1523, 0, 162.50677]
+      text: Ruto Lake
+      hash_id: '0xec59d56fecc68dba'
+    PufferBeach:
+      coord: [231.50653, 0, -3897.292]
+      text: Puffer Beach
+      hash_id: '0x2f9aebf8f0db709c'
+    HoronLagoon:
+      coord: [4234.2026, 0, -314.3643]
+      text: Horon Lagoon
+      hash_id: '0x7b870cd8c6e8d56f'
+    MidoSwamp:
+      coord: [812.01465, 0, 2353.9492]
+      text: Mido Swamp
+      hash_id: '0x1b4e673f55e80c8a'
+    BottomlessPond:
+      coord: [509.91846, 0, -581.55493]
+      text: Bottomless Pond
+      hash_id: '0x3454ca9054f3072e'
+    VeiledFalls:
+      coord: [3082.758, 0, 455.61804]
+      text: Veiled Falls
+      hash_id: '0xb50642f60840528c'
+    CaloraLake:
+      coord: [2019.8923, 0, -3215.872]
+      text: Calora Lake
+      hash_id: '0x43426171bfc105a5'
+    LakeTotori:
+      coord: [-3753.8667, 0, 1745.084]
+      text: Lake Totori
+      hash_id: '0x27c544bf9817e983'
+    LakeTotori01:
+      coord: [-3444.8818, 0, 1724.9788]
+      text: Lake Totori
+      hash_id: '0x9d8cd3e0d12af5f5'
+    LakeTotori02:
+      coord: [-3607.6758, 0, 1941.1006]
+      text: Lake Totori
+      hash_id: '0xf8e50fea8ba9ad37'
+    RodaiLake:
+      coord: [1864.0039, 0, -3129.849]
+      text: Rodai Lake
+      hash_id: '0x6798d97dbafc2cd1'
+    LakeJarrah:
+      coord: [2967.4458, 0, -2223.7002]
+      text: Lake Jarrah
+      hash_id: '0xce7fc08bf3ad9502'
+    HyliaRiver:
+      coord: [783.3584, 0, 127.94531]
+      text: Hylia River
+      hash_id: '0x3f11fd663643b00e'
+    HyliaRiver01:
+      coord: [486.45242, 0, -1090.9208]
+      text: Hylia River
+      hash_id: '0x524a1ce02fa82151'
+    HyliaRiver02:
+      coord: [337.73953, 0, 656.6373]
+      text: Hylia River
+      hash_id: '0x5b718306b74d9e8b'
+    HyliaRiver03:
+      coord: [819.09955, 0, -412.65115]
+      text: Hylia River
+      hash_id: '0x8434d1dc23b7a6e4'
+    HyliaRiver04:
+      coord: [125.79364, 0, -1755.1829]
+      text: Hylia River
+      hash_id: '0xe3f12c8b362ceef0'
+    SouthNabiLake:
+      coord: [870.3967, 0, -1604.0012]
+      text: South Nabi Lake
+      hash_id: '0x0bd100509fc8d38f'
+    TotoLake:
+      coord: [3478.03, 515.1305, 889.8486]
+      text: Toto Lake
+      hash_id: '0xbbb97ca676f4c1af'
+    CortaLake:
+      coord: [1685.5896, 0, -3089.0378]
+      text: Corta Lake
+      hash_id: '0x41113711d210f5f8'
+    PicoPond:
+      coord: [1201.6989, 0, 1144.2507]
+      text: Pico Pond
+      hash_id: '0x7f7867d978d41250'
+    FirlyPond:
+      coord: [3266.479, 0, -2232.8833]
+      text: Firly Pond
+      hash_id: '0x761338670dcf9d9e'
+    SouthernOasis:
+      coord: [-3721.7266, 0, -3581.0767]
+      text: Southern Oasis
+      hash_id: '0xfedde9f0fbb3e9f7'
+    RutileLake:
+      coord: [-2531.6458, 0, -633.1318]
+      text: Rutile Lake
+      hash_id: '0x2ae0243dfbf568bb'
+    LakeIllumeni:
+      coord: [-3536.961, 0, -149.46045]
+      text: Lake Illumeni
+      hash_id: '0x5d2cc52d97a9059f'
+    TamioRiver:
+      coord: [-2465.394, 0, -200.18527]
+      text: Tamio River
+      hash_id: '0x2fa10ef5b93caddb'
+    TamioRiver01:
+      coord: [-2350.7256, 0, -84.72537]
+      text: Tamio River
+      hash_id: '0x98473ffd0dc8c6b3'
+    TamioRiver02:
+      coord: [-2935.318, 0, -546.8506]
+      text: Tamio River
+      hash_id: '0xb26d2e75e8f692f9'
+    HebraFalls:
+      coord: [-2756.67, 0, 2328.2097]
+      text: Hebra Falls
+      hash_id: '0x0e4818cc7eef96b6'
+    TamaPond:
+      coord: [-2963.5115, 0, 1897.9802]
+      text: Tama Pond
+      hash_id: '0x7822f9f6ed4ac0d9'
+    BatreaLake:
+      coord: [562.98334, 0, -1233.8383]
+      text: Batrea Lake
+      hash_id: '0x12d7e588f4876acf'
+    KotoPond:
+      coord: [2397.3071, 0, -2533.541]
+      text: Koto Pond
+      hash_id: '0x8476de50985cca48'
+    OaklesNavel:
+      coord: [2473.8613, 0, -2085.7803]
+      text: Oakle's Navel
+      hash_id: '0x726b6f6b573ae976'
+    OaklesNavel01:
+      coord: [2483.4697, 0, -2059.794]
+      text: Oakle's Navel
+      hash_id: '0xf4b553201ffb8af8'
+    ShatterbackPoint:
+      coord: [3757.118, 0, 397]
+      text: Shatterback Point
+      hash_id: '0x99bfbf43f3176bfc'
+    LakeoftheHorseGod:
+      coord: [635.19073, 0, -3635.1138]
+      text: Lake of the Horse God
+      hash_id: '0x57c2ca5c229c02a5'
+    LakeKilsie:
+      coord: [-3927.746, 0, 2544.069]
+      text: Lake Kilsie
+      hash_id: '0x1f9733ce1461dab8'
+    LakeKilsie01:
+      coord: [-3903.2441, 0, 2757.8367]
+      text: Lake Kilsie
+      hash_id: '0x472d268122880782'
+    LakeKilsie02:
+      coord: [-4099.687, 0, 2370.2788]
+      text: Lake Kilsie
+      hash_id: '0xb21964c1475989d3'
+    RiolaSpring:
+      coord: [1789.1, 0, -2942.5522]
+      text: Riola Spring
+      hash_id: '0x6836bfe6f6a311a1'
+    CapeCales:
+      coord: [3544.8135, 0, -3261.2712]
+      text: Cape Cales
+      hash_id: '0x3369d0fc5c4bbbd3'
+    LakeAkkala:
+      coord: [3924.2898, 0, 1496.9026]
+      text: Lake Akkala
+      hash_id: '0x31b3ed8f9dd71e72'
+    LakeAkkala01:
+      coord: [3939.0696, 0, 1757.6511]
+      text: Lake Akkala
+      hash_id: '0xbaedb5b787a5a1e7'
+    LakeAkkala02:
+      coord: [3709.521, 0, 1286.9932]
+      text: Lake Akkala
+      hash_id: '0xdfa17ecf2922b5a7'
+    YambiLake:
+      coord: [2475.1802, 0, -3583.5164]
+      text: Yambi Lake
+      hash_id: '0x62b19aaf01028627'
+    SquabbleRiver:
+      coord: [496.78476, 0, -1533.9364]
+      text: Squabble River
+      hash_id: '0x345289e76acf3193'
+    SquabbleRiver01:
+      coord: [2397.9749, 0, -1887.8186]
+      text: Squabble River
+      hash_id: '0x39806e1df0b014e0'
+    SquabbleRiver02:
+      coord: [917.0587, 0, -1784.0917]
+      text: Squabble River
+      hash_id: '0x40b0232a197b26d0'
+    SquabbleRiver03:
+      coord: [2129.2234, 0, -2246.6802]
+      text: Squabble River
+      hash_id: '0x5684f5e4d0054d60'
+    GolowRiver:
+      coord: [1486.099, 0, 2549.5781]
+      text: Golow River
+      hash_id: '0x6e5f448492bc3456'
+    LakeDarman:
+      coord: [2005.7406, 0, 3031.6663]
+      text: Lake Darman
+      hash_id: '0xb9c16bec3f159df4'
+    AkkalaAncientTechLab:
+      coord: [4522.0146, 304.2327, 3166.6328]
+      text: Akkala Ancient Tech Lab
+      hash_id: '0x69e2b123393ea7c5'
+    KolamiBridge:
+      coord: [-3117.187, 0, 1287.5734]
+      text: Kolami Bridge
+      hash_id: '0xab23bbc5a3c943c8'
+    EasternAbbey:
+      coord: [-530.6277, 0, -1959.6763]
+      text: Eastern Abbey
+      hash_id: '0x1660a5ebe0447c88'
+    EastCastleTown:
+      coord: [-14.095215, 0, 457.56494]
+      text: East Castle Town
+      hash_id: '0x4b1a7592f2c53285'
+    WestCastleTown:
+      coord: [-514.2282, 0, 450]
+      text: West Castle Town
+      hash_id: '0x83b0570d9cfcbe08'
+    ForgottenTemple:
+      coord: [-1578.4408, 0, 2106.54]
+      text: Forgotten Temple
+      hash_id: '0xcce8d97cd0fb2dc9'
+    QuarryRuins:
+      coord: [-726.199, 0, 413.94202]
+      text: Quarry Ruins
+      hash_id: '0x18c85d1ff8fbf19a'
+    ChampionsGate:
+      coord: [-2042.2573, 0, -3194.0706]
+      text: Champion's Gate
+      hash_id: '0xa3f6cb4ff514155f'
+    RanchRuins:
+      coord: [108.12793, 0, -275.6665]
+      text: Ranch Ruins
+      hash_id: '0xd3561a5cfbfc1e35'
+    WestGerudoRuins:
+      coord: [-4468.5576, 0, -2296.87]
+      text: West Gerudo Ruins
+      hash_id: '0xcc249b34870f27fc'
+    GreatZoraBridge:
+      coord: [3233.1833, 0, 314.30225]
+      text: Great Zora Bridge
+      hash_id: '0x2da3bd82854e2af1'
+    OctorokLake:
+      coord: [4069.0063, 137.32935, 2460.2385]
+      text: Octorok Lake
+      hash_id: '0x27e15004b8b3f50c'
+    GorkoTunnel:
+      coord: [2007.9613, 0, 2013.301]
+      text: Gorko Tunnel
+      hash_id: '0x318887767224c86d'
+    DeathCaldera:
+      coord: [2563.403, 0, 2971.021]
+      text: Death Caldera
+      hash_id: '0x8af71caff1fd15d8'
+    GoronHotSprings:
+      coord: [1775.9618, 0, 2255.6782]
+      text: Goron Hot Springs
+      hash_id: '0x0e801b8c1dd41c2f'
+    DaliteForest:
+      coord: [-2051.041, 0, -1138.946]
+      text: Dalite Forest
+      hash_id: '0xcf1b21f97973bbf8'
+    GinnerWoods:
+      coord: [3202.2024, 0, -2083.38]
+      text: Ginner Woods
+      hash_id: '0x0fdfc44582481b13'
+    BronasForest:
+      coord: [1477.9392, 0, -3254.4382]
+      text: Bronas Forest
+      hash_id: '0x5510d45c199a93f8'
+    BubingaForest:
+      coord: [2085.3906, 0, -2094.244]
+      text: Bubinga Forest
+      hash_id: '0x39a4aba0db5bad3c'
+    DamelForest:
+      coord: [832.0786, 0, -2700.0796]
+      text: Damel Forest
+      hash_id: '0xc3542aa2e20499d1'
+    RetsamForest:
+      coord: [3853.0227, 0, -2011.5885]
+      text: Retsam Forest
+      hash_id: '0xeccf9cca6cfac902'
+    ForestofSpirits:
+      coord: [-962.7612, 0, -1705.2804]
+      text: Forest of Spirits
+      hash_id: '0x4600fbdea759810f'
+    FinraWoods:
+      coord: [423.3096, 0, -2952.6252]
+      text: Finra Woods
+      hash_id: '0x6d7a6fc93b8b78a6'
+    RokWoods:
+      coord: [3352.4658, 0, 3089.0872]
+      text: Rok Woods
+      hash_id: '0xd7397c3aca3e952c'
+    MinshiWoods:
+      coord: [1015.7352, 0, 1770.9055]
+      text: Minshi Woods
+      hash_id: '0xcae1960c209579c2'
+    MinshiWoods01:
+      coord: [1081.771, 0, 1503.86]
+      text: Minshi Woods
+      hash_id: '0xf6cfc6fc73e232eb'
+    GreatHyruleForest:
+      coord: [363.82925, 0, 2545.783]
+      text: Great Hyrule Forest
+      hash_id: '0xe5c3d3eaf41a0abe'
+    MidlaWoods:
+      coord: [3100.8196, 0, -2163.6345]
+      text: Midla Woods
+      hash_id: '0x882c438c329d74f2'
+    PappettoGroveSurface:
+      coord: [-339.3401, 0, -3567.0925]
+      text: Pappetto Grove Surface
+      hash_id: '0x8e1a4ddfdfbca1a7'
+    AppleanForest:
+      coord: [552.6283, 0, 288.83276]
+      text: Applean Forest
+      hash_id: '0x97ef2118214ce4be'
+    HickalyWoods:
+      coord: [1951.004, 0, -2441.7815]
+      text: Hickaly Woods
+      hash_id: '0xadb3ca9616628ede'
+    EbaraForest:
+      coord: [1885.2363, 0, -3326.098]
+      text: Ebara Forest
+      hash_id: '0xc0ad0a032c8aa2b6'
+    SarjonWoods:
+      coord: [1131.6309, 0, -3279.0986]
+      text: Sarjon Woods
+      hash_id: '0x475a732bd0f4d69b'
+    GiantsForest:
+      coord: [-1184.64, 0, -114.00159]
+      text: Giant's Forest
+      hash_id: '0xfc0b37b4199a439a'
+    PagosWoods:
+      coord: [689.8911, 0, -3058.266]
+      text: Pagos Woods
+      hash_id: '0xdf4eca9f09a2ab2c'
+    TabahlWoods:
+      coord: [2572.5447, 0, 176.81873]
+      text: Tabahl Woods
+      hash_id: '0xee6068861a7d7f09'
+    ForestofTime:
+      coord: [-367.9718, 0, -1525.3655]
+      text: Forest of Time
+      hash_id: '0x08fc2e1073734fa4'
+    MountAgaat:
+      coord: [-4931.034, 0, -861.76044]
+      text: Mount Agaat
+      hash_id: '0x00fabbe4fcfcb143'
+    JiaHighlands:
+      coord: [1506.6082, 0, -2465.7075]
+      text: Jia Highlands
+      hash_id: '0xf4b7330b4dc896f1'
+    LanayruRange:
+      coord: [3993.5183, 0, -1596.3353]
+      text: Lanayru Range
+      hash_id: '0x4a3c60db6a9e018f'
+    SolewoodRange:
+      coord: [4403.436, 0, -2205.3933]
+      text: Solewood Range
+      hash_id: '0xdaf0ab5eaad2700a'
+    PasserHill:
+      coord: [-3998.9048, 0, 1614.1091]
+      text: Passer Hill
+      hash_id: '0xdc1a319f40b2d061'
+    BiridaLookout:
+      coord: [-3475.8167, 0, -1868.02]
+      text: Birida Lookout
+      hash_id: '0x90b3730ec0e9b7f0'
+    PoplaFoothills:
+      coord: [812.7005, 0, -2177.1309]
+      text: Popla Foothills
+      hash_id: '0x61f4c57c288509c6'
+    MountDunsel:
+      coord: [3197.3926, 0, -3170.665]
+      text: Mount Dunsel
+      hash_id: '0x561c2da3905d49a7'
+    DunselPlateau:
+      coord: [3002.681, 0, -3081.7515]
+      text: Dunsel Plateau
+      hash_id: '0xb3f8837180a33142'
+    EastDeplianBadlands:
+      coord: [1126.0508, 0, 3673.3691]
+      text: East Deplian Badlands
+      hash_id: '0x1a24d2872e552c21'
+    EastDeplianBadlands01:
+      coord: [1677.9221, 0, 3670.0684]
+      text: East Deplian Badlands
+      hash_id: '0x5ad271df0f9efced'
+    EastGerudoMesa:
+      coord: [-1576.9058, 0, -2987.6006]
+      text: East Gerudo Mesa
+      hash_id: '0xe32fc3a7a16c474d'
+    DeplianBadlands:
+      coord: [335.73495, 0, 3693.1484]
+      text: Deplian Badlands
+      hash_id: '0xb1d7b068d16447ba'
+    MountNabooru:
+      coord: [-1885.7395, 0, -1920.1152]
+      text: Mount Nabooru
+      hash_id: '0xc77e8f8e488cda40'
+    CliffsofQuince:
+      coord: [2600.7773, 0, -1779.888]
+      text: Cliffs of Quince
+      hash_id: '0x77bb0b9a98d9b4ad'
+    ShadowPass:
+      coord: [3382.508, 0, 2273.783]
+      text: Shadow Pass
+      hash_id: '0x48cc5c866c3e3ec7'
+    CrenelHills:
+      coord: [680.5388, 0, 909.2051]
+      text: Crenel Hills
+      hash_id: '0x975c732238a86abc'
+    CrenelPeak:
+      coord: [1169.8965, 0, 418.94092]
+      text: Crenel Peak
+      hash_id: '0xa7202b709bd7aabb'
+    GerudoCanyon:
+      coord: [-2308.2344, 0, -2216.004]
+      text: Gerudo Canyon
+      hash_id: '0xe39cb9fb21e9f69b'
+    GerudoSummit:
+      coord: [-4104.676, 0, -699.1396]
+      text: Gerudo Summit
+      hash_id: '0x73f90ad9bbfd703f'
+    RutoMountain:
+      coord: [3243.232, 0, -94.80029]
+      text: Ruto Mountain
+      hash_id: '0x1ecdaca4c5412966'
+    MountFloria:
+      coord: [1931.0382, 0, -2777.7593]
+      text: Mount Floria
+      hash_id: '0xf8a3c47fbe16f741'
+    NeroHill:
+      coord: [-3638.6348, 0, 948.8678]
+      text: Nero Hill
+      hash_id: '0x21621618a16627be'
+    PiperRidge:
+      coord: [-3478.0706, 0, 679.18066]
+      text: Piper Ridge
+      hash_id: '0x4e2341897c1103b4'
+    TuftMountain:
+      coord: [2566.6294, 0, -3474.8127]
+      text: Tuft Mountain
+      hash_id: '0x532a1f7009a6caf8'
+    PierrePlateau:
+      coord: [2213.0557, 0, -944.0733]
+      text: Pierre Plateau
+      hash_id: '0x489a5c7300e77461'
+    CuhoMountain:
+      coord: [-3834.2827, 0, 1326.9097]
+      text: Cuho Mountain
+      hash_id: '0xea5b0442a29b4d06'
+    HebraEastSummit:
+      coord: [-2752.838, 0, 3053.6663]
+      text: Hebra East Summit
+      hash_id: '0x75834b2e52fb7869'
+    IcefallFoothills:
+      coord: [-4311.6025, 0, 3792.5413]
+      text: Icefall Foothills
+      hash_id: '0x25583be4c6ab0bfe'
+    HebraNorthCrest:
+      coord: [-3539.2683, 0, 3740.2095]
+      text: Hebra North Crest
+      hash_id: '0x0903ad601c583fbb'
+    HebraNorthSummit:
+      coord: [-3983.6406, 0, 3612.7207]
+      text: Hebra North Summit
+      hash_id: '0xa86584a3eb3baedd'
+    HebraPeak:
+      coord: [-2770.6824, 0, 2913.745]
+      text: Hebra Peak
+      hash_id: '0x79d030f69209e9c1'
+    HebraSouthSummit:
+      coord: [-3471.1555, 0, 2576.249]
+      text: Hebra South Summit
+      hash_id: '0x0243bb21046f5528'
+    HebraWestSummit:
+      coord: [-4422.7983, 0, 2722.941]
+      text: Hebra West Summit
+      hash_id: '0xf77d8137fd2fee89'
+    HebraWestSummit01:
+      coord: [-4455.3276, 0, 3171.2236]
+      text: Hebra West Summit
+      hash_id: '0xf91fba46916cc50f'
+    HemaarsDescent:
+      coord: [-4239.648, 0, -152.97552]
+      text: Hemaar's Descent
+      hash_id: '0x8e66d477e305f69b'
+    MedaMountain:
+      coord: [2548.4478, 0, -2461.164]
+      text: Meda Mountain
+      hash_id: '0xbefc8fb900626437'
+    MountHylia:
+      coord: [-1277.1523, 0, -2180.2441]
+      text: Mount Hylia
+      hash_id: '0xf8675e2360795e7a'
+    IbaraButte:
+      coord: [765.2322, 0, -3789.279]
+      text: Ibara Butte
+      hash_id: '0x69ded1d60c2a5a55'
+    TalusPlateau:
+      coord: [4444.8457, 0, -365.49]
+      text: Talus Plateau
+      hash_id: '0x44167e48642549cb'
+    ElmaKnolls:
+      coord: [-415.30298, 0, 1796.7875]
+      text: Elma Knolls
+      hash_id: '0x8e3a02930f9fb1ca'
+    MountRozudo:
+      coord: [2377.4458, 0, -2195.2505]
+      text: Mount Rozudo
+      hash_id: '0x6261f045c6ee572c'
+    ZokassaRidge:
+      coord: [-556.5149, 0, -3222.2815]
+      text: Zokassa Ridge
+      hash_id: '0xe1340b5866d637f2'
+    WhistlingHill:
+      coord: [151.76251, 0, -851.83875]
+      text: Whistling Hill
+      hash_id: '0x50cc35adf4960ddd'
+    MountFaloraa:
+      coord: [-925.6411, 0, -2629.127]
+      text: Mount Faloraa
+      hash_id: '0xdd70b7485e05ea08'
+    CorvashPeak:
+      coord: [-3243.397, 0, 2422.5327]
+      text: Corvash Peak
+      hash_id: '0x6c960082fbd4f9b8'
+    KaeporaPass:
+      coord: [4114.774, 0, 1206.4218]
+      text: Kaepora Pass
+      hash_id: '0x3da814efdf25793b'
+    LindorsBrow:
+      coord: [-1939.7249, 0, 1340.1826]
+      text: Lindor's Brow
+      hash_id: '0x426a653a342d4b77'
+    UplandLindor:
+      coord: [-2544.851, 0, 1279.4142]
+      text: Upland Lindor
+      hash_id: '0x32242d5580e81069'
+    UplandLindor01:
+      coord: [-2231.495, 0, 1344.8691]
+      text: Upland Lindor
+      hash_id: '0x3fc436e0d2bee626'
+    PeakofAwakening:
+      coord: [2912.347, 0, -1463.0337]
+      text: Peak of Awakening
+      hash_id: '0xe8b271a802582f25'
+    NirvataPlateau:
+      coord: [3200.9785, 0, -1385.7667]
+      text: Nirvata Plateau
+      hash_id: '0xef7644e09de78472'
+    MountDaphnes:
+      coord: [-1105, 0, -556.2332]
+      text: Mount Daphnes
+      hash_id: '0x7da2c18ecb65404c'
+    LanayruBluff:
+      coord: [2929.4978, 0, -1244.7957]
+      text: Lanayru Bluff
+      hash_id: '0x718bbed299f48aeb'
+    BonoorusStand:
+      coord: [2153.1897, 0, -1130.3082]
+      text: Bonooru's Stand
+      hash_id: '0x3ab6ca959e25bbad'
+    NorthAkkalaFoothill:
+      coord: [4177.499, 0, 2915.455]
+      text: North Akkala Foothill
+      hash_id: '0x2ff52913b869f8ff'
+    BremanPeak:
+      coord: [2134.7354, 0, -2577.8232]
+      text: Breman Peak
+      hash_id: '0x59483eccc572a968'
+    MountRhoam:
+      coord: [-2690.956, 0, 776.0194]
+      text: Mount Rhoam
+      hash_id: '0x3d882ff3c53ce3d8'
+    DeathMountain:
+      coord: [2530.13, 0, 2479.4666]
+      text: Death Mountain
+      hash_id: '0x257d78231c4cac9b'
+    EldinMountains:
+      coord: [1310.0756, 0, 3375.6157]
+      text: Eldin Mountains
+      hash_id: '0x9bcbd83274f81367'
+    GerudoHighlands:
+      coord: [-4088.5078, 0, -843.23987]
+      text: Gerudo Highlands
+      hash_id: '0xda55e1584c2b6355'
+    HebraMountains:
+      coord: [-3079.067, 0, 3024.6821]
+      text: Hebra Mountains
+      hash_id: '0xee63b235441d1b33'
+    HyruleRidge:
+      coord: [-2382.6243, 0, 407.07727]
+      text: Hyrule Ridge
+      hash_id: '0xaf00a376fd5cb382'
+    MountLanayru:
+      coord: [3882.3994, 0, -1120.2402]
+      text: Mount Lanayru
+      hash_id: '0x64dd65d2af7bdcb8'
+    AkkalaHighlands:
+      coord: [3476.8496, 0, 2205.8804]
+      text: Akkala Highlands
+      hash_id: '0x6fce39b8922ce462'
+    SalariHill:
+      coord: [-1443.9471, 0, 1343.8732]
+      text: Salari Hill
+      hash_id: '0x3fb396e3a2f3e5fd'
+    SalariHill01:
+      coord: [-1339.3524, 0, 1522.522]
+      text: Salari Hill
+      hash_id: '0xb82c0f5ccd735913'
+    PloymusMountain:
+      coord: [3853.2507, 586.2334, 660.0387]
+      text: Ploymus Mountain
+      hash_id: '0xb7b84813ac06b471'
+    RosproPass:
+      coord: [-3574.702, 0, 2363.096]
+      text: Rospro Pass
+      hash_id: '0xe08fec008539e1fe'
+    WalnotMountain:
+      coord: [4170.002, 0, -1922.0071]
+      text: Walnot Mountain
+      hash_id: '0x24000631c79d3fff'
+    ScoutsHill:
+      coord: [-20.78064, 0, -1898.3446]
+      text: Scout's Hill
+      hash_id: '0xa4b065ff8b873445'
+    UlriMountain:
+      coord: [3612.613, 0, 2093.094]
+      text: Ulri Mountain
+      hash_id: '0x8b8c2cbb346e0ce1'
+    DavalPeak:
+      coord: [-1391.4855, 0, -3599.8108]
+      text: Daval Peak
+      hash_id: '0x7e7f32384e9bf5bf'
+    MountGranajh:
+      coord: [-1376.0925, 0, -3361.4353]
+      text: Mount Granajh
+      hash_id: '0x6a360367e762c32e'
+    TemtoHill:
+      coord: [2381.7632, 0, -3400.4102]
+      text: Temto Hill
+      hash_id: '0xb7c76ba2f8eabcff'
+    NephraHill:
+      coord: [-2166.3547, 0, -1509.3517]
+      text: Nephra Hill
+      hash_id: '0x4f19e41beb244381'
+    KanaletRidge:
+      coord: [3308.855, 0, 1906.9763]
+      text: Kanalet Ridge
+      hash_id: '0xb6d7d2848912ae24'
+    EbonMountain:
+      coord: [3350.909, 0, -2531.1516]
+      text: Ebon Mountain
+      hash_id: '0x54790093c2217994'
+    SatoriMountain:
+      coord: [-2259.383, 0, -288.2556]
+      text: Satori Mountain
+      hash_id: '0x4a4d595689fdfdf2'
+    ZodobonHighlands:
+      coord: [2728.6086, 0, -119.19498]
+      text: Zodobon Highlands
+      hash_id: '0x4629c57609f5d7f9'
+    DronocsPass:
+      coord: [-3793.1533, 0, 2236.1294]
+      text: Dronoc's Pass
+      hash_id: '0x43b5668e16343d4d'
+    DrenanHighlands:
+      coord: [-344.38074, 0, 3120.9983]
+      text: Drenan Highlands
+      hash_id: '0x00f6c9ae746b936e'
+    MountDrena:
+      coord: [-561.4199, 0, 2635.1152]
+      text: Mount Drena
+      hash_id: '0x2074822c90ddb195'
+    MountDrena01:
+      coord: [-571.42114, 0, 2308.8418]
+      text: Mount Drena
+      hash_id: '0x9216776b7a82a452'
+    MountDrena02:
+      coord: [-355.3164, 0, 2767.049]
+      text: Mount Drena
+      hash_id: '0xac63498c7ae1e02a'
+    MountDrena03:
+      coord: [-825.6262, 0, 2764.2717]
+      text: Mount Drena
+      hash_id: '0xb1528d506a3bdee0'
+    MountDrena04:
+      coord: [-1247.4896, 0, 3262.8518]
+      text: Mount Drena
+      hash_id: '0xc94f3cefa8672140'
+    PillarsofLevia:
+      coord: [1849.9119, 0, -1243.9044]
+      text: Pillars of Levia
+      hash_id: '0x47394cfa7f74dcdd'
+    MadornaMountain:
+      coord: [3821.5686, 0, -1688.9856]
+      text: Madorna Mountain
+      hash_id: '0xe41f38e483311e9a'
+    CliffsofRuvara:
+      coord: [-3392.4097, 0, -609.5185]
+      text: Cliffs of Ruvara
+      hash_id: '0x41c58d7faa89ccb9'
+    RutimalaHill:
+      coord: [-4527.0254, 0, -1417.0447]
+      text: Rutimala Hill
+      hash_id: '0xe9d7a973e894e2be'
+    MountGustaf:
+      coord: [-915.31274, 0, 210.85791]
+      text: Mount Gustaf
+      hash_id: '0xf9671d7562ab8ef9'
+    HillsofBaumer:
+      coord: [429.7239, 0, -1760.0726]
+      text: Hills of Baumer
+      hash_id: '0x4fcafd47f8d6ff9e'
+    TernioTrail:
+      coord: [2687.7, 0, 764.1218]
+      text: Ternio Trail
+      hash_id: '0xe3abb177b10fde2a'
+    TalontoPeak:
+      coord: [-3171.5427, 0, 2682.1592]
+      text: Talonto Peak
+      hash_id: '0x1f10de717e3bc002'
+    RauruHillside:
+      coord: [497.74777, 0, 1537.6544]
+      text: Rauru Hillside
+      hash_id: '0x2a252d7fbb85d676'
+    SafulaHill:
+      coord: [-1756.4575, 0, -856.55695]
+      text: Safula Hill
+      hash_id: '0xe71a743d0bbbf3c0'
+    TabanthaHills:
+      coord: [-2464.5144, 0, 1843.002]
+      text: Tabantha Hills
+      hash_id: '0x261de9875f135a63'
+    TaafeiHill:
+      coord: [-2807.4714, 0, -1819.1892]
+      text: Taafei Hill
+      hash_id: '0x816e42fb5a510830'
+    BrynnaPlain:
+      coord: [3927.2566, 0, -382.12332]
+      text: Brynna Plain
+      hash_id: '0x673b0cf17e06291a'
+    WashasBluff:
+      coord: [-2731.7954, 0, -87.183014]
+      text: Washa's Bluff
+      hash_id: '0x8acf7e756be7fe74'
+    MountTaran:
+      coord: [2483.598, 0, -2676.389]
+      text: Mount Taran
+      hash_id: '0xe0e8b95a295226e6'
+    TaranPass:
+      coord: [2713.6943, 0, -2853.93]
+      text: Taran Pass
+      hash_id: '0x6e78decca6b2134b'
+    TorumaDunes:
+      coord: [-4762.801, 0, -2730.9995]
+      text: Toruma Dunes
+      hash_id: '0x33321cec89099764'
+    DuelingPeaks:
+      coord: [1358.1024, 0, -1781.7185]
+      text: Dueling Peaks
+      hash_id: '0xcbf7386bd17edce9'
+    DuelingPeaks01:
+      coord: [1269.3143, 0, -2038.7462]
+      text: Dueling Peaks
+      hash_id: '0xf25fe28651a668d6'
+    MableRidge:
+      coord: [1336.5887, 0, -1424.1989]
+      text: Mable Ridge
+      hash_id: '0x682a66d24468db7f'
+    WestDeplianBadlands:
+      coord: [16.800262, 0, 3454.644]
+      text: West Deplian Badlands
+      hash_id: '0x1c406af7dcf67724'
+    NettePlateau:
+      coord: [219.73828, 0, -3631.8901]
+      text: Nette Plateau
+      hash_id: '0xb347403d9b6e85e3'
+    MarthasLanding:
+      coord: [1206.6833, 0, -3728.9216]
+      text: Martha's Landing
+      hash_id: '0xb3f74b297e7ad057'
+    ToronboBeach:
+      coord: [4498.385, 0, -3552.553]
+      text: Toronbo Beach
+      hash_id: '0x84011126987fcac6'
+    FuralPlain:
+      coord: [446.59302, 0, -3335.2817]
+      text: Fural Plain
+      hash_id: '0x3c9152d7324344f6'
+    MystathisShelf:
+      coord: [-4044.9194, 0, -405.9199]
+      text: Mystathi's Shelf
+      hash_id: '0x093f15ec20865220'
+    GortramCliff:
+      coord: [1818.7449, 0, 1890.8843]
+      text: Gortram Cliff
+      hash_id: '0xe757a42d0efdd5e1'
+    BreachofDemise:
+      coord: [-1437.2133, 0, 554.4126]
+      text: Breach of Demise
+      hash_id: '0x41b855f43b6b4da0'
+    BarulaPlain:
+      coord: [193.44873, 0, -3134.5454]
+      text: Barula Plain
+      hash_id: '0x09e1047c8075594f'
+    BironSnowshelf:
+      coord: [-3719.0518, 0, 2982.0652]
+      text: Biron Snowshelf
+      hash_id: '0x158171791748db2e'
+    BironSnowshelf01:
+      coord: [-3929.0078, 0, 3319.0752]
+      text: Biron Snowshelf
+      hash_id: '0x5603a61ef362728c'
+    BironSnowshelf02:
+      coord: [-4052.7617, 0, 3010.6724]
+      text: Biron Snowshelf
+      hash_id: '0x9204a59f7a77970f'
+    TobiosHollow:
+      coord: [1329.2715, 0, -2564.3208]
+      text: Tobio's Hollow
+      hash_id: '0x6c9966ddfc1c93eb'
+    ColdsnapHollow:
+      coord: [-3065.7603, 0, 2954.228]
+      text: Coldsnap Hollow
+      hash_id: '0xcae7c2d781f6abe6'
+    SamasaPlain:
+      coord: [3238.9143, 0, -567.59]
+      text: Samasa Plain
+      hash_id: '0x776f87a810643d02'
+    BrocaIsland:
+      coord: [2701.1992, 0, 1769.6309]
+      text: Broca Island
+      hash_id: '0x901e14e973e652b7'
+    BrocaIsland01:
+      coord: [2698.522, 244.57495, 1762.5836]
+      text: Broca Island
+      hash_id: '0xf916b914a2552a3a'
+    TumleaHeights:
+      coord: [4166.957, 0, 3153.4443]
+      text: Tumlea Heights
+      hash_id: '0x571b48511df98b28'
+    WindvaneMeadow:
+      coord: [-264.64856, 0, -605.4452]
+      text: Windvane Meadow
+      hash_id: '0x85edd8516775c09b'
+    WindvaneMeadow01:
+      coord: [-664.16626, 0, -750.4846]
+      text: Windvane Meadow
+      hash_id: '0xf51fb7a4955986f8'
+    CapeCresia:
+      coord: [3420.639, 0, -3807.4753]
+      text: Cape Cresia
+      hash_id: '0x81c1716d0579bfd7'
+    UkukuPlains:
+      coord: [3950.5142, 0, 977.12134]
+      text: Ukuku Plains
+      hash_id: '0x3f8b7d7d489ac38e'
+    ParachePlains:
+      coord: [-348.24304, 0, -3298.6335]
+      text: Parache Plains
+      hash_id: '0x2c175a91b3aa6eb6'
+    MarblodPlain:
+      coord: [2770.1958, 0, -2282.414]
+      text: Marblod Plain
+      hash_id: '0x407cc59f7f1912af'
+    SahasraSlope:
+      coord: [1265.7698, 0, -772.6583]
+      text: Sahasra Slope
+      hash_id: '0x4fe1ce231048f86e'
+    SahasraSlope01:
+      coord: [1378.1572, 0, -1050.0826]
+      text: Sahasra Slope
+      hash_id: '0x7e86fd9b614b9e75'
+    RimbaBeach:
+      coord: [3167.1404, 0, -3721.0876]
+      text: Rimba Beach
+      hash_id: '0xb93bf8c76cfe6447'
+    DragonsExile:
+      coord: [-4785.0776, 0, -3508.5737]
+      text: Dragon's Exile
+      hash_id: '0xc8214d2dae399070'
+    EastBarrens:
+      coord: [-2537.6533, 0, -3539.3044]
+      text: East Barrens
+      hash_id: '0x6acaa86e680f1fe8'
+    AngelPeak:
+      coord: [1715.5012, 0, -2619.629]
+      text: Angel Peak
+      hash_id: '0xfffcfaafd6b278c8'
+    MeadelasMantle:
+      coord: [-4100.3423, 0, -1296.489]
+      text: Meadela's Mantle
+      hash_id: '0x62f8caeeeac6c9a2'
+    WestHyrulePlains:
+      coord: [-1605.5342, 0, 202.0661]
+      text: West Hyrule Plains
+      hash_id: '0x5555e30d13a0f5b2'
+    WestHyrulePlains01:
+      coord: [-1946.5764, 0, 117.13403]
+      text: West Hyrule Plains
+      hash_id: '0x816776b6b1f217cb'
+    WestHyrulePlains02:
+      coord: [-1408.1262, 0, 342.21313]
+      text: West Hyrule Plains
+      hash_id: '0xbcbcbe45a0b76528'
+    MekarIsland:
+      coord: [-259.56085, 0, 2193.719]
+      text: Mekar Island
+      hash_id: '0x42bddc044a8a6af9'
+    GamaCove:
+      coord: [3273.6216, 0, -3412.0698]
+      text: Gama Cove
+      hash_id: '0xcd93b8748c1233f5'
+    AtunValley:
+      coord: [2469.4192, 0, -3259.8618]
+      text: Atun Valley
+      hash_id: '0xf5bd7d9e1fe78f66'
+    GuchiniPlain:
+      coord: [869.9221, 0, -3363.7185]
+      text: Guchini Plain
+      hash_id: '0x5d70763830e160c2'
+    AnkelIsland:
+      coord: [4651.7036, 0, 1026.9918]
+      text: Ankel Island
+      hash_id: '0xff64a76bc0db0eb3'
+    OvliPlain:
+      coord: [3060.0105, 0, -1883.2943]
+      text: Ovli Plain
+      hash_id: '0x15a043511b7e43ff'
+    HatenoBeach:
+      coord: [4016.5518, 0, -2314.7]
+      text: Hateno Beach
+      hash_id: '0xa3e13540923dce21'
+    TenokoIsland:
+      coord: [4008.3691, 0, -2944.7773]
+      text: Tenoko Island
+      hash_id: '0x8c8c725b4432fbfc'
+    HebraTundra:
+      coord: [-3395.0532, 0, 3297.968]
+      text: Hebra Tundra
+      hash_id: '0x6dfbc54f902bd13e'
+    HebraTundra01:
+      coord: [-3310.2375, 0, 3077.4602]
+      text: Hebra Tundra
+      hash_id: '0xb96e95208b03accd'
+    YarnaValley:
+      coord: [-1867.9241, 0, -2816.8167]
+      text: Yarna Valley
+      hash_id: '0x44d607de8a21b533'
+    EastAkkalaPlains:
+      coord: [4096.214, 0, 2148.7083]
+      text: East Akkala Plains
+      hash_id: '0x388e7bb6475b2a6e'
+    HyliaIsland:
+      coord: [-329.83508, 0, -2638.2441]
+      text: Hylia Island
+      hash_id: '0x02bde690e6d786af'
+    TrilbyValley:
+      coord: [2272.2803, 0, 709.5625]
+      text: Trilby Valley
+      hash_id: '0x82fd5c965085b38d'
+    MillennioSandbar:
+      coord: [1418.596, 0, -44.872864]
+      text: Millennio Sandbar
+      hash_id: '0x053cf00dc8f86c77'
+    MillennioSandbar01:
+      coord: [1934.1353, 0, -323.28854]
+      text: Millennio Sandbar
+      hash_id: '0x72c977b7cd46aede'
+    MillennioSandbar02:
+      coord: [1311.4379, 0, -535.17914]
+      text: Millennio Sandbar
+      hash_id: '0xbc62400b794ac6f5'
+    KoukotPlateau:
+      coord: [-2197.6956, 0, -1787.0361]
+      text: Koukot Plateau
+      hash_id: '0x8415b4e804836829'
+    RabiaPlain:
+      coord: [2614.5588, 0, -590.4836]
+      text: Rabia Plain
+      hash_id: '0x8a8f00e000a1d17f'
+    IrchPlain:
+      coord: [-901.645, 0, 1434.8931]
+      text: Irch Plain
+      hash_id: '0x5e1a8b050ff320c4'
+    KamahPlateau:
+      coord: [1436.4528, 0, -2988.9978]
+      text: Kamah Plateau
+      hash_id: '0x3e19552be7a25a2b'
+    PhalianHighlands:
+      coord: [2509.431, 0, -1225.7291]
+      text: Phalian Highlands
+      hash_id: '0x71cf0baa81d2b4ea'
+    KarusaValley:
+      coord: [-4308.1943, 0, -1854.4979]
+      text: Karusa Valley
+      hash_id: '0x30963c73b4edb151'
+    FaroshHills:
+      coord: [556.17633, 0, -2487.625]
+      text: Farosh Hills
+      hash_id: '0xbad2e19394f8a905'
+    TempestGulch:
+      coord: [3454.6848, 0, 3254.7407]
+      text: Tempest Gulch
+      hash_id: '0xb3b3c2e33ce78927'
+    KeelayPlain:
+      coord: [1492.766, 0, -2867.2695]
+      text: Keelay Plain
+      hash_id: '0xc66dce8220283feb'
+    KoholitRock:
+      coord: [4654.1533, 0, -3742.7495]
+      text: Koholit Rock
+      hash_id: '0x2fe0e6eb0a1dbf3c'
+    NorthAkkalaValley:
+      coord: [3803.3428, 0, 2823.346]
+      text: North Akkala Valley
+      hash_id: '0x40277aadd38e290c'
+    KopeekiDrifts:
+      coord: [-2345.4355, 0, 2508.5098]
+      text: Kopeeki Drifts
+      hash_id: '0xcbd8f3a6dea95ba2'
+    KomoShoreline:
+      coord: [698.7559, 0, -3932.4897]
+      text: Komo Shoreline
+      hash_id: '0x22a3168a011f1f33'
+    DavdiIsland:
+      coord: [4636.826, 0, 608.1184]
+      text: Davdi Island
+      hash_id: '0xf323283ec13707e4'
+    TanagarCanyon:
+      coord: [-2918.1792, 0, 1180.6229]
+      text: Tanagar Canyon
+      hash_id: '0x0c2319ac1f7b411a'
+    TanagarCanyon01:
+      coord: [-2292.558, 0, 1583.5935]
+      text: Tanagar Canyon
+      hash_id: '0x0da879f690fe2548'
+    TanagarCanyon02:
+      coord: [-3112.0698, 0, 485.27704]
+      text: Tanagar Canyon
+      hash_id: '0x101111e7c37bcd15'
+    TanagarCanyon03:
+      coord: [-3485.0183, 0, 179.34375]
+      text: Tanagar Canyon
+      hash_id: '0x44c2407e02934885'
+    TanagarCanyon04:
+      coord: [-3939.646, 0, 186.95837]
+      text: Tanagar Canyon
+      hash_id: '0xfad701c9a82de9d3'
+    SturnidaBasin:
+      coord: [-4109.8423, 0, 2850.5027]
+      text: Sturnida Basin
+      hash_id: '0xb8e825d982cb6bfb'
+    DarybonPlains:
+      coord: [-332.9032, 0, -3682.9153]
+      text: Darybon Plains
+      hash_id: '0xa09e91fbc1a73346'
+    RisokaSnowfield:
+      coord: [-4556.4023, 0, -1090.7507]
+      text: Risoka Snowfield
+      hash_id: '0x9dc48af8ddbf8810'
+    RisokaSnowfield01:
+      coord: [-4528.1577, 0, -743.46313]
+      text: Risoka Snowfield
+      hash_id: '0xcad59fd73e2140b5'
+    LaverraBeach:
+      coord: [-174.45685, 0, -3850.024]
+      text: Laverra Beach
+      hash_id: '0x12590aa734b2fe4f'
+    RistPeninsula:
+      coord: [4616.3994, 0, 2242.9976]
+      text: Rist Peninsula
+      hash_id: '0x94564101a87400b6'
+    HarfinValley:
+      coord: [95.26318, 0, -3394.4514]
+      text: Harfin Valley
+      hash_id: '0x0d88ee8eb46b2005'
+    HyruleField:
+      coord: [-458.72003, 0, -581.59576]
+      text: Hyrule Field
+      hash_id: '0x2905bb780cde8b82'
+    EastNecluda:
+      coord: [2679.2944, 0, -2507.2803]
+      text: East Necluda
+      hash_id: '0x2b486d00392df252'
+    EldinCanyon:
+      coord: [1852.762, 0, 1400.6433]
+      text: Eldin Canyon
+      hash_id: '0x65b086bff0f91e24'
+    FaronGrasslands:
+      coord: [-423.30347, 0, -3156.432]
+      text: Faron Grasslands
+      hash_id: '0xfe30fc092264e0c0'
+    GerudoDesert:
+      coord: [-3681.5793, 0, -3428.9043]
+      text: Gerudo Desert
+      hash_id: '0xe6f0e11872921345'
+    LanayruWetlands:
+      coord: [1825.7256, 0, -58.98047]
+      text: Lanayru Wetlands
+      hash_id: '0x9d5048135e52fb02'
+    TabanthaFrontier:
+      coord: [-3476.1707, 0, 1220.9668]
+      text: Tabantha Frontier
+      hash_id: '0x1077e7703fe097d3'
+    DeepAkkala:
+      coord: [3602.1533, 0, 3186.161]
+      text: Deep Akkala
+      hash_id: '0xfb85af19d78178f8'
+    WestNecluda:
+      coord: [1297.487, 0, -1524.7384]
+      text: West Necluda
+      hash_id: '0x7f3f2002ec88734b'
+    SalariPlain:
+      coord: [-1669.7483, 0, 1736.6343]
+      text: Salari Plain
+      hash_id: '0x2993b4725e94ac5d'
+    SalariPlain01:
+      coord: [-1253.685, 0, 1761.2681]
+      text: Salari Plain
+      hash_id: '0x994791eb4df19ca3'
+    UlriaGrotto:
+      coord: [4186.461, 0, 807.6626]
+      text: Ulria Grotto
+      hash_id: '0x5bfcac0d8b261b07'
+    UlriaGrotto01:
+      coord: [4186.461, 0, 787.93896]
+      text: Ulria Grotto
+      hash_id: '0xff7f741f37637eea'
+    SpectacleRock:
+      coord: [-2222.0833, 0, -2538.037]
+      text: Spectacle Rock
+      hash_id: '0x37d04da9a442fa10'
+    TaobabGrassland:
+      coord: [-1227.8927, 0, -2725.529]
+      text: Taobab Grassland
+      hash_id: '0xbeca8f10ea41ad91'
+    SouthAkkalaPlains:
+      coord: [3272.705, 0, 1352.085]
+      text: South Akkala Plains
+      hash_id: '0x9c0eab3f96e7e693'
+    BlatcheryPlain:
+      coord: [2133.1692, 0, -1913.8054]
+      text: Blatchery Plain
+      hash_id: '0xbaa3139802101918'
+    TalTalPeak:
+      coord: [4147.1143, 0, 339.14575]
+      text: Tal Tal Peak
+      hash_id: '0xf91f6bffa3f54466'
+    LodrumHeadland:
+      coord: [4444.7544, 0, -641.6023]
+      text: Lodrum Headland
+      hash_id: '0xc46729f8315e9a02'
+    RowanPlain:
+      coord: [-1218.6693, 0, 2025.6387]
+      text: Rowan Plain
+      hash_id: '0x018e59eb39071fa6'
+    RowanPlain01:
+      coord: [-1108.8816, 0, 2267.2368]
+      text: Rowan Plain
+      hash_id: '0x9ce21fb7d3c9199d'
+    MaplaPoint:
+      coord: [4663.0767, 0, -2372.1997]
+      text: Mapla Point
+      hash_id: '0x3d9e606f0d3f833a'
+    IsleofRabac:
+      coord: [1542.1678, 0, 3073.9888]
+      text: Isle of Rabac
+      hash_id: '0x9260633a9b585e93'
+    KorneBeach:
+      coord: [2940.91, 0, -3656.1912]
+      text: Korne Beach
+      hash_id: '0x861f805f7f763181'
+    LudfosBog:
+      coord: [-2131.8093, 0, 675.50903]
+      text: Ludfo's Bog
+      hash_id: '0x3d024945077d99de'
+    LudfosBog01:
+      coord: [-1917.1543, 0, 397.7965]
+      text: Ludfo's Bog
+      hash_id: '0xccf9c04c2b0def55'
+    GreatCliffs:
+      coord: [-3321.6924, 0, -2247.3538]
+      text: Great Cliffs
+      hash_id: '0x58cc20685df15d3d'
+    AkkalaWilds:
+      coord: [3743.5774, 0, 3348.9634]
+      text: Akkala Wilds
+      hash_id: '0x5ad2e563f84b7597'
+    AkkalaWilds01:
+      coord: [3485.7751, 0, 3632.7236]
+      text: Akkala Wilds
+      hash_id: '0x74dd16188d20eb7b'
+    OseiraPlains:
+      coord: [-882.0316, 0, -3141.2383]
+      text: Oseira Plains
+      hash_id: '0x454cd4813b4d856a'
+    OseiraPlains01:
+      coord: [-779.3098, 0, -3564.308]
+      text: Oseira Plains
+      hash_id: '0x6c3cd1ee038bf54d'
+    LaparohMesa:
+      coord: [-2939.7905, 0, -1207.2308]
+      text: Laparoh Mesa
+      hash_id: '0xe6e95955afc535d1'
+    TorinWetland:
+      coord: [3601.3076, 0, 1636.7739]
+      text: Torin Wetland
+      hash_id: '0xace4e6f549d535aa'
+    KnuckelIsland:
+      coord: [4653.2007, 0, 815.5294]
+      text: Knuckel Island
+      hash_id: '0xc6d8cd758cca6046'
+    StalryPlateau:
+      coord: [-1571.5347, 0, -2714.9177]
+      text: Stalry Plateau
+      hash_id: '0x9c4ad5f8fc6dc418'
+    PaluWasteland:
+      coord: [-3117.933, 0, -2981.8296]
+      text: Palu Wasteland
+      hash_id: '0xda68638019bccaf3'
+    RabellaWetlands:
+      coord: [2419.998, 0, -2782.405]
+      text: Rabella Wetlands
+      hash_id: '0x70786d7864a5295c'
+    JaAbuRidge:
+      coord: [3910.343, 0, -58.048126]
+      text: Ja'Abu Ridge
+      hash_id: '0x89108fcfb27fc63b'
+    RutoPrecipice:
+      coord: [3408.8374, 0, 235.48303]
+      text: Ruto Precipice
+      hash_id: '0xe0952d3522a1e2da'
+    NorthHyrulePlain:
+      coord: [-1313.6733, 0, 824.82446]
+      text: North Hyrule Plain
+      hash_id: '0x205b83e7e8a5cecb'
+    NorthHyrulePlain01:
+      coord: [-1169.2703, 0, 1132.8716]
+      text: North Hyrule Plain
+      hash_id: '0x675921182eb5f058'
+    LanayruHeights:
+      coord: [2798.9546, 0, -917.7661]
+      text: Lanayru Heights
+      hash_id: '0x8d72a87be61f91a8'
+    AldorFoothills:
+      coord: [-735.7195, 0, 2079.7983]
+      text: Aldor Foothills
+      hash_id: '0x9e9611318bdcccc8'
+    RikokaHills:
+      coord: [1605.5176, 0, -679.87805]
+      text: Rikoka Hills
+      hash_id: '0x5b00bbfb229f1018'
+    RayneHighlands:
+      coord: [-3805.8892, 0, 481.11682]
+      text: Rayne Highlands
+      hash_id: '0x13ef944b37a983ca'
+    RayneHighlands01:
+      coord: [-3892.5278, 0, 721.7849]
+      text: Rayne Highlands
+      hash_id: '0x9f6a93d43b43d7e5'
+    SapphiasTable:
+      coord: [-3169.781, 0, -1574.2133]
+      text: Sapphia's Table
+      hash_id: '0xfc7f33d9c027ee94'
+    ClarnetCoast:
+      coord: [2585.3809, 0, -3897.38]
+      text: Clarnet Coast
+      hash_id: '0x4c1be9c7a68ec51c'
+    ClarnetCoast01:
+      coord: [2211.6318, 0, -3886.7456]
+      text: Clarnet Coast
+      hash_id: '0x52deea9881e47c65'
+    WintreIsland:
+      coord: [4517.701, 0, -987.9492]
+      text: Wintre Island
+      hash_id: '0x53c61f3f2ccfa074'
+    RobredDropoff:
+      coord: [2700.2515, 0, -1570.958]
+      text: Robred Dropoff
+      hash_id: '0xb0ac8ac43b163979'
+    TrilbyPlain:
+      coord: [1392.1669, 0, 914.9768]
+      text: Trilby Plain
+      hash_id: '0x659f62c241f38bbc'
+    TingelIsland:
+      coord: [4705.7393, 0, 1374.0048]
+      text: Tingel Island
+      hash_id: '0x96c1c78a5af36d48'
+    IllumeniPlateau:
+      coord: [-3105.9832, 0, -14.734619]
+      text: Illumeni Plateau
+      hash_id: '0x0699df372bb8a835'
+    NorthTabanthaSnowfieldNearest:
+      coord: [-1792.1804, 0, 3689.4814]
+      text: North Tabantha Snowfield Nearest
+      hash_id: '0x03f0ec8c4d272355'
+    NorthTabanthaSnowfield:
+      coord: [-1701.8301, 0, 3290.757]
+      text: North Tabantha Snowfield
+      hash_id: '0x087206960d4a9d97'
+    SouthTabanthaSnowfield:
+      coord: [-1763.6138, 0, 2933.2104]
+      text: South Tabantha Snowfield
+      hash_id: '0x08a61235bbbfa1d6'
+    SouthTabanthaSnowfield01:
+      coord: [-1961.8896, 0, 2288.7075]
+      text: South Tabantha Snowfield
+      hash_id: '0x1a25e6db98921077'
+    SouthTabanthaSnowfield02:
+      coord: [-1529.0984, 0, 2652.5518]
+      text: South Tabantha Snowfield
+      hash_id: '0x8d00d666d8ba6078'
+    SouthTabanthaSnowfield03:
+      coord: [-1849.0591, 0, 2494.106]
+      text: South Tabantha Snowfield
+      hash_id: '0x9f87a422a42bbe49'
+    TabanthaTundra:
+      coord: [-1811.8921, 0, 2792.6084]
+      text: Tabantha Tundra
+      hash_id: '0x7a5c1b63d3d0c455'
+    NimaPlain:
+      coord: [-1608.4292, 0, -445]
+      text: Nima Plain
+      hash_id: '0x1ea4829c49d89127'
+    NimaPlain01:
+      coord: [-1877.3933, 0, -711.0603]
+      text: Nima Plain
+      hash_id: '0xa4716194af852bd6'
+    OrdoracQuarry:
+      coord: [3654.4792, 0, 2525.2424]
+      text: Ordorac Quarry
+      hash_id: '0x0529f2a768c04ea4'
+    FirlyPlateau:
+      coord: [2949.4204, 0, -2380.3027]
+      text: Firly Plateau
+      hash_id: '0x6bd2679b9fb59c1b'
+    GrinndenPlains:
+      coord: [-754.04065, 0, -2916.179]
+      text: Grinnden Plains
+      hash_id: '0x40dafd6d7ced20d1'
+    NautelleWetlands:
+      coord: [-629.771, 0, -3839.2893]
+      text: Nautelle Wetlands
+      hash_id: '0xfba1a38acec9cfcd'
+    MabePrairie:
+      coord: [123.711914, 0, 193.85498]
+      text: Mabe Prairie
+      hash_id: '0x90c774f7a882b976'
+    TrottersDownfall:
+      coord: [3089.4094, 0, -830.2271]
+      text: Trotter's Downfall
+      hash_id: '0xa1f947f51a53d814'
+    RomaniPlains:
+      coord: [338.48456, 0, 358.1859]
+      text: Romani Plains
+      hash_id: '0x8a85f0a420351e94'
+    MercayIsland:
+      coord: [1712.6807, 0, 131.01904]
+      text: Mercay Island
+      hash_id: '0x9d64540405916262'
+    GopongaIsland:
+      coord: [1554.4883, 0, -355.05713]
+      text: Goponga Island
+      hash_id: '0x9d424de727550c64'
+    KinceanIsland:
+      coord: [2024.5897, 0, -145.83124]
+      text: Kincean Island
+      hash_id: '0x032e7ce936ac280e'
+    MolidaIsland:
+      coord: [1843.0944, 0, -206.69257]
+      text: Molida Island
+      hash_id: '0x6d0a5d9bcd73ac84'
+    ShrineIsland:
+      coord: [1661.437, 0, -439.16162]
+      text: Shrine Island
+      hash_id: '0x6188529c25c12edc'
+    BannanIsland:
+      coord: [1774.1655, 0, -383.66675]
+      text: Bannan Island
+      hash_id: '0xe31f98bd9dbe5093'
+    ZauzIsland:
+      coord: [1451.7739, 0, -169.61243]
+      text: Zauz Island
+      hash_id: '0x96999f95b971ad76'
+    WesIsland:
+      coord: [1393.8252, 0, -300.22723]
+      text: Wes Island
+      hash_id: '0xe01c226b4cc7f725'
+    LinebeckIsland:
+      coord: [1745.886, 0, -90.733765]
+      text: Linebeck Island
+      hash_id: '0x9e047b056327ec3e'
+    StingerCliffs:
+      coord: [2855.9607, 0, -2616.398]
+      text: Stinger Cliffs
+      hash_id: '0x29f716b7291cb844'
+    VatorsaSnowfield:
+      coord: [-3473.6216, 0, -1127.5192]
+      text: Vatorsa Snowfield
+      hash_id: '0xe8380677add89c90'
+    CourageSteppe:
+      coord: [2270.2727, 0, -2942.1252]
+      text: Courage Steppe
+      hash_id: '0xe134e96a839fe34d'
+    PikidaStonegrove:
+      coord: [-2198.2195, 0, 2901.4897]
+      text: Pikida Stonegrove
+      hash_id: '0x137ef3b4810e68af'
+    PikidaStonegrove01:
+      coord: [-2285.8445, 0, 3161.549]
+      text: Pikida Stonegrove
+      hash_id: '0x543ab6e7039e5487'
+    UbotaPoint:
+      coord: [1608.704, 0, -3629.5479]
+      text: Ubota Point
+      hash_id: '0x64cea5c2664512d2'
+    ZircoMesa:
+      coord: [-2616.1824, 0, -1556.1372]
+      text: Zirco Mesa
+      hash_id: '0xe8bd80e487fc70e2'
+    QuattasShelf:
+      coord: [2157.723, 0, -557.7363]
+      text: Quatta's Shelf
+      hash_id: '0x3f760827e69b6b5f'
+    WestBarrens:
+      coord: [-4541.142, 0, -2502.2737]
+      text: West Barrens
+      hash_id: '0x797cf186baa65fd0'
+    UplandZorana:
+      coord: [3137.3079, 0, 876.86487]
+      text: Upland Zorana
+      hash_id: '0x3a297e254a269cca'
+    PalmoraeBeach:
+      coord: [3496.5398, 0, -3459.7527]
+      text: Palmorae Beach
+      hash_id: '0x516b4355f94375ee'
+    NaydraSnowfield:
+      coord: [3508.3857, 0, -1418.4702]
+      text: Naydra Snowfield
+      hash_id: '0x82ca7b45dc12562e'
+    SeresScablands:
+      coord: [-2323.8994, 0, 449.8285]
+      text: Seres Scablands
+      hash_id: '0x5f39970df13eea30'
+    EldinsFlank:
+      coord: [2292.7239, 0, 3678.5469]
+      text: Eldin's Flank
+      hash_id: '0x7f52d638ebaf39af'
+    PasseriGreenbelt:
+      coord: [-596.4114, 0, -204.79382]
+      text: Passeri Greenbelt
+      hash_id: '0x0d9d4f06ba6e911e'
+    WellspringofCourage:
+      coord: [903.53613, -252.98978, -2488.2598]
+      text: Wellspring of Courage
+      hash_id: '0x19b565241cef6181'
+    WellspringofPower:
+      coord: [3733.143, -246.088, 2562.8035]
+      text: Wellspring of Power
+      hash_id: '0xbad7a08bc0e7c90c'
+    SecretSpringofRevival:
+      coord: [-1098.5548, -639.3072, -1898.0345]
+      text: Secret Spring of Revival
+      hash_id: '0x427ff6aa150da2b9'
+    WellspringofWisdomNear:
+      coord: [3836.8357, -414.015, -1272.762]
+      text: Wellspring of Wisdom Near
+      hash_id: '0x20baf81d4ed330b4'
+    WellspringofWisdom:
+      coord: [3859.9116, -711.1708, -1283.1376]
+      text: Wellspring of Wisdom
+      hash_id: '0x84ea2842dab03858'
+    AgaatCanyonMine:
+      coord: [-4785.7134, -1109.3073, -728.295]
+      text: Agaat Canyon Mine
+      hash_id: '0x8382e21ee50dc21d'
+    AncientUndergroundFortress:
+      coord: [3310.2847, -372.74426, 1523.05]
+      text: Ancient Underground Fortress
+      hash_id: '0x011310d37681951b'
+    AncientUndergroundFortressNear:
+      coord: [3306.675, -404.4297, 1565.5931]
+      text: Ancient Underground Fortress Near
+      hash_id: '0x828963510028f674'
+    FloatingColiseumNear:
+      coord: [-1151.502, -271.18765, -1204.95]
+      text: Floating Coliseum Near
+      hash_id: '0x6d39aca859243f3a'
+    FloatingColiseum:
+      coord: [-1151.8556, -275.52063, -1239.0526]
+      text: Floating Coliseum
+      hash_id: '0x7d86f39deb9bbccc'
+    GleeokDen:
+      coord: [330.9718, -352.61475, 3111.2417]
+      text: Gleeok Den
+      hash_id: '0x6278e2ea1207eb4e'
+    GleeokDenNear:
+      coord: [328.125, -356.8595, 3079.5579]
+      text: Gleeok Den Near
+      hash_id: '0xae5dad2a6cd86705'
+    LoneIslandColiseum:
+      coord: [4563.0615, -243.30322, -3603.5818]
+      text: Lone Island Coliseum
+      hash_id: '0x02f57199862fcea3'
+    LoneIslandColiseumNear:
+      coord: [4562.702, -248.72385, -3565.6814]
+      text: Lone Island Coliseum Near
+      hash_id: '0x421df4fb44c6b605'
+    CresiaPitMine:
+      coord: [3728.7488, -501.28677, -3734.8457]
+      text: Cresia Pit Mine
+      hash_id: '0xad607ddb874a393b'
+    DunselCanyonMine:
+      coord: [3152.5273, -603.7607, -3276.3486]
+      text: Dunsel Canyon Mine
+      hash_id: '0x1de28cf3490bd02c'
+    GerudoUndergroundCemetery:
+      coord: [-4098.507, -424.05365, -3737.1597]
+      text: Gerudo Underground Cemetery
+      hash_id: '0x20d8ae162a95ef48'
+    NabooruCanyonMine:
+      coord: [-1801.62, -497.25037, -2088.6938]
+      text: Nabooru Canyon Mine
+      hash_id: '0x88c314f9974ac596'
+    ForestColiseum:
+      coord: [-114.67874, -527.8065, 2433.0027]
+      text: Forest Coliseum
+      hash_id: '0xb3dc31d80635a639'
+    CrenelCanyonMineNear:
+      coord: [1154.0752, -417.17737, 381.12607]
+      text: Crenel Canyon Mine Near
+      hash_id: '0x51618b29cb194c93'
+    CrenelCanyonMine:
+      coord: [1165.1945, -427.99353, 414.82364]
+      text: Crenel Canyon Mine
+      hash_id: '0xbfe24593314a97a9'
+    GerudoCanyonMineNear:
+      coord: [-4175.1567, -957.9181, -738.78564]
+      text: Gerudo Canyon Mine Near
+      hash_id: '0x18c94b44ae3afd5e'
+    GerudoCanyonMine:
+      coord: [-4174.1826, -963.5939, -710.39246]
+      text: Gerudo Canyon Mine
+      hash_id: '0x92d7aeef1d011d37'
+    RutoCanyonMine:
+      coord: [3294.2876, -735.1995, -31.532593]
+      text: Ruto Canyon Mine
+      hash_id: '0x2910f4a2a8fdaf12'
+    FloriaCanyonMine:
+      coord: [1936.3674, -748.6091, -2779.3003]
+      text: Floria Canyon Mine
+      hash_id: '0x6adcee058b2aa538'
+    AncientObservationDeck:
+      coord: [2589.2595, -524.28235, -3504.1262]
+      text: Ancient Observation Deck
+      hash_id: '0x411094c134bbf298'
+    TuftCanyonMine:
+      coord: [2557.084, -410.255, -3611.381]
+      text: Tuft Canyon Mine
+      hash_id: '0x5a9f5418f3a01620'
+    TuftCanyonMineNear:
+      coord: [2557.2832, -410.18396, -3637.8545]
+      text: Tuft Canyon Mine Near
+      hash_id: '0x7f4a8865f6e75d53'
+    SecludedColiseum:
+      coord: [2242.2722, -239.9028, -1877.8699]
+      text: Secluded Coliseum
+      hash_id: '0x93e67793e7999fc9'
+    SecludedColiseumNear:
+      coord: [2242.474, -250.72836, -1838.0494]
+      text: Secluded Coliseum Near
+      hash_id: '0xdca0aefb53c85f71'
+    CuhoCanyonMineNear:
+      coord: [-3810.8833, -471.9934, 1407.2789]
+      text: Cuho Canyon Mine Near
+      hash_id: '0x978641c26d177070'
+    CuhoCanyonMine:
+      coord: [-3790.792, -506.02563, 1364.3389]
+      text: Cuho Canyon Mine
+      hash_id: '0xa8d11b0c735dafb5'
+    HebraCanyonMine:
+      coord: [-2766.5667, -769.5468, 2897.8662]
+      text: Hebra Canyon Mine
+      hash_id: '0x38bbc464ee4b3318'
+    HebraCanyonMineNear:
+      coord: [-2740.86, -861.93665, 2861.4324]
+      text: Hebra Canyon Mine Near
+      hash_id: '0xc889d06dc10bab54'
+    MedaCanyonMine:
+      coord: [2511.9854, -397.2268, -2483.174]
+      text: Meda Canyon Mine
+      hash_id: '0x3d36fe1fb8d313cb'
+    HyliaCanyonMineNear:
+      coord: [-1293.4381, -499.16565, -2193.8374]
+      text: Hylia Canyon Mine Near
+      hash_id: '0x22150942fe72c2d9'
+    HyliaCanyonMine:
+      coord: [-1290.349, -505.50027, -2229.2004]
+      text: Hylia Canyon Mine
+      hash_id: '0xa5c202dcccb042fa'
+    RozudoCanyonMine:
+      coord: [2367.6387, -491.71686, -2200.7256]
+      text: Rozudo Canyon Mine
+      hash_id: '0x28329489fba226b0'
+    FaloraaCanyonMine:
+      coord: [-970.56116, -577.27234, -2601.312]
+      text: Faloraa Canyon Mine
+      hash_id: '0x518ac5b31759d1d3'
+    CorvashCanyonMineNear:
+      coord: [-3322.1846, -670.29517, 2359.2644]
+      text: Corvash Canyon Mine Near
+      hash_id: '0x062b2de7b65d2b2b'
+    CorvashCanyonMine:
+      coord: [-3336.834, -675.9513, 2329.3296]
+      text: Corvash Canyon Mine
+      hash_id: '0xae028a74f7979424'
+    DracozuAltar:
+      coord: [905.98486, -361.80402, -2556.2576]
+      text: Dracozu Altar
+      hash_id: '0x5e3bfeaae5e915e9'
+    LindorCanyonMine:
+      coord: [-2006.3743, -605.51086, 1326.7168]
+      text: Lindor Canyon Mine
+      hash_id: '0xc54ec7d1ab7bec73'
+    LindorCanyonMineNear:
+      coord: [-2010.6904, -599.6418, 1372.7405]
+      text: Lindor Canyon Mine Near
+      hash_id: '0xced9bb19e216f347'
+    CanyonofAwakeningMine:
+      coord: [2934.7896, -733.8805, -1403.8622]
+      text: Canyon of Awakening Mine
+      hash_id: '0x1524b97d9a9e390a'
+    DaphnesCanyonMine:
+      coord: [-1065.3785, -376.39215, -573.93225]
+      text: Daphnes Canyon Mine
+      hash_id: '0x5ac25c43fc2cebb4'
+    DaphnesCanyonMineNear:
+      coord: [-1063.8962, -385.8512, -599.7541]
+      text: Daphnes Canyon Mine Near
+      hash_id: '0x958d7ceb3f73f72b'
+    RhoamCanyonMine:
+      coord: [-2687.1948, -677.7058, 785.143]
+      text: Rhoam Canyon Mine
+      hash_id: '0x9cf0edfa81864b49'
+    LanayruCanyonMineNear:
+      coord: [3964.3599, -430.0982, -1360.3782]
+      text: Lanayru Canyon Mine Near
+      hash_id: '0x11969aa7b55585ea'
+    LanayruCanyonMine:
+      coord: [3964.3599, -430.0982, -1360.3782]
+      text: Lanayru Canyon Mine
+      hash_id: '0x8169d975f05328b6'
+    ScorchingColiseum:
+      coord: [2142.926, -609.0412, 3173.7725]
+      text: Scorching Coliseum
+      hash_id: '0x0eba5eb5316799cf'
+    ScorchingColiseumNear:
+      coord: [2143.0564, -628.6443, 3146.45]
+      text: Scorching Coliseum Near
+      hash_id: '0x65aeacd39945ae34'
+    LomeiDepthsLabyrinth:
+      coord: [4661.5664, -295.46985, 3564.735]
+      text: Lomei Depths Labyrinth
+      hash_id: '0x052c0f4d1b37f3c3'
+    NorthLomeiDepthsLabyrinth:
+      coord: [-814.7457, -577.25214, 3433.9722]
+      text: North Lomei Depths Labyrinth
+      hash_id: '0x65b7fd8e24a9e9ad'
+    SouthLomeiDepthsLabyrinth:
+      coord: [-1794.9999, -433.27902, -3579.201]
+      text: South Lomei Depths Labyrinth
+      hash_id: '0x90a6252b197f637d'
+    RistMine:
+      coord: [4579.9395, -181.29901, 2143.2786]
+      text: Rist Mine
+      hash_id: '0xa8d3c6231716727f'
+    RistMineNear:
+      coord: [4589.8853, -181.29901, 2077.7085]
+      text: Rist Mine Near
+      hash_id: '0xd66d823c03dda4c6'
+    PloymusCanyonMine:
+      coord: [3780.8564, -930.7666, 504.0714]
+      text: Ploymus Canyon Mine
+      hash_id: '0xeaab2f5b2e9584bf'
+    WalnotCanyonMine:
+      coord: [4222.83, -698.3811, -1911.8334]
+      text: Walnot Canyon Mine
+      hash_id: '0x16f1fc84fb2250da'
+    UlriCanyonMine:
+      coord: [3682.9514, -554.4607, 2043.7223]
+      text: Ulri Canyon Mine
+      hash_id: '0xb818d09c41140d7e'
+    DavalCanyonMine:
+      coord: [-1390.6173, -811.9657, -3603.8623]
+      text: Daval Canyon Mine
+      hash_id: '0x2e9226089109a82a'
+    GranajhCanyonMine:
+      coord: [-1380.501, -846.77264, -3363.4607]
+      text: Granajh Canyon Mine
+      hash_id: '0x35042295fcd0a911'
+    EbonCanyonMine:
+      coord: [3328.7153, -671.6073, -2513.8555]
+      text: Ebon Canyon Mine
+      hash_id: '0x8411e5aab0b77aca'
+    DrenaCanyonMine:
+      coord: [-561.29395, -738.1673, 2583.9307]
+      text: Drena Canyon Mine
+      hash_id: '0x81014b423851c222'
+    MadornaCanyonMine:
+      coord: [3888.8225, -759.907, -1668.4602]
+      text: Madorna Canyon Mine
+      hash_id: '0xb2b8861321553b5b'
+    GustafCanyonMine:
+      coord: [-962.3762, -487.97125, 210.05063]
+      text: Gustaf Canyon Mine
+      hash_id: '0xc2bcc2dbf12a7a69'
+    DesertColiseum:
+      coord: [-4314.001, -256.15167, -3802.0674]
+      text: Desert Coliseum
+      hash_id: '0x869fa8fbd5230449'
+    DesertColiseumNear:
+      coord: [-4313.4224, -257.53314, -3849.5664]
+      text: Desert Coliseum Near
+      hash_id: '0xc76601051462d069'
+    TaranCanyonMine:
+      coord: [2500.4915, -627.5709, -2672.8723]
+      text: Taran Canyon Mine
+      hash_id: '0x7880b249ae71995b'
+    DuelingCanyonsMineNear:
+      coord: [1294.5271, -580.1859, -1850.0632]
+      text: Dueling Canyons Mine Near
+      hash_id: '0x37ac62598362c416'
+    DuelingCanyonsMine:
+      coord: [1291.7009, -657.24817, -1824.4067]
+      text: Dueling Canyons Mine
+      hash_id: '0x90526fd71a8b819a'
+    ConstructFactory:
+      coord: [868.6846, -465.19604, -2174.232]
+      text: Construct Factory
+      hash_id: '0x0f9ae0d08af0232e'
+    LeftArmDepot:
+      coord: [706.11255, -418.5629, -2431.6738]
+      text: Left-Arm Depot
+      hash_id: '0xaa61860b386f1d31'
+    LeftLegDepot:
+      coord: [1016.37054, -427.776, -2292.6355]
+      text: Left-Leg Depot
+      hash_id: '0x465cbf5becab44b2'
+    RightArmDepot:
+      coord: [569.0836, -403.40247, -2111.5532]
+      text: Right-Arm Depot
+      hash_id: '0xf28d9ce8464e3626'
+    RightLegDepot:
+      coord: [1143.6384, -334.58038, -2116.5522]
+      text: Right-Leg Depot
+      hash_id: '0x3a88b3ab3d74561e'
+    GoflamsLavafallsNear:
+      coord: [-3398.8882, -704.6223, 3612]
+      text: Goflam's Lavafalls Near
+      hash_id: '0x1f988c60775a9196'
+    GoflamsLavafalls:
+      coord: [-3399.8542, -706.0044, 3575]
+      text: Goflam's Lavafalls
+      hash_id: '0x24c039b0cb6dfda5'
+    MedaLavafalls:
+      coord: [2253, -450, -2366]
+      text: Meda Lavafalls
+      hash_id: '0x6f57ff3feefeb5c6'
+    MedaLavafallsNear:
+      coord: [2234, -450.51, -2340]
+      text: Meda Lavafalls Near
+      hash_id: '0xd63e86067490a8f2'
+    SherfinsLavafalls:
+      coord: [-4342.7637, -815.11957, 3465.2197]
+      text: Sherfin's Lavafalls
+      hash_id: '0x11c9fbfbb0edaaa8'
+    SturnidaLavafalls:
+      coord: [-4083.8726, -457.62054, 2714.6814]
+      text: Sturnida Lavafalls
+      hash_id: '0x4adb5eda4150cead'
+    DaliteGrove:
+      coord: [-2119.9312, -339.13434, -1088.7832]
+      text: Dalite Grove
+      hash_id: '0xcaba554cae3b1279'
+    GinnerGrove:
+      coord: [3219.906, -489.19806, -2056.6765]
+      text: Ginner Grove
+      hash_id: '0x49587f0c1740e715'
+    BubingaGrove:
+      coord: [2019.7175, -495.8176, -2102.2988]
+      text: Bubinga Grove
+      hash_id: '0x5018b0bd9525627c'
+    RetsamGrove:
+      coord: [3832.0847, -352.72247, -2027.6825]
+      text: Retsam Grove
+      hash_id: '0xcd39b86f31d92231'
+    GroveofSpirits:
+      coord: [-945.2036, -564.20056, -1680.3839]
+      text: Grove of Spirits
+      hash_id: '0x95c4ccc2282bff97'
+    RokGrove:
+      coord: [3358.719, -499.19855, 3079.2803]
+      text: Rok Grove
+      hash_id: '0x20344da88180356f'
+    MinshiGrove:
+      coord: [1042.214, -527.1543, 1544.4504]
+      text: Minshi Grove
+      hash_id: '0x8295ab99c89a37da'
+    KorokGrove:
+      coord: [405.6769, -454.68524, 2100]
+      text: Korok Grove
+      hash_id: '0xf03b7dd8bbee9e17'
+    MidlaGrove:
+      coord: [3114.3066, -467.28464, -2187.1416]
+      text: Midla Grove
+      hash_id: '0x11a89daef7f66517'
+    PappettoGrove:
+      coord: [-343.4563, -469.14627, -3539.607]
+      text: Pappetto Grove
+      hash_id: '0x71f4f038cfe50801'
+    AppleanGrove:
+      coord: [553.4682, -504.82877, 259.8237]
+      text: Applean Grove
+      hash_id: '0x8bb6e244c3d3ef5d'
+    HickalyGrove:
+      coord: [1943.2024, -489.57153, -2391.839]
+      text: Hickaly Grove
+      hash_id: '0x938fd4a9f29fd588'
+    GiantsGrove:
+      coord: [-1165.3845, -496.36102, -151.71701]
+      text: Giant's Grove
+      hash_id: '0xedad93d58cf571e0'
+    TabahlGrove:
+      coord: [2618.5151, -525.6222, 171.5556]
+      text: Tabahl Grove
+      hash_id: '0x92e8c4c8f6cb832c'
+    GroveofTime:
+      coord: [-383.36493, -410.20392, -1544.1213]
+      text: Grove of Time
+      hash_id: '0xd90d8a1d1a72cc7b'
+    PlainsBargainerStatueNear:
+      coord: [455.98837, -351.11115, -830.9155]
+      text: Plains Bargainer Statue Near
+      hash_id: '0x2a5bca535a7b0df7'
+    PlainsBargainerStatue:
+      coord: [457.06128, -338.70328, -807.1681]
+      text: Plains Bargainer Statue
+      hash_id: '0x3b60c1d8a98ca507'
+    GreatAbandonedCentralMine:
+      coord: [-730.7637, -299.08865, -1861.1469]
+      text: Great Abandoned Central Mine
+      hash_id: '0xaa337c38a2499e70'
+    GreatAbandonedCentralMineFarthest:
+      coord: [-856.54443, -329.76785, -1715]
+      text: Great Abandoned Central Mine Farthest
+      hash_id: '0xc09241fd803b37b3'
+    GreatAbandonedCentralMineFar:
+      coord: [-734.5423, -320.653, -1701.1278]
+      text: Great Abandoned Central Mine Far
+      hash_id: '0xd43368c2b167c0a9'
+    GreatAbandonedCentralMineNear:
+      coord: [-732.69824, -353.51144, -1829.0629]
+      text: Great Abandoned Central Mine Near
+      hash_id: '0xf603241924c61bb8'
+    AkkalaHouseofBonesNear:
+      coord: [3253.873, -214.27295, 3493.0627]
+      text: Akkala House of Bones Near
+      hash_id: '0xcc0ecc663f24fa96'
+    AkkalaHouseofBones:
+      coord: [3253.963, -214.27295, 3458.825]
+      text: Akkala House of Bones
+      hash_id: '0xdb40a73e6f414c0f'
+    AbandonedGerudoMine:
+      coord: [-3815.9082, -277.0645, -2889.5166]
+      text: Abandoned Gerudo Mine
+      hash_id: '0x0a434a89881fda25'
+    AbandonedGerudoMineFar:
+      coord: [-3807.3325, -283.52515, -2786.23]
+      text: Abandoned Gerudo Mine Far
+      hash_id: '0x2c05346e2052b476'
+    AbandonedGerudoMineFarthest:
+      coord: [-3834.433, -386.52332, -2719.5264]
+      text: Abandoned Gerudo Mine Farthest
+      hash_id: '0xc5d1f4465285d246'
+    AbandonedGerudoMineNear:
+      coord: [-3806.952, -276.52063, -2885.2441]
+      text: Abandoned Gerudo Mine Near
+      hash_id: '0xf95631b9234abf9e'
+    GerudoDarkSkeleton:
+      coord: [-4619.013, -424.4135, -3684.9473]
+      text: Gerudo Dark Skeleton
+      hash_id: '0xe64313158e872c89'
+    AbandonedEldinMine:
+      coord: [1649.1343, -643.67694, 2363.8667]
+      text: Abandoned Eldin Mine
+      hash_id: '0x2bf7ad57c14fd734'
+    AbandonedEldinMineFar:
+      coord: [1642.1858, -634.6726, 2295.2893]
+      text: Abandoned Eldin Mine Far
+      hash_id: '0x84e26769b36c69e3'
+    AbandonedEldinMineNear:
+      coord: [1637.4623, -637.45624, 2345.8723]
+      text: Abandoned Eldin Mine Near
+      hash_id: '0xd0d8745c1c53ec4b'
+    AbandonedEldinMineFarthest:
+      coord: [1684.5889, -646.07007, 2052.2373]
+      text: Abandoned Eldin Mine Farthest
+      hash_id: '0xdbbfbf313b522fa5'
+    AbandonedHatenoMineNear:
+      coord: [3548.3176, -379.6405, -2228.4568]
+      text: Abandoned Hateno Mine Near
+      hash_id: '0x288a906bed3a243d'
+    AbandonedHatenoMine:
+      coord: [3548.6086, -371.72385, -2237.1902]
+      text: Abandoned Hateno Mine
+      hash_id: '0xcb943c4956ca1dcb'
+    AbandonedHatenoMineFar:
+      coord: [3581.1826, -390.97845, -2387.5012]
+      text: Abandoned Hateno Mine Far
+      hash_id: '0xe47f7a532eca53e4'
+    AbandonedHatenoMineFarthest:
+      coord: [3555.0254, -351.6941, -2509.5125]
+      text: Abandoned Hateno Mine Farthest
+      hash_id: '0xf894ea0405a5e85a'
+    HebraDarkSkeleton:
+      coord: [-3850.5298, -835.4458, 3635.7146]
+      text: Hebra Dark Skeleton
+      hash_id: '0x0e1cfd617e900873'
+    AbandonedKakarikoMineFar:
+      coord: [1818.7472, -460.92764, -1299.0657]
+      text: Abandoned Kakariko Mine Far
+      hash_id: '0x1601d57e964fe5d0'
+    AbandonedKakarikoMine:
+      coord: [1823.9197, -416.60977, -1197.8562]
+      text: Abandoned Kakariko Mine
+      hash_id: '0x59896df1707a81f8'
+    AbandonedKakarikoMineNear:
+      coord: [1828.0233, -416.83322, -1229.9459]
+      text: Abandoned Kakariko Mine Near
+      hash_id: '0x9a2c31cc816f6c8c'
+    AbandonedKakarikoMineFarthest:
+      coord: [1816.765, -455.5078, -1406.1343]
+      text: Abandoned Kakariko Mine Farthest
+      hash_id: '0x9e77c70c8cb88391'
+    CliffBargainerStatue:
+      coord: [-1034.0446, -132.37889, 2679.1396]
+      text: Cliff Bargainer Statue
+      hash_id: '0xca6e02a9e4c7f39a'
+    CliffBargainerStatueNear:
+      coord: [-1026.3228, -266.87436, 2660.6597]
+      text: Cliff Bargainer Statue Near
+      hash_id: '0xce90947d6b06f2ee'
+    AbandonedKaraKaraMineFar:
+      coord: [-3171.493, -369.97595, -2311.0361]
+      text: Abandoned Kara Kara Mine Far
+      hash_id: '0x500a9569d581164e'
+    AbandonedKaraKaraMineNear:
+      coord: [-3218.258, -317.1995, -2426.706]
+      text: Abandoned Kara Kara Mine Near
+      hash_id: '0x730e956124511d83'
+    AbandonedKaraKaraMineFarthest:
+      coord: [-3094.2095, -338.89807, -1987.8835]
+      text: Abandoned Kara Kara Mine Farthest
+      hash_id: '0xd8f2e9df7b147f06'
+    AbandonedKaraKaraMine:
+      coord: [-3226.562, -292.873, -2462.621]
+      text: Abandoned Kara Kara Mine
+      hash_id: '0xf1291b244f913a2c'
+    EldinDarkSkeleton:
+      coord: [1518.0557, -563.03485, 3707.104]
+      text: Eldin Dark Skeleton
+      hash_id: '0xd8f13956ccbcec2c'
+    BlupeeBurrow:
+      coord: [-2288.0127, -788.07495, -367.0058]
+      text: Blupee Burrow
+      hash_id: '0x705ca3ef417c3e49'
+    AbandonedHebraMine:
+      coord: [-3457.4038, -210.16122, 1862.2012]
+      text: Abandoned Hebra Mine
+      hash_id: '0x34ec421c0a21b882'
+    AbandonedHebraMineFarthest:
+      coord: [-3467.7947, -275.7707, 2167.8032]
+      text: Abandoned Hebra Mine Farthest
+      hash_id: '0xb7c21fab35e0e697'
+    AbandonedHebraMineFar:
+      coord: [-3479.3184, -291.91956, 2079.5723]
+      text: Abandoned Hebra Mine Far
+      hash_id: '0xeaa415c9f490e4e8'
+    AbandonedHebraMineNear:
+      coord: [-3460.7478, -211.61789, 1852.8569]
+      text: Abandoned Hebra Mine Near
+      hash_id: '0xee6044bcbbc0bfe0'
+    AbandonedLurelinMineFarthest:
+      coord: [2966.978, -200, -3605.9216]
+      text: Abandoned Lurelin Mine Farthest
+      hash_id: '0x496d68a2a6571d98'
+    AbandonedLurelinMineFar:
+      coord: [2964.5413, -247.9813, -3479.959]
+      text: Abandoned Lurelin Mine Far
+      hash_id: '0xa3b235809b417b83'
+    AbandonedLurelinMine:
+      coord: [2899.822, -239.45563, -3388.3206]
+      text: Abandoned Lurelin Mine
+      hash_id: '0xcc4da3988b111013'
+    AbandonedLurelinMineNear:
+      coord: [2902.3687, -244.23036, -3422.9097]
+      text: Abandoned Lurelin Mine Near
+      hash_id: '0xeacf4ff18a9dcaa2'
+    AbandonedTarreyMineFarthest:
+      coord: [3968.7969, -200, 1715.3091]
+      text: Abandoned Tarrey Mine Farthest
+      hash_id: '0x005e8f41b0b7b603'
+    AbandonedTarreyMineFar:
+      coord: [3966.2861, -200, 1722.29]
+      text: Abandoned Tarrey Mine Far
+      hash_id: '0x3219d7e15be69b4a'
+    AbandonedTarreyMine:
+      coord: [3966.72, -448.0093, 1618.9353]
+      text: Abandoned Tarrey Mine
+      hash_id: '0x8db8758c0fe56071'
+    AbandonedTarreyMineNear:
+      coord: [3967.4404, -448.59497, 1627.7559]
+      text: Abandoned Tarrey Mine Near
+      hash_id: '0xd8b5640a3436ae95'
+    AbandonedLanayruMineFarthest:
+      coord: [3170.4575, -571.2809, 935.9246]
+      text: Abandoned Lanayru Mine Farthest
+      hash_id: '0x89db9ec9b6a9cb2e'
+    AbandonedLanayruMineNear:
+      coord: [3302.3877, -373.07755, 611.3874]
+      text: Abandoned Lanayru Mine Near
+      hash_id: '0xaa4463cfbce02ccc'
+    AbandonedLanayruMine:
+      coord: [3295.016, -488.61835, 577.84125]
+      text: Abandoned Lanayru Mine
+      hash_id: '0xaefe6e78cd6c899a'
+    AbandonedLanayruMineFar:
+      coord: [3293.8198, -373.07755, 719.36035]
+      text: Abandoned Lanayru Mine Far
+      hash_id: '0xd15729a27a7fee66'

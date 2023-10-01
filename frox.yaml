@@ -1,0 +1,206 @@
+icons:
+  ememy:
+    use: ./enemy.png
+presets:
+  _Enemy:
+    Frox:
+      DH04:
+        coord: [-4398.36, -561.1, 2661.05]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1449919ef9ea35da'
+      DG01:
+        coord: [-4695.84, -833.85, -1228.42]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xabc6516153d98e04'
+      DG04:
+        coord: [-4094.03, -385, -2554.79]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1533bc90305784b7'
+      DG10:
+        coord: [-4674.43, -362.55, -3502.28]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc7f15bce344c5a2c'
+      DH03:
+        coord: [-3191.13, -782.15, 2670.53]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x8043305c24997138'
+      DH07:
+        coord: [-3719.18, -445.35, 1002.75]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x894c856e492d8a88'
+      DH08:
+        coord: [-3890.91, -467.44, 560.14]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc03ac7b7e44636c7'
+      DG02:
+        coord: [-3627.56, -698.73, -1548.83]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xea8019cd40802a86'
+      DG08:
+        coord: [-3428.3, -361.99, -3228.98]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3e0db8e966784601'
+      DH06:
+        coord: [-2280.31, -606.88, 1933.56]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x89c6c19221fef5d4'
+      DC04:
+        coord: [-2248.71, -443.48, 451.18]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x5c8608f55e49be36'
+      DG03:
+        coord: [-2252.92, -477.77, -1975.24]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x26b7746911947d00'
+      DG06:
+        coord: [-2998.11, -357.36, -2680.18]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x9f163f80aa6e7605'
+      DG09:
+        coord: [-2770.76, -335.8, -3329.55]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa901e7ccc8be872d'
+      DG07:
+        coord: [-2439.35, -368.77, -3123.45]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x88a425e8d5ca3740'
+      DH01:
+        coord: [-1779.63, -571.49, 3657.96]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x656eef8424f44012'
+      DH02:
+        coord: [-960.1, -513.51, 2852.44]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x47a68d1349cb33f4'
+      DH05:
+        coord: [-1839.02, -570.72, 2413.44]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x85311c0e16cc7f35'
+      DC01:
+        coord: [-1339.56, -435.09, 972.64]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x84518d5ca07602a3'
+      DC07:
+        coord: [-1619.07, -393.14, -395.15]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb9b2e4ab94acb37a'
+      DG05:
+        coord: [-1909.97, -483.71, -2608.05]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x998fb1829c77783f'
+      DE02:
+        coord: [-190.07, -510.86, 2937.95]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x0e65fb5a46146e24'
+      DE04:
+        coord: [-875.31, -439.93, 1742.17]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x088ef8a36588c102'
+      DC03:
+        coord: [-764.42, -359.45, 833.22]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xab9baf8f0d6bbe70'
+      DC05:
+        coord: [-571.5, -358.61, 222.5]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x1b76b5d289c2d43b'
+      DC10:
+        coord: [-293.3, -355.53, -1813.55]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xad790d082dec37e4'
+      DC09:
+        coord: [-794.37, -363.89, -1088.92]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x8f556340093c7d60'
+      DF01:
+        coord: [-845.63, -409.58, -2867.85]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x844dbc463446497b'
+      DF02:
+        coord: [-325.07, -360.04, -3141.81]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb3fbad88e23fb180'
+      DE01:
+        coord: [551.93, -485.95, 3439.71]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x4eb2212aea8e1e8d'
+      DC02:
+        coord: [204.02, -366.99, 890.5]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xae54f884ef59deb1'
+      DC08:
+        coord: [176.5, -371.01, -862.5]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa9305156d60a6b06'
+      DF03:
+        coord: [844.96, -369.68, -3388.04]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xaa062c9e7d5c471d'
+      DC06:
+        coord: [1069.44, -360.31, -40.94]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3a9226b500541507'
+      DE03:
+        coord: [2119.38, -648.55, 1749.79]
+        text: Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x3cb45e0bdc011136'
+      DA03:
+        coord: [2490.97, -394.67, 841.89]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xe709820b7209007d'
+      DL02:
+        coord: [2126.56, -341.86, -3473.63]
+        text: Blue-White Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xb4abde0a208b1488'
+      DL01:
+        coord: [3035.56, -407.2, -798.21]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0x9f0a8dac8deaf737'
+      DA01:
+        coord: [4028.19, -363.63, 2187.6]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xa25610411bfaa585'
+      DA02:
+        coord: [4142.49, -579.64, 1002.47]
+        text: Obsidian Frox
+        icon: {doc: enemy, map: enemy, priority: 1}
+        hash_id: '0xc007ce31d3619ff4'
