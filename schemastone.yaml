@@ -1,0 +1,77 @@
+icons:
+  schemastone:
+    use: ./schemastone.png
+presets:
+  _SchemaStone:
+    Josha:
+      coord: [-238.97, 132.32, 147.92]
+      text: Josha
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_BaseCamp_Assistant
+      hash_id: '0x41b91c5aeed832f4'
+    HebraMine:
+      coord: [-3480.97, -311.71, 1884.26]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0025
+      hash_id: '0xcd6f95b9d4cf6bf7'
+    GerudoMine:
+      coord: [-3848.86, -382.57, -2945.48]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0022
+      hash_id: '0x79c12359dc33a43b'
+    KaraKaraMine:
+      coord: [-3207.99, -370.17, -2472.19]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0003
+      hash_id: '0x6e8b8b779585133b'
+    CentralMine:
+      coord: [-812.74, -417.83, -1956.28]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0021
+      hash_id: '0xff512360e4d483fd'
+    EldinMine:
+      coord: [1639.75, -718.8, 2395.51]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0006
+      hash_id: '0x549249cd3b45eaa0'
+    KakarikoMine:
+      coord: [1795.7, -523.91, -1229.32]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0008
+      hash_id: '0x6d7fc79fed360a5b'
+    LurelinMine:
+      coord: [2945.76, -348.38, -3339.68]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0010
+      hash_id: '0x52ac5f4240fb40c1'
+    TarreyMine:
+      coord: [3987.67, -471.05, 1580.83]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0007
+      hash_id: '0xcddf6a9eee69c07f'
+    LanayruMine:
+      coord: [3256.12, -645.15, 594.22]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0024
+      hash_id: '0xff85c7e22c47432d'
+    HatenoMine:
+      coord: [3561.93, -482.69, -2207.73]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_Minus0009
+      hash_id: '0xb09285f90ca0c4c8'
+    ShrineOfResurrection:
+      coord: [-1120.88, 207.27, -1901.36]
+      text: Steward Construct
+      icon: {doc: schemastone, map: schemastone, priority: 1}
+      comment: Npc_Zonau_Golem_Servant_MainField0001
+      hash_id: '0xb6748bd6f29f48f1'
